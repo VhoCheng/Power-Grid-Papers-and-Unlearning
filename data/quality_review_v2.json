@@ -1,0 +1,66 @@
+{
+  "date": "2026-11-02",
+  "version": 2,
+  "main_records": 194,
+  "topic_references": 7,
+  "independent_reviews": [
+    {
+      "scope": "109条新增文献的遗忘判定",
+      "result": "未发现应升级为直接电网×机器遗忘命中的候选；联邦学习、知识编辑、攻击反制与普通适应已区分",
+      "level": "88条编目摘要逻辑复核，21条原始摘要/导语复核；非全量全文审查"
+    },
+    {
+      "scope": "53条Nature Communications新增",
+      "result": "7个原始页面重点复查，跨年日期正确；2条early-online状态已补充，issue_year设为null"
+    },
+    {
+      "scope": "85条基线、109新增和1新增专题参照",
+      "result": "无重复DOI/题名、无缺摘要、无超出时间窗日期；已补齐默认字段并保留月精度日期"
+    },
+    {
+      "scope": "最终README与docs",
+      "result": "数量与导航一致；机构说明、导语与正式摘要分开标注"
+    }
+  ],
+  "corrections_applied": [
+    {
+      "dois": [
+        "10.1038/s41467-026-78711-6",
+        "10.1038/s41467-026-78319-w"
+      ],
+      "action": "保留提前在线日期；标记Accepted Article、正式版本待发；卷期未核实"
+    },
+    {
+      "doi": "10.1038/s41558-025-02276-3",
+      "action": "补充后续方法争议及美国案例边界；不误称撤稿"
+    },
+    {
+      "doi": "10.1016/j.joule.2026.102647",
+      "action": "标为作者机构内容说明，非正式研究摘要"
+    },
+    {
+      "ids": [
+        "P043",
+        "P045",
+        "P047"
+      ],
+      "action": "导语或机构摘要使用中性内容概述标签，不统一冒称出版社正式摘要"
+    }
+  ],
+  "validation": {
+    "unique_doi_and_id": true,
+    "required_metadata": true,
+    "dates_in_window": true,
+    "all_201_summaries_inline_once": true,
+    "no_collapsed_abstracts": true,
+    "csv_matches_json": true,
+    "xlsx_matches_json": true,
+    "local_links_and_anchors": true,
+    "gfm_parse": {
+      "h2": 5,
+      "h3": 12,
+      "paper_summaries": 201
+    }
+  },
+  "limitations": "未作全库穷尽检索，未逐页通读全部全文。"
+}

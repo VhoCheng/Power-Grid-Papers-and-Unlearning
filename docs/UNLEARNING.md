@@ -13,7 +13,15 @@
 
 直接命中至少需要：明确的遗忘对象；清除已学习影响的训练/参数机制；删除有效性与保留能力评价。若仅包含联邦学习、隐私保护、分布漂移适应、RAG文档删除或一般在线更新，则标记为邻近，不自动视为遗忘。
 
-## 已有邻近与范围外证据
+## 本轮补检说明
+
+新增条目继续按题目、公开摘要或导语筛查。智能电表联邦拆分学习、边缘充电协同、图强化学习恢复、虚假数据攻击反制均未在所读文本中定义定向删除已学习影响的目标。2026年新增NMI知识编辑观点仅属邻近方法参照，不作为电网遗忘命中。
+
+**准确的结论是“本次范围内尚未确认”，而非“这些期刊绝对没有”。** 并未逐页通读全部全文；未公开的算法细节、不同术语以及索引滞后仍会影响检出。IEEE TII充电论文的一手摘要尚受访问限制，2026年Zenodo负荷预测联邦遗忘线索仅确认为软件复现包，均保留待核验。
+
+## 已有直接研究与邻近参照
+
+以下7条独立于电网主目录计数；其中含专业期刊、会议及非电网方法文献。
 
 <a id="U01"></a>
 ### U01 · Task-Aware Machine Unlearning and Its Application in Load Forecasting
@@ -26,9 +34,9 @@
 
 **遗忘筛查：** 直接相关。已训练负荷预测器；指定数据遗忘；下游电力调度成本评价。属于电网×机器遗忘，但不在本次大子刊名单。
 
-**核验：** IEEE官网完整摘要、在线日期、DOI已核验。日期口径：在线发表日期。
+**核验：** IEEE官网完整摘要、在线日期、DOI已核验。日期口径：在线发表日期；卷期年份：2024。
 
-[论文与原始摘要](https://ieeexplore.ieee.org/abstract/document/10472091) · [DOI](https://doi.org/10.1109/TPWRS.2024.3376828)
+[论文与来源](https://ieeexplore.ieee.org/abstract/document/10472091) · [DOI](https://doi.org/10.1109/TPWRS.2024.3376828) · [补充来源1](https://arxiv.org/abs/2308.14412) · [补充来源2](https://github.com/xuwkk/task_aware_machine_unlearning)
 
 <a id="U02"></a>
 ### U02 · A SISA-based Machine Unlearning Framework for Power Transformer Inter-Turn Short-Circuit Fault Localization
@@ -41,9 +49,9 @@
 
 **遗忘筛查：** 直接相关。删除污染诊断数据对模型的影响；是电力设备故障定位。会议论文，不属于目标期刊；arXiv初稿日期2026-03-07。
 
-**核验：** 作者机构INL记录及arXiv作者论文摘要交叉核验。日期口径：在线发表日期。
+**核验：** 作者机构INL记录及arXiv作者论文摘要交叉核验。日期口径：在线发表日期；卷期年份：2026。
 
-[论文与原始摘要](https://inl.elsevierpure.com/en/publications/a-sisa-based-machine-unlearning-framework-for-power-transformer-i/) · [DOI](https://doi.org/10.1109/PESGM58988.2026.11693380)
+[论文与来源](https://inl.elsevierpure.com/en/publications/a-sisa-based-machine-unlearning-framework-for-power-transformer-i/) · [DOI](https://doi.org/10.1109/PESGM58988.2026.11693380) · [补充来源1](https://arxiv.org/abs/2603.06962)
 
 <a id="U03"></a>
 ### U03 · A survey of machine unlearning for electric power systems: From privacy compliance to resilient grid operations
@@ -56,9 +64,9 @@
 
 **遗忘筛查：** 直接相关。综述对象明确是电力系统机器遗忘；Array不属于目标Nature/Science/Cell子刊。
 
-**核验：** 出版商搜索索引提供题目、期刊、卷期、DOI和完整摘要；页面直接打开403。日期口径：官网检索记录为2026年9月卷31；精确在线发表日期未核验，不能以9月1日代填。。
+**核验：** 出版商搜索索引提供题目、期刊、卷期、DOI和完整摘要；页面直接打开403。日期口径：官网检索记录为2026年9月卷31；精确在线发表日期未核验，不能以9月1日代填。；卷期年份：2026。
 
-[论文与原始摘要](https://www.sciencedirect.com/science/article/pii/S2590005626003103) · [DOI](https://doi.org/10.1016/j.array.2026.100987)
+[论文与来源](https://www.sciencedirect.com/science/article/pii/S2590005626003103) · [DOI](https://doi.org/10.1016/j.array.2026.100987) · [补充来源1](https://doi.org/10.1016/j.array.2026.100987)
 
 <a id="U04"></a>
 ### U04 · Rethinking machine unlearning for large language models
@@ -71,9 +79,9 @@
 
 **遗忘筛查：** 直接相关。直接研究机器遗忘，但非电网应用；仅可作为方法论文参考，不能计入电网交叉命中。
 
-**核验：** 期刊官网完整摘要与在线日期已核验。日期口径：在线发表日期。
+**核验：** 期刊官网完整摘要与在线日期已核验。日期口径：在线发表日期；卷期年份：2025。
 
-[论文与原始摘要](https://www.nature.com/articles/s42256-025-00985-0) · [DOI](https://doi.org/10.1038/s42256-025-00985-0)
+[论文与来源](https://www.nature.com/articles/s42256-025-00985-0) · [DOI](https://doi.org/10.1038/s42256-025-00985-0)
 
 <a id="U05"></a>
 ### U05 · Mitigating algorithmic unfairness arising from forgetfulness of medical records in clinical artificial intelligence
@@ -86,9 +94,9 @@
 
 **遗忘筛查：** 直接相关。机器遗忘原创研究，但对象是医疗记录而非电网。
 
-**核验：** 期刊官网搜索索引完整摘要与日期已核验。日期口径：在线发表日期。
+**核验：** 期刊官网搜索索引完整摘要与日期已核验。日期口径：在线发表日期；卷期年份：2026。
 
-[论文与原始摘要](https://www.nature.com/articles/s41467-026-72601-7) · [DOI](https://doi.org/10.1038/s41467-026-72601-7)
+[论文与来源](https://www.nature.com/articles/s41467-026-72601-7) · [DOI](https://doi.org/10.1038/s41467-026-72601-7)
 
 <a id="U06"></a>
 ### U06 · Superior resilience to poisoning and amenability to unlearning in quantum machine learning
@@ -101,31 +109,33 @@
 
 **遗忘筛查：** 直接相关。直接研究机器遗忘，但不是电网问题；量子模型的能量等术语不能据此归为电网。
 
-**核验：** 期刊官网完整摘要及方法已核验；2026-03-09早期在线，2026-04-23正式版本。日期口径：在线发表日期。
+**核验：** 期刊官网完整摘要及方法已核验；2026-03-09早期在线，2026-04-23正式版本。日期口径：在线发表日期；卷期年份：2026。
 
-[论文与原始摘要](https://www.nature.com/articles/s41467-026-70420-4) · [DOI](https://doi.org/10.1038/s41467-026-70420-4)
+[论文与来源](https://www.nature.com/articles/s41467-026-70420-4) · [DOI](https://doi.org/10.1038/s41467-026-70420-4)
 
+<a id="U07"></a>
+### U07 · Towards principled knowledge editing methods for large language model reasoning
 
-## 待补查，不计入核验数
+**期刊：** Nature Machine Intelligence ｜ **年份：** 2026 ｜ **日期：** 2026-08-14 ｜ **类型：** Perspective
 
-- [Learning and Unlearning to Operate Profitable Secure Electric Vehicle Charging](https://ieeexplore.ieee.org/document/10541863)（IEEE Transactions on Industrial Informatics，2024；DOI：10.1109/TII.2024.3396524）。作者实验室页面确认题目与刊期；IEEE页面机器人验证，未直接核验原始摘要与在线日期。仅留作补查线索，不用于严格核验文献数。
+**归类：** 非电网邻近方法参照 ｜ **电网关联：** 非电网邻近方法参照
 
-## 常见误命中
+**摘要（中文概述）：** 讨论无需完整重训的大语言模型知识更新，指出把事实视为可独立编辑的模块会忽视知识之间的依赖关系，破坏多步推理与因果一致性。文章提出围绕演绎闭包回路、模型信念和置信度、情境化复杂知识开展编辑的研究方向，为持续知识适应提供原则性框架，但并不专门解决电网应用或可验证的数据遗忘。
 
-- [A conceptual analysis of gendered energy care work and epistemic injustice through a case study of Zanzibar’s Solar Mamas](https://www.nature.com/articles/s41560-024-01539-1)：Nature Energy 2024含unlearning，但指改变性别化社会规范，不是机器遗忘。
-- [Federated asynchronous graph attention network with structural semantic embedding for multi-label graph classification](https://www.nature.com/articles/s41598-025-22500-6)：Scientific Reports；电网作者单位和参考文献中federated unlearning不足以证明本文研究电网遗忘。
-- [Data-driven and privacy-preserving risk assessment method based on federated learning for smart grids](https://www.nature.com/articles/s44172-024-00300-6)：电网隐私保护联邦学习，但没有撤回已训练贡献的机制。
+**遗忘筛查：** 邻近但非遗忘。知识编辑可与知识撤回交叉，但本文主要研究推理一致的知识更新；不能等同于机器遗忘，也未涉及电网。
 
-## 下一步研究方向（调研推论）
+**核验：** 期刊官网摘要、类型、日期与DOI已核验。日期口径：在线发表日期；卷期年份：2026。
 
-以下是本次文献交叉阅读形成的研究建议，尚不能视为已证实的新颖性：
+[论文与来源](https://www.nature.com/articles/s42256-026-01276-y) · [DOI](https://doi.org/10.1038/s42256-026-01276-y)
 
-1. **智能电表或联邦客户端撤回**：从预测模型中撤回客户历史贡献，同时约束负荷预测误差与下游调度成本；比较从头重训、SISA、影响函数或近似遗忘，并验证成员推断风险。
-2. **受污染PMU/SCADA与设备诊断数据删除**：污染被发现后快速修复模型；除遗忘与保留集指标，还应评价暂态误报、漏报、约束违背及闭环稳定性。
-3. **电网智能体的概念/知识撤回**：撤回过时规程、错误拓扑或危险操作知识，区分RAG库删文档与参数中知识擦除；测试提示改写后残留、重新学习、工具调用正确性及安全约束。
+## 待核验线索
 
-方法参照可从 [Rethinking machine unlearning for large language models](https://www.nature.com/articles/s42256-025-00985-0) 开始；电网应用评价应以已有IEEE负荷预测遗忘研究为基线，避免仅换数据集。
+- **Learning and Unlearning to Operate Profitable Secure Electric Vehicle Charging**：作者实验室主页已确认题名、期刊、卷20期9页11213–11223及2024年9月；IEEE页多次返回机器人验证，未取得可读的一手摘要。 二手索引显示机器遗忘用于PV/储能充电站，但本次不根据二手摘要直接写作已核实条目；保留待核验，不得据此声称电网×遗忘仅有已收录的三篇。 [来源](https://sites.google.com/view/epssg/publications)
 
-## 两篇Joule邻近论文的全文补核
+- **Replication Package for "Sequential Federated Unlearning for Distributed Electricity Load Forecasting: Utility versus Retraining Fidelity"**：作者发布的Zenodo软件复现包已读取，类型Software；页面未列期刊、论文DOI或正文摘要。 可作为2026新研究线索，不能将软件DOI冒充已发表期刊论文。 [来源](https://zenodo.org/records/21992940)
 
-电网基础模型与电力行业大语言模型两篇论文的作者全文版本已作词干搜索（unlearn / forget / delet / eras）及相关章节核对，未发现明确遗忘机制。其内容包括联邦学习、差分隐私、持续学习、RAG或训练前信息清理，均不能自动视为撤回既有学习影响。该核对不覆盖出版社最终版本全部内容及补充材料；细节、作者版本链接保存在data/unlearning_audit.json。
+## 可进一步研究的问题
+
+智能电表用户退出后的负荷预测遗忘、污染SCADA/PMU数据撤回后的运行安全、联邦模型客户端退出，以及电网基础模型中的设备或操作知识撤回，均可作为待验证方向。它们是调研提出的问题，不能从“未检出”直接推导新颖性。评估应同时关注删除效果、保留任务性能、物理约束及调度/可靠性代价。
+
+[研究方向数据](../data/research_directions.json) · [返回首页](../README.md)

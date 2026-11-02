@@ -1,31 +1,17 @@
-# 检索、筛查与局限
+# 检索策略与可复核性
 
-检索日期：2026年11月2日（Asia/Shanghai）。近三年按2024、2025、2026三个日历年处理，截止2026-11-02；不等于向前滚动36个月，也不覆盖尚未结束的2026全年。优先采用首次在线发表年份，个别Joule记录仅能核验卷期日/月，已逐条注明。
+窗口为2024-01-01—2026-11-02。关键词围绕 power grid、electricity system、transmission、distribution、power flow、stability、outage、load forecasting、demand response、vehicle-to-grid、storage、electricity market 和气候风险，结合期刊名、DOI前缀、年份及主题目录。
 
-本报告是可复核的专题文献目录，不是WoS/Scopus全量检索的系统综述。实际使用公开网页检索、期刊官网、出版社摘要与必要的作者机构记录交叉核验；Crossref直连受网络限制，本次不声称完成其全库补检。
+遗忘补检使用 machine unlearning、federated unlearning、data deletion、certified removal、client removal、selective forgetting、concept erasure、knowledge removal、knowledge editing 等词。知识编辑、持续学习与隐私保护仅用于扩大候选发现；最终按是否定向撤回已学影响判定。
 
-## 检索设计
+纳入证据优先级：出版社原始摘要/文章页面 > 作者机构存档或作者公开版本 > 仅索引线索。仅索引且无法确认摘要或截止日前发表的记录保留待查。评论没有正式摘要时，不虚构“原始摘要”。
 
-电网词组：power grid, power system, smart grid, electricity, transmission, distribution, stability, blackout, load forecasting, demand response, energy storage, vehicle-to-grid。按期刊及2024/2025/2026拆分检索，沿相关论文补查。
+- [第二轮检索日志](../data/search_log_v2.json)
+- [第一轮检索日志](../data/search_log.json)（历史记录，不是本轮新增量）
+- [逐刊逐年核查与边界](COVERAGE_AUDIT.md)
+- [遗忘专项证据](../data/unlearning_audit.json)
+- [待核验及日期限定](../data/pending_candidates.json)
 
-遗忘词组：machine unlearning, federated unlearning, selective forgetting, concept erasure, knowledge removal, data deletion, client removal, right to be forgotten。使用单词与电网词交叉检索，并检查能源社会研究等假阳性。实际执行查询保存在data/search_log.json；上述词表是检索设计，不表示穷举执行了所有笛卡尔组合。
+中文摘要是根据所读来源自行改写的内容概述，不是出版社授权译文或逐句翻译。正式研究、投稿与引用前应阅读原文及补充材料，并从DOI导出完整参考文献。
 
-## 记录与质量控制
-
-1. 候选记录依据原始期刊摘要判定电网关联；背景条目另标。
-2. 按DOI去重，记录标题、期刊、年份、日期及日期依据；DOI中的年份不直接视为发表年。
-3. 中文摘要由检索到的摘要或明确标注的文章概要改写，不是出版商英文摘要全文或逐字翻译。原始摘要通过链接读取。
-4. 每条遗忘判定保留证据层级；多数仅完成题名与公开摘要筛查，不声称对所有订阅正文作全文排除。
-5. 原创研究、Analysis、Review、Perspective、Commentary分开标注；同一论文的预印本不重复计数。
-6. 日期、必填字段、DOI唯一性、数据与目录计数、内部链接及输出文件结构执行本地校验。
-
-## 已知局限
-
-- 网页检索排序与索引覆盖有限，未检索到不等于不存在；尤其不能把当前数量当成各刊发文普查。
-- 2026年只到检索日；2023年的滚动窗口尾段未检索。
-- 部分Joule条目在线首发精确日期未核验，保留卷期时间或月份并注明；Array专题参照未核验精确在线日，留空。
-- 少数记录经出版商搜索索引或作者机构核验，证据来源与强度逐条注明。
-- 未系统覆盖Nature Physics、Nature Electronics、主刊、PNAS或所有Cell Press刊；不能将名单外的零检索等同于零论文。
-- 不分发论文PDF全文；链接的访问权限与版权由原出版方决定。
-
-另有1篇Joule风电系统综述已核到2025卷期但首次在线年份可能为2024，暂放data/pending_candidates.json，避免混淆在线年与卷期年；另1篇IEEE电动车遗忘论文摘要尚未核实。两者不计入85条主目录及6篇专题参照。
+[返回首页](../README.md)

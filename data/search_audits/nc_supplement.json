@@ -1,0 +1,70 @@
+{
+  "audit_date": "2026-11-02",
+  "scope": "Nature Communications 2024-01-01至2026-11-02需求侧、市场与微电网补检",
+  "queries": [
+    "site:nature.com/articles/s41467-024 \"demand response\"",
+    "site:nature.com/articles/s41467-025 \"demand response\"",
+    "site:nature.com/articles/s41467-026 \"electricity market\"",
+    "site:nature.com/articles/s41467-024 \"microgrid\"",
+    "site:nature.com/articles/s41467-024 \"electricity\" \"tariff\"",
+    "site:nature.com/articles/s41467-024 \"demand-side\"",
+    "site:nature.com/articles/s41467-024 \"power\" \"market\" -materials -catalyst",
+    "site:nature.com/articles/s41467-025 \"demand flexibility\""
+  ],
+  "opened_urls": [
+    "https://www.nature.com/articles/s41467-024-50762-7?error=cookies_not_supported",
+    "https://www.nature.com/articles/s41467-026-75433-7?error=cookies_not_supported",
+    "https://www.nature.com/articles/s41467-026-73559-2?error=cookies_not_supported",
+    "https://www.nature.com/articles/s41467-026-77773-w?error=cookies_not_supported",
+    "https://www.nature.com/articles/s41467-024-53644-0?error=cookies_not_supported",
+    "https://www.nature.com/articles/s41467-026-73630-y?error=cookies_not_supported",
+    "https://www.nature.com/articles/s41467-025-56365-0?error=cookies_not_supported"
+  ],
+  "additional_opened_urls": [
+    "https://www.nature.com/subjects/energy-and-behaviour/ncomms",
+    "https://www.nature.com/articles/s41467-023-41970-8"
+  ],
+  "added_count": 5,
+  "already_included": [
+    {
+      "doi": "10.1038/s41467-024-50762-7",
+      "status": "基线已含；原文重新读取，日期2024-08-06"
+    },
+    {
+      "doi": "10.1038/s41467-026-77773-w",
+      "status": "父代理证据库已有，避免重复"
+    }
+  ],
+  "excluded": [
+    {
+      "doi": "10.1038/s41467-023-41970-8",
+      "title": "Incentive based emergency demand response effectively reduces peak load during heatwave without harm to vulnerable groups",
+      "date": "2023-10-04",
+      "reason": "主题页与论文原文均确认2023年，时间窗外；不可因当前主题页仍展示而计入近三年。"
+    }
+  ],
+  "pending": [],
+  "corrections": [],
+  "per_journal_year_coverage": [
+    {
+      "journal": "Nature Communications",
+      "year": 2024,
+      "additions": 1
+    },
+    {
+      "journal": "Nature Communications",
+      "year": 2025,
+      "additions": 1
+    },
+    {
+      "journal": "Nature Communications",
+      "year": 2026,
+      "additions": 3
+    }
+  ],
+  "unlearning_conclusion": "5篇新增无机器遗忘直接命中；因果学习用于电价解释，不属于概念撤回。",
+  "limitations": [
+    "本轮仅是8个查询和需求行为主题页的补充查漏，不声称全量穷尽。",
+    "新增已与基线papers.json及父代理两份证据原始文件按DOI去重。"
+  ]
+}

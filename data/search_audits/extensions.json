@@ -1,0 +1,567 @@
+{
+  "audit_date": "2026-11-02",
+  "window": {
+    "start": "2024-01-01",
+    "end": "2026-11-02",
+    "basis": "优先在线发表日期，卷期年另存"
+  },
+  "journals": [
+    "Nature Machine Intelligence",
+    "Nature Computational Science",
+    "Communications Engineering",
+    "Nature Reviews Electrical Engineering",
+    "Nature Electronics",
+    "Nature Physics"
+  ],
+  "queries": [
+    "site:nature.com/articles/s42256 \"power\" \"2026\" grid",
+    "site:nature.com/articles/s43588 \"electricity\" 2024 2025 2026",
+    "site:nature.com/articles/s44172 \"grid\" \"2026\"",
+    "\"Learning and Unlearning to Operate Profitable Secure Electric Vehicle Charging\"",
+    "site:nature.com/articles/s42256 (\"electric grid\" OR \"power grid\" OR \"power systems\") after:2024-01-01 before:2026-11-03",
+    "site:nature.com/articles/s43588 (\"power grid\" OR \"power systems\" OR \"electricity\") after:2024-01-01 before:2026-11-03",
+    "site:nature.com/articles/s41928 (\"power grid\" OR \"microgrid\" OR \"electricity grid\") after:2024-01-01 before:2026-11-03",
+    "site:nature.com/articles/s41567 (\"power grid\" OR \"power grids\" OR \"electricity\") after:2024-01-01 before:2026-11-03",
+    "site:nature.com/articles/s44172 \"power\" \"2024\" grid",
+    "site:nature.com/articles/s44172 \"grid\" \"2025\"",
+    "site:nature.com/articles/s44287 \"power\" \"2026\"",
+    "site:nature.com/articles/s44287 \"grid\" \"2024\" \"2025\"",
+    "site:nature.com/articles/s44287-026 \"buildings\" grid",
+    "site:nature.com/articles/s44287-024 \"power\" electricity grid",
+    "site:nature.com/articles/s44287-025 \"power\" grid review -quantum -sensors",
+    "site:ieeexplore.ieee.org \"10541863\" \"Stage\"",
+    "\"machine unlearning\" \"power\" 2026",
+    "\"federated unlearning\" (\"grid\" OR \"load forecasting\") 2025 2026",
+    "(\"concept erasure\" OR \"selective forgetting\" OR \"knowledge removal\") (\"power grid\" OR \"electricity\")",
+    "\"Learning and Unlearning to Operate Profitable Secure Electric Vehicle Charging\" abstract",
+    "site:nature.com/articles/s42256 (unlearning OR forgetting OR erasure) 2026",
+    "site:nature.com (unlearning OR \"concept erasure\" OR \"knowledge removal\") (\"electricity\" OR \"power grid\" OR \"load forecasting\")",
+    "\"Sequential Federated Unlearning for Distributed Electricity Load Forecasting\" paper",
+    "\"3396524\" abstract Choi",
+    "site:ieeexplore.ieee.org/document/10541863 \"charging\"",
+    "\"10.1109/TII.2024.3396524\"",
+    "\"unlearning\" \"Nature Computational Science\"",
+    "\"unlearning\" \"Nature Machine Intelligence\" 2026 2024",
+    "\"Nature Physics\" (\"power grid\" OR \"power grids\") (\"2024\" OR \"2025\" OR \"2026\")",
+    "\"Nature Electronics\" (\"electricity grid\" OR \"power grid\" OR \"microgrid\") (\"2024\" OR \"2025\" OR \"2026\")",
+    "\"Nature Computational Science\" (\"power system\" OR \"electricity\" OR \"smart grid\") (\"2024\" OR \"2025\" OR \"2026\")",
+    "\"Nature Machine Intelligence\" (\"power grid\" OR \"load forecasting\" OR \"energy systems\") (\"2024\" OR \"2025\" OR \"2026\")",
+    "site:nature.com/articles/s41928-026 \"data\" \"power\"",
+    "site:nature.com/articles/s41928-025 \"grid\"",
+    "site:nature.com/articles/s41567-024 \"grid\"",
+    "site:nature.com/articles/s43588 \"electricity\"",
+    "\"Nature Electronics\" \"07 October 2026\" data",
+    "\"Software-defined electric vehicle chargers enabling more connective and flexible micro-grids\"",
+    "site:nature.com/articles/s43588 \"power system\"",
+    "site:nature.com/articles/s42256 \"load forecasting\"",
+    "\"Learning and Unlearning\" \"Choi\" pdf",
+    "\"Learning and Unlearning to Operate\" site:cau.ac.kr",
+    "\"Learning and Unlearning to Operate\" site:ieeexplore.ieee.org/abstract",
+    "\"machine unlearning\" \"load forecasting\" 2026 site:ieeexplore.ieee.org"
+  ],
+  "query_count": 44,
+  "opened_urls": [
+    "https://www.nature.com/articles/s44172-026-00643-2?error=cookies_not_supported",
+    "https://www.nature.com/articles/s44172-025-00563-7?error=cookies_not_supported",
+    "https://www.nature.com/subjects/energy-grids-and-networks/commseng?error=cookies_not_supported",
+    "https://www.nature.com/natrevelectreng/articles?type=review-article&year=2026&error=cookies_not_supported",
+    "https://ieeexplore.ieee.org/document/10541863",
+    "https://www.nature.com/articles/s44172-026-00591-x",
+    "https://www.nature.com/articles/s44172-025-00535-x",
+    "https://www.nature.com/articles/s44172-024-00258-5",
+    "https://www.nature.com/articles/s44287-026-00275-w",
+    "https://www.nature.com/articles/s44287-025-00210-5",
+    "https://www.nature.com/articles/s44287-025-00143-z",
+    "https://www.nature.com/articles/s44287-026-00273-y",
+    "https://www.nature.com/articles/s44287-026-00348-w?error=cookies_not_supported",
+    "https://www.nature.com/articles/s44287-025-00253-8?error=cookies_not_supported",
+    "https://www.nature.com/articles/s44287-024-00083-0?error=cookies_not_supported",
+    "https://www.nature.com/articles/s44172-026-00720-6?error=cookies_not_supported",
+    "https://www.nature.com/articles/s44287-025-00254-7?error=cookies_not_supported",
+    "https://ieeexplore.ieee.org/abstract/document/10541863",
+    "https://www.nature.com/articles/s44172-025-00411-8?error=cookies_not_supported",
+    "https://www.nature.com/articles/s44287-025-00178-2?error=cookies_not_supported",
+    "https://www.nature.com/articles/s44287-026-00293-8?error=cookies_not_supported",
+    "https://www.nature.com/articles/s42256-026-01276-y?error=cookies_not_supported"
+  ],
+  "per_journal_year_coverage": [
+    {
+      "journal": "Nature Machine Intelligence",
+      "year": 2024,
+      "baseline_count": 0,
+      "added_count": 0,
+      "coverage": "期刊名/DOI前缀与电网词组定向搜索；跨2024—2026组合查询；逐条打开新候选出版社页面。非逐期穷尽枚举。",
+      "status": "本轮未确认新增；不等于该刊该年无相关研究"
+    },
+    {
+      "journal": "Nature Machine Intelligence",
+      "year": 2025,
+      "baseline_count": 0,
+      "added_count": 0,
+      "coverage": "期刊名/DOI前缀与电网词组定向搜索；跨2024—2026组合查询；逐条打开新候选出版社页面。非逐期穷尽枚举。",
+      "status": "本轮未确认新增；不等于该刊该年无相关研究"
+    },
+    {
+      "journal": "Nature Machine Intelligence",
+      "year": 2026,
+      "baseline_count": 0,
+      "added_count": 0,
+      "coverage": "期刊名/DOI前缀与电网词组定向搜索；跨2024—2026组合查询；逐条打开新候选出版社页面。非逐期穷尽枚举。",
+      "status": "本轮未确认新增；不等于该刊该年无相关研究"
+    },
+    {
+      "journal": "Nature Computational Science",
+      "year": 2024,
+      "baseline_count": 0,
+      "added_count": 0,
+      "coverage": "期刊名/DOI前缀与电网词组定向搜索；跨2024—2026组合查询；逐条打开新候选出版社页面。非逐期穷尽枚举。",
+      "status": "本轮未确认新增；不等于该刊该年无相关研究"
+    },
+    {
+      "journal": "Nature Computational Science",
+      "year": 2025,
+      "baseline_count": 0,
+      "added_count": 0,
+      "coverage": "期刊名/DOI前缀与电网词组定向搜索；跨2024—2026组合查询；逐条打开新候选出版社页面。非逐期穷尽枚举。",
+      "status": "本轮未确认新增；不等于该刊该年无相关研究"
+    },
+    {
+      "journal": "Nature Computational Science",
+      "year": 2026,
+      "baseline_count": 1,
+      "added_count": 0,
+      "coverage": "期刊名/DOI前缀与电网词组定向搜索；跨2024—2026组合查询；逐条打开新候选出版社页面。非逐期穷尽枚举。",
+      "status": "本轮未确认新增；不等于该刊该年无相关研究"
+    },
+    {
+      "journal": "Communications Engineering",
+      "year": 2024,
+      "baseline_count": 1,
+      "added_count": 1,
+      "coverage": "期刊名/DOI前缀与电网词组定向搜索；跨2024—2026组合查询；逐条打开新候选出版社页面。非逐期穷尽枚举。",
+      "status": "有已核实新增"
+    },
+    {
+      "journal": "Communications Engineering",
+      "year": 2025,
+      "baseline_count": 1,
+      "added_count": 3,
+      "coverage": "期刊名/DOI前缀与电网词组定向搜索；跨2024—2026组合查询；逐条打开新候选出版社页面。非逐期穷尽枚举。",
+      "status": "有已核实新增"
+    },
+    {
+      "journal": "Communications Engineering",
+      "year": 2026,
+      "baseline_count": 2,
+      "added_count": 2,
+      "coverage": "期刊名/DOI前缀与电网词组定向搜索；跨2024—2026组合查询；逐条打开新候选出版社页面。非逐期穷尽枚举。",
+      "status": "有已核实新增"
+    },
+    {
+      "journal": "Nature Reviews Electrical Engineering",
+      "year": 2024,
+      "baseline_count": 4,
+      "added_count": 1,
+      "coverage": "期刊名/DOI前缀与电网词组定向搜索；跨2024—2026组合查询；逐条打开新候选出版社页面。非逐期穷尽枚举。",
+      "status": "有已核实新增"
+    },
+    {
+      "journal": "Nature Reviews Electrical Engineering",
+      "year": 2025,
+      "baseline_count": 2,
+      "added_count": 3,
+      "coverage": "期刊名/DOI前缀与电网词组定向搜索；跨2024—2026组合查询；逐条打开新候选出版社页面。非逐期穷尽枚举。",
+      "status": "有已核实新增"
+    },
+    {
+      "journal": "Nature Reviews Electrical Engineering",
+      "year": 2026,
+      "baseline_count": 4,
+      "added_count": 3,
+      "coverage": "期刊名/DOI前缀与电网词组定向搜索；跨2024—2026组合查询；逐条打开新候选出版社页面。非逐期穷尽枚举。",
+      "status": "有已核实新增"
+    },
+    {
+      "journal": "Nature Electronics",
+      "year": 2024,
+      "baseline_count": 0,
+      "added_count": 0,
+      "coverage": "期刊名/DOI前缀与电网词组定向搜索；跨2024—2026组合查询；逐条打开新候选出版社页面。非逐期穷尽枚举。",
+      "status": "本轮未确认新增；不等于该刊该年无相关研究"
+    },
+    {
+      "journal": "Nature Electronics",
+      "year": 2025,
+      "baseline_count": 0,
+      "added_count": 0,
+      "coverage": "期刊名/DOI前缀与电网词组定向搜索；跨2024—2026组合查询；逐条打开新候选出版社页面。非逐期穷尽枚举。",
+      "status": "本轮未确认新增；不等于该刊该年无相关研究"
+    },
+    {
+      "journal": "Nature Electronics",
+      "year": 2026,
+      "baseline_count": 0,
+      "added_count": 0,
+      "coverage": "期刊名/DOI前缀与电网词组定向搜索；跨2024—2026组合查询；逐条打开新候选出版社页面。非逐期穷尽枚举。",
+      "status": "本轮未确认新增；不等于该刊该年无相关研究"
+    },
+    {
+      "journal": "Nature Physics",
+      "year": 2024,
+      "baseline_count": 0,
+      "added_count": 0,
+      "coverage": "期刊名/DOI前缀与电网词组定向搜索；跨2024—2026组合查询；逐条打开新候选出版社页面。非逐期穷尽枚举。",
+      "status": "本轮未确认新增；不等于该刊该年无相关研究"
+    },
+    {
+      "journal": "Nature Physics",
+      "year": 2025,
+      "baseline_count": 0,
+      "added_count": 0,
+      "coverage": "期刊名/DOI前缀与电网词组定向搜索；跨2024—2026组合查询；逐条打开新候选出版社页面。非逐期穷尽枚举。",
+      "status": "本轮未确认新增；不等于该刊该年无相关研究"
+    },
+    {
+      "journal": "Nature Physics",
+      "year": 2026,
+      "baseline_count": 0,
+      "added_count": 0,
+      "coverage": "期刊名/DOI前缀与电网词组定向搜索；跨2024—2026组合查询；逐条打开新候选出版社页面。非逐期穷尽枚举。",
+      "status": "本轮未确认新增；不等于该刊该年无相关研究"
+    }
+  ],
+  "already_included": [
+    {
+      "doi": "10.1038/s43588-026-00971-5",
+      "title": "Sustainability as a challenge in complex systems dynamics",
+      "journal": "Nature Computational Science",
+      "year": 2026,
+      "status": "基线去重保留；并不表示本轮重新逐篇核验全文"
+    },
+    {
+      "doi": "10.1038/s44172-026-00670-z",
+      "title": "Diffusion model-based parameter estimation in dynamic power systems",
+      "journal": "Communications Engineering",
+      "year": 2026,
+      "status": "基线去重保留；并不表示本轮重新逐篇核验全文"
+    },
+    {
+      "doi": "10.1038/s44172-026-00709-1",
+      "title": "Operating smart grids by customizing large model agents",
+      "journal": "Communications Engineering",
+      "year": 2026,
+      "status": "基线去重保留；并不表示本轮重新逐篇核验全文"
+    },
+    {
+      "doi": "10.1038/s44172-025-00457-8",
+      "title": "Scalable reinforcement learning for large-scale coordination of electric vehicles using graph neural networks",
+      "journal": "Communications Engineering",
+      "year": 2025,
+      "status": "基线去重保留；并不表示本轮重新逐篇核验全文"
+    },
+    {
+      "doi": "10.1038/s44172-024-00300-6",
+      "title": "Data-driven and privacy-preserving risk assessment method based on federated learning for smart grids",
+      "journal": "Communications Engineering",
+      "year": 2024,
+      "status": "基线去重保留；并不表示本轮重新逐篇核验全文"
+    },
+    {
+      "doi": "10.1038/s44287-025-00256-5",
+      "title": "Resilient low-inertia power systems through asynchronous energy balancing",
+      "journal": "Nature Reviews Electrical Engineering",
+      "year": 2026,
+      "status": "基线去重保留；并不表示本轮重新逐篇核验全文"
+    },
+    {
+      "doi": "10.1038/s44287-026-00298-3",
+      "title": "From electricity outage analysis and monitoring to mitigation and restoration",
+      "journal": "Nature Reviews Electrical Engineering",
+      "year": 2026,
+      "status": "基线去重保留；并不表示本轮重新逐篇核验全文"
+    },
+    {
+      "doi": "10.1038/s44287-026-00322-6",
+      "title": "Long-horizon resilience of power systems under climate change",
+      "journal": "Nature Reviews Electrical Engineering",
+      "year": 2026,
+      "status": "基线去重保留；并不表示本轮重新逐篇核验全文"
+    },
+    {
+      "doi": "10.1038/s44287-026-00334-2",
+      "title": "End-to-end cyber resilience enhancement for renewable-dominated power grids",
+      "journal": "Nature Reviews Electrical Engineering",
+      "year": 2026,
+      "status": "基线去重保留；并不表示本轮重新逐篇核验全文"
+    },
+    {
+      "doi": "10.1038/s44287-025-00163-9",
+      "title": "Designing the future electricity spot market with high renewables via reliable simulations",
+      "journal": "Nature Reviews Electrical Engineering",
+      "year": 2025,
+      "status": "基线去重保留；并不表示本轮重新逐篇核验全文"
+    },
+    {
+      "doi": "10.1038/s44287-025-00189-z",
+      "title": "Developments, challenges and future opportunities in cybersecure microgrid control",
+      "journal": "Nature Reviews Electrical Engineering",
+      "year": 2025,
+      "status": "基线去重保留；并不表示本轮重新逐篇核验全文"
+    },
+    {
+      "doi": "10.1038/s44287-023-00003-8",
+      "title": "Resilience of renewable power systems under climate risks",
+      "journal": "Nature Reviews Electrical Engineering",
+      "year": 2024,
+      "status": "基线去重保留；并不表示本轮重新逐篇核验全文"
+    },
+    {
+      "doi": "10.1038/s44287-023-00004-7",
+      "title": "Sustainable plug-in electric vehicle integration into power systems",
+      "journal": "Nature Reviews Electrical Engineering",
+      "year": 2024,
+      "status": "基线去重保留；并不表示本轮重新逐篇核验全文"
+    },
+    {
+      "doi": "10.1038/s44287-024-00018-9",
+      "title": "Artificial intelligence-based methods for renewable power system operation",
+      "journal": "Nature Reviews Electrical Engineering",
+      "year": 2024,
+      "status": "基线去重保留；并不表示本轮重新逐篇核验全文"
+    },
+    {
+      "doi": "10.1038/s44287-024-00032-x",
+      "title": "Power electronics in wind generation systems",
+      "journal": "Nature Reviews Electrical Engineering",
+      "year": 2024,
+      "status": "基线去重保留；并不表示本轮重新逐篇核验全文"
+    },
+    {
+      "doi": "10.1109/TPWRS.2024.3376828",
+      "title": "Task-Aware Machine Unlearning and Its Application in Load Forecasting",
+      "journal": "IEEE Transactions on Power Systems",
+      "year": 2024,
+      "status": "专题基线已有；本轮检索再次命中或作为去重参照"
+    },
+    {
+      "doi": "10.1109/PESGM58988.2026.11693380",
+      "title": "A SISA-based Machine Unlearning Framework for Power Transformer Inter-Turn Short-Circuit Fault Localization",
+      "journal": "2026 IEEE Power & Energy Society General Meeting (PESGM)",
+      "year": 2026,
+      "status": "专题基线已有；本轮检索再次命中或作为去重参照"
+    },
+    {
+      "doi": "10.1016/j.array.2026.100987",
+      "title": "A survey of machine unlearning for electric power systems: From privacy compliance to resilient grid operations",
+      "journal": "Array",
+      "year": 2026,
+      "status": "专题基线已有；本轮检索再次命中或作为去重参照"
+    },
+    {
+      "doi": "10.1038/s42256-025-00985-0",
+      "title": "Rethinking machine unlearning for large language models",
+      "journal": "Nature Machine Intelligence",
+      "year": 2025,
+      "status": "专题基线已有；本轮检索再次命中或作为去重参照"
+    },
+    {
+      "doi": "10.1038/s41467-026-72601-7",
+      "title": "Mitigating algorithmic unfairness arising from forgetfulness of medical records in clinical artificial intelligence",
+      "journal": "Nature Communications",
+      "year": 2026,
+      "status": "专题基线已有；本轮检索再次命中或作为去重参照"
+    },
+    {
+      "doi": "10.1038/s41467-026-70420-4",
+      "title": "Superior resilience to poisoning and amenability to unlearning in quantum machine learning",
+      "journal": "Nature Communications",
+      "year": 2026,
+      "status": "专题基线已有；本轮检索再次命中或作为去重参照"
+    }
+  ],
+  "added_dois": [
+    "10.1038/s44172-026-00643-2",
+    "10.1038/s44172-025-00563-7",
+    "10.1038/s44172-026-00591-x",
+    "10.1038/s44172-025-00535-x",
+    "10.1038/s44172-024-00258-5",
+    "10.1038/s44172-025-00411-8",
+    "10.1038/s44287-025-00210-5",
+    "10.1038/s44287-025-00143-z",
+    "10.1038/s44287-026-00273-y",
+    "10.1038/s44287-025-00253-8",
+    "10.1038/s44287-024-00083-0",
+    "10.1038/s44287-026-00348-w",
+    "10.1038/s44287-025-00178-2"
+  ],
+  "added_count": 13,
+  "specialty_added_dois": [
+    "10.1038/s42256-026-01276-y"
+  ],
+  "excluded": [
+    {
+      "doi": "10.1038/s41928-026-01724-y",
+      "title": "Horizontal-up microfluidics for embedded chip cooling with a dielectric fluid",
+      "journal": "Nature Electronics",
+      "reason": "芯片冷却研究；没有发现电网规划、调度、稳定或需求响应的直接研究对象。仅器件/数据中心能效不作电网论文。",
+      "source": "https://www.nature.com/articles/s41928-026-01724-y"
+    },
+    {
+      "doi": "10.1038/s42256-022-00552-x",
+      "title": "Enhanced spatio-temporal electric load forecasts using less data with active deep learning",
+      "journal": "Nature Machine Intelligence",
+      "reason": "2022年，时间窗外；主动学习也不等于机器遗忘。",
+      "source": "https://www.nature.com/articles/s42256-022-00552-x"
+    },
+    {
+      "doi": "10.1038/s44287-025-00254-7",
+      "title": "Sustainable insulating materials for power systems",
+      "journal": "Nature Reviews Electrical Engineering",
+      "reason": "2026年正式综述且电力相关，但中心是气液固绝缘材料的替代、回收和工程应用；按本库系统研究边界暂不纳入主目录。",
+      "source": "https://www.nature.com/articles/s44287-025-00254-7"
+    },
+    {
+      "doi": "10.1038/s44172-026-00720-6",
+      "title": "MIMO-enhanced talkative power conversion: a perspective",
+      "journal": "Communications Engineering",
+      "reason": "2026年观点，中心为变换器的功率/信息复用拓扑；讨论交流微电网应用，但未将电网运行作为主要问题。边界候选，暂不计主目录。",
+      "source": "https://www.nature.com/articles/s44172-026-00720-6"
+    },
+    {
+      "doi": "10.1038/s44287-026-00293-8",
+      "title": "Safeguarding electric vehicle batteries through public charging networks",
+      "journal": "Nature Reviews Electrical Engineering",
+      "reason": "2026年评论，聚焦公共充电网络中的电池安全保护；区别于车网互动及配电运行，暂不计主目录。",
+      "source": "https://www.nature.com/articles/s44287-026-00293-8"
+    },
+    {
+      "doi": "10.1038/s44287-026-00275-w",
+      "title": "Tackling wind theft through interdisciplinary collaboration",
+      "journal": "Nature Reviews Electrical Engineering",
+      "reason": "2026年评论，主要是风场尾流与产权争议；没有电网运行或并网决策的明确内容。",
+      "source": "https://www.nature.com/articles/s44287-026-00275-w"
+    },
+    {
+      "doi": "10.1038/s44287-025-00255-6",
+      "title": "AI data centres step up as flexible grid assets",
+      "journal": "Nature Reviews Electrical Engineering",
+      "reason": "Research Highlight；解读Nature Energy研究10.1038/s41560-025-01927-1，避免新闻与原研究双计数。",
+      "source": "https://www.nature.com/articles/s44287-025-00255-6"
+    },
+    {
+      "doi": "10.1038/s44172-025-00366-w",
+      "title": "Energy efficiency and carbon savings via a body grid",
+      "journal": "Communications Engineering",
+      "reason": "body grid不是公用电力网络；不以名字含grid纳入。",
+      "source": "https://www.nature.com/articles/s44172-025-00366-w"
+    },
+    {
+      "doi": "10.1038/s44287-025-00206-1",
+      "title": "Artificial intelligence-enabled wearable microgrids for self-sustained energy management",
+      "journal": "Nature Reviews Electrical Engineering",
+      "reason": "可穿戴设备级能量管理，非输配电系统。",
+      "source": "https://www.nature.com/articles/s44287-025-00206-1"
+    },
+    {
+      "doi": "10.1038/s44287-026-00317-3",
+      "title": "Space energy is infrastructure, not just generation",
+      "journal": "Nature Reviews Electrical Engineering",
+      "reason": "太空能源基础设施评论，缺乏本库所需电网运行对象。",
+      "source": "https://www.nature.com/articles/s44287-026-00317-3"
+    },
+    {
+      "doi": "10.1038/s44287-026-00265-y",
+      "title": "Achieving net zero in power and energy",
+      "journal": "Nature Reviews Electrical Engineering",
+      "reason": "Editorial，非原创研究/学术综述。",
+      "source": "https://www.nature.com/articles/s44287-026-00265-y"
+    },
+    {
+      "doi": "10.1038/s44287-026-00290-x",
+      "title": "Mind the system losses as renewables scale",
+      "journal": "Nature Reviews Electrical Engineering",
+      "reason": "Editorial，非原创研究/学术综述。",
+      "source": "https://www.nature.com/articles/s44287-026-00290-x"
+    },
+    {
+      "doi": "10.1038/s41598-026-73204-4",
+      "title": "Software-defined electric vehicle chargers enabling more connective and flexible micro-grids",
+      "journal": "Scientific Reports",
+      "reason": "电网相关但不在本次“大子刊”范围，避免Nature主题页跨刊结果混入。",
+      "source": "https://www.nature.com/articles/s41598-026-73204-4"
+    },
+    {
+      "doi": "10.1038/s41560-024-01539-1",
+      "title": "A conceptual analysis of gendered energy care work and epistemic injustice through a case study of Zanzibar’s Solar Mamas",
+      "journal": "Nature Energy",
+      "reason": "unlearning词为社会学习/性别刻板印象的改变，不属于从已训练模型删除数据或概念；由能源期刊并行复核识别。",
+      "source": "https://www.nature.com/articles/s41560-024-01539-1"
+    }
+  ],
+  "pending": [
+    {
+      "doi": "10.1109/TII.2024.3396524",
+      "title": "Learning and Unlearning to Operate Profitable Secure Electric Vehicle Charging",
+      "journal": "IEEE Transactions on Industrial Informatics",
+      "year": 2024,
+      "status": "作者实验室主页已确认题名、期刊、卷20期9页11213–11223及2024年9月；IEEE页多次返回机器人验证，未取得可读的一手摘要。",
+      "why_not_added": "二手索引显示机器遗忘用于PV/储能充电站，但本次不根据二手摘要直接写作已核实条目；保留待核验，不得据此声称电网×遗忘仅有已收录的三篇。",
+      "source_urls": [
+        "https://sites.google.com/view/epssg/publications",
+        "https://ieeexplore.ieee.org/document/10541863",
+        "https://ieeexplore.ieee.org/abstract/document/10541863",
+        "https://doi.org/10.1109/TII.2024.3396524"
+      ]
+    },
+    {
+      "doi": "10.5281/zenodo.21992940",
+      "title": "Replication Package for \"Sequential Federated Unlearning for Distributed Electricity Load Forecasting: Utility versus Retraining Fidelity\"",
+      "year": 2026,
+      "date": "2026-08-18",
+      "status": "作者发布的Zenodo软件复现包已读取，类型Software；页面未列期刊、论文DOI或正文摘要。",
+      "why_not_added": "可作为2026新研究线索，不能将软件DOI冒充已发表期刊论文。",
+      "source_urls": [
+        "https://zenodo.org/records/21992940"
+      ]
+    }
+  ],
+  "corrections": [
+    {
+      "doi": "10.1038/s44172-025-00563-7",
+      "note": "在线2025-12-08、卷期2026；按在线年列2025，避免误放2026。"
+    },
+    {
+      "note": "NREE四篇Comment无正式Abstract；条目明确为出版社公开导语中文概述，不能标成官网完整摘要。"
+    },
+    {
+      "note": "新专题2026知识编辑Perspective只作邻近方向，不是机器遗忘或电网×遗忘直接命中。"
+    }
+  ],
+  "unlearning_assessment": {
+    "definition": "从已训练模型中有目标地删除指定样本、客户、类别或知识/概念的影响；需有删除目标和机制。",
+    "searched_terms": [
+      "machine unlearning",
+      "federated unlearning",
+      "concept erasure",
+      "selective forgetting",
+      "knowledge removal",
+      "knowledge editing"
+    ],
+    "grid_terms": [
+      "power grid",
+      "electricity",
+      "load forecasting",
+      "electric vehicle charging"
+    ],
+    "new_direct_hits_in_selected_journals": 0,
+    "new_adjacent_non_grid_methods": 1,
+    "conclusion": "本轮在指定扩展期刊与时间窗中未确认新的电网×机器遗忘直接交叉论文。新增电网学习文章属于强化学习、边缘控制、神经形态保护或隐私议题，均不据此认定遗忘。",
+    "boundary": "这是公开检索和可访问摘要层面的未检出，绝不表示全球不存在、范围外电力期刊不存在，或可以据此主张首次提出。IEEE TII待核验和2026软件包线索必须保留。"
+  },
+  "limitations": [
+    "本轮使用期刊DOI前缀/刊名、主题页、关键词组合与候选原文核验，并非Crossref/Scopus/WoS逐期全量导出。",
+    "搜索引擎可能放宽复杂查询或漏索引最新文章；个别出版社页面仅开放导语/摘要。",
+    "Nature Electronics与Nature Physics探查未确认符合窗口及严格电网边界的新条目，不能把0解释为这两刊无任何电力相关研究。",
+    "NREE目录页抓取时间可能滞后，2026-10-29新综述通过定向检索核实补入。"
+  ]
+}

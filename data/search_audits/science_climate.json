@@ -1,0 +1,757 @@
+{
+  "audit_date": "2026-11-02",
+  "window": {
+    "from": "2024-01-01",
+    "to": "2026-11-02",
+    "basis": "在线发表日期；2026为截至检索日的非完整年度"
+  },
+  "scope": [
+    "Science Advances",
+    "Nature Sustainability",
+    "Nature Climate Change"
+  ],
+  "supplementary_scope": [
+    "Nature Cities"
+  ],
+  "actual_search_query_count": 65,
+  "queries": [
+    {
+      "batch": 1,
+      "query": "site:science.org/doi/10.1126/sciadv \"grid\" \"2026\" electricity",
+      "run_date": "2026-11-02"
+    },
+    {
+      "batch": 1,
+      "query": "site:science.org/doi/10.1126/sciadv \"power\" \"2025\" transmission",
+      "run_date": "2026-11-02"
+    },
+    {
+      "batch": 1,
+      "query": "site:nature.com/articles/s41893-026 electricity grid",
+      "run_date": "2026-11-02"
+    },
+    {
+      "batch": 1,
+      "query": "site:nature.com/articles/s41558-026 electricity power",
+      "run_date": "2026-11-02"
+    },
+    {
+      "batch": 2,
+      "query": "\"Science Advances\" \"power grid\" 2024 2025 2026",
+      "run_date": "2026-11-02"
+    },
+    {
+      "batch": 2,
+      "query": "\"Science Advances\" \"electricity\" \"2026\"",
+      "run_date": "2026-11-02"
+    },
+    {
+      "batch": 2,
+      "query": "\"Science Advances\" \"transmission\" \"energy\" 2024 2025",
+      "run_date": "2026-11-02"
+    },
+    {
+      "batch": 2,
+      "query": "\"Nature Sustainability\" \"electricity trade\" 2026",
+      "run_date": "2026-11-02"
+    },
+    {
+      "batch": 3,
+      "query": "\"Science Advances\" \"electricity\" \"2024\" -thermoelectric -catalyst -membrane -electrode",
+      "run_date": "2026-11-02"
+    },
+    {
+      "batch": 3,
+      "query": "\"Science Advances\" \"power system\" \"2025\" \"2026\"",
+      "run_date": "2026-11-02"
+    },
+    {
+      "batch": 3,
+      "query": "\"Nature Sustainability\" \"power\" \"2024\" \"transmission\"",
+      "run_date": "2026-11-02"
+    },
+    {
+      "batch": 3,
+      "query": "\"Nature Climate Change\" \"electricity\" \"2025\" \"2026\" -site:link.springer.com",
+      "run_date": "2026-11-02"
+    },
+    {
+      "batch": 4,
+      "query": "\"Sustainable urban transformations based on integrated microgrid designs\"",
+      "run_date": "2026-11-02"
+    },
+    {
+      "batch": 4,
+      "query": "\"Science Advances\" \"electricity\" \"2025\" emissions market",
+      "run_date": "2026-11-02"
+    },
+    {
+      "batch": 4,
+      "query": "\"Science Advances\" \"2026\" \"renewable\" grid systems",
+      "run_date": "2026-11-02"
+    },
+    {
+      "batch": 4,
+      "query": "\"Nature Sustainability\" \"2025\" \"grid\" -coal -ownership -servers",
+      "run_date": "2026-11-02"
+    },
+    {
+      "batch": 5,
+      "query": "\"Repositioning coal power to accelerate net-zero transition of China’s power system\"",
+      "run_date": "2026-11-02"
+    },
+    {
+      "batch": 5,
+      "query": "\"Cross-border electricity tariffs undermine power system efficiency\"",
+      "run_date": "2026-11-02"
+    },
+    {
+      "batch": 5,
+      "query": "\"concentrations of energy poverty\" \"Science Advances\"",
+      "run_date": "2026-11-02"
+    },
+    {
+      "batch": 5,
+      "query": "\"Sustainable urban transformations based on integrated microgrid designs\"",
+      "run_date": "2026-11-02"
+    },
+    {
+      "batch": 6,
+      "query": "\"Science Advances\" \"2026\" electricity -catalyst -electrode -thermoelectric -harvesting -membrane",
+      "run_date": "2026-11-02"
+    },
+    {
+      "batch": 6,
+      "query": "\"Science Advances\" \"2025\" grid electricity reliability",
+      "run_date": "2026-11-02"
+    },
+    {
+      "batch": 6,
+      "query": "\"Nature Climate Change\" \"2024\" grid electricity power system",
+      "run_date": "2026-11-02"
+    },
+    {
+      "batch": 6,
+      "query": "\"Nature Climate Change\" \"2026\" power system transmission demand",
+      "run_date": "2026-11-02"
+    },
+    {
+      "batch": 7,
+      "query": "site:science.org/doi/10.1126/sciadv \"power grid\" after:2023-12-31",
+      "run_date": "2026-11-02"
+    },
+    {
+      "batch": 7,
+      "query": "site:science.org/doi/10.1126/sciadv \"electricity market\" after:2023-12-31",
+      "run_date": "2026-11-02"
+    },
+    {
+      "batch": 7,
+      "query": "site:science.org/doi/10.1126/sciadv \"power systems\" after:2023-12-31",
+      "run_date": "2026-11-02"
+    },
+    {
+      "batch": 7,
+      "query": "\"Science Advances\" \"energy\" \"aea1569\"",
+      "run_date": "2026-11-02"
+    },
+    {
+      "batch": 8,
+      "query": "\"Science Advances\" \"electricity\" \"2024\" system -site:spj.science.org",
+      "run_date": "2026-11-02"
+    },
+    {
+      "batch": 8,
+      "query": "\"Science Advances\" \"grid\" \"2025\" -site:spj.science.org -catalyst -battery",
+      "run_date": "2026-11-02"
+    },
+    {
+      "batch": 8,
+      "query": "\"Science Advances\" \"power\" \"2026\" \"energy system\" -site:spj.science.org",
+      "run_date": "2026-11-02"
+    },
+    {
+      "batch": 8,
+      "query": "\"Climate change will impact the value and optimal adoption of residential rooftop solar\"",
+      "run_date": "2026-11-02"
+    },
+    {
+      "batch": 9,
+      "query": "\"Science Advances\" electricity \"2025\" \"power grid\"",
+      "run_date": "2026-11-02"
+    },
+    {
+      "batch": 9,
+      "query": "\"Science Advances\" electricity \"2024\" \"power grid\"",
+      "run_date": "2026-11-02"
+    },
+    {
+      "batch": 9,
+      "query": "\"Science Advances\" electricity \"2026\" transmission distribution",
+      "run_date": "2026-11-02"
+    },
+    {
+      "batch": 9,
+      "query": "\"Science Advances\" \"aea1569\"",
+      "run_date": "2026-11-02"
+    },
+    {
+      "batch": 10,
+      "query": "\"US federal resource allocations are inconsistent\" abstract",
+      "run_date": "2026-11-02"
+    },
+    {
+      "batch": 10,
+      "query": "\"Trading off regional and overall energy system design flexibility in the net-zero transition\"",
+      "run_date": "2026-11-02"
+    },
+    {
+      "batch": 10,
+      "query": "\"Science Advances\" \"transmission grid\" 2024 2025 2026",
+      "run_date": "2026-11-02"
+    },
+    {
+      "batch": 10,
+      "query": "\"Science Advances\" \"electricity\" \"blackout\" 2024 2025 2026",
+      "run_date": "2026-11-02"
+    },
+    {
+      "batch": 11,
+      "query": "\"Science Advances\" \"renewable energy\" \"storage\" \"2025\" -battery -electrode",
+      "run_date": "2026-11-02"
+    },
+    {
+      "batch": 11,
+      "query": "\"Science Advances\" \"renewable energy\" \"storage\" \"2024\" -battery -electrode",
+      "run_date": "2026-11-02"
+    },
+    {
+      "batch": 11,
+      "query": "\"Science Advances\" \"power grid\" \"2026\" -wood -veneer -insulation",
+      "run_date": "2026-11-02"
+    },
+    {
+      "batch": 11,
+      "query": "\"Science Advances\" \"power\" \"synchronization\" 2024 2025 2026",
+      "run_date": "2026-11-02"
+    },
+    {
+      "batch": 12,
+      "query": "\"Frequency Synchronization Induced by Frequency Detuning\" power grid",
+      "run_date": "2026-11-02"
+    },
+    {
+      "batch": 12,
+      "query": "\"Noise-enhanced stability in synchronized systems\" \"power\"",
+      "run_date": "2026-11-02"
+    },
+    {
+      "batch": 12,
+      "query": "\"Integrated planning of net-zero power systems for all\" journal",
+      "run_date": "2026-11-02"
+    },
+    {
+      "batch": 12,
+      "query": "\"Science Advances\" \"power grids\" \"2024\" \"2025\" \"2026\" -wood -veneer -2022",
+      "run_date": "2026-11-02"
+    },
+    {
+      "batch": 13,
+      "query": "\"Nature Climate Change\" \"electricity\" \"2025\" -rooftop -facade -façade -wildfire -wind -battery",
+      "run_date": "2026-11-02"
+    },
+    {
+      "batch": 13,
+      "query": "\"Nature Climate Change\" \"power\" \"2024\" -solar -photovoltaic -grid -author -carbon",
+      "run_date": "2026-11-02"
+    },
+    {
+      "batch": 13,
+      "query": "\"Nature Sustainability\" \"2025\" \"electricity\" -decarbonization -price -server",
+      "run_date": "2026-11-02"
+    },
+    {
+      "batch": 13,
+      "query": "\"Nature Sustainability\" \"2026\" \"transmission\" -land",
+      "run_date": "2026-11-02"
+    },
+    {
+      "batch": 14,
+      "query": "\"Nature Sustainability\" (\"unlearning\" OR \"data deletion\" OR \"machine forgetting\") electricity",
+      "run_date": "2026-11-02"
+    },
+    {
+      "batch": 14,
+      "query": "\"Nature Climate Change\" (\"unlearning\" OR \"concept erasure\" OR \"machine forgetting\") electricity",
+      "run_date": "2026-11-02"
+    },
+    {
+      "batch": 14,
+      "query": "\"Science Advances\" (\"unlearning\" OR \"data deletion\" OR \"machine forgetting\") \"grid\"",
+      "run_date": "2026-11-02"
+    },
+    {
+      "batch": 14,
+      "query": "\"Science Advances\" (\"unlearning\" OR \"forgetting\") \"power\"",
+      "run_date": "2026-11-02"
+    },
+    {
+      "batch": 15,
+      "query": "\"Nature Cities\" \"2026\" \"08 October\" \"grid\"",
+      "run_date": "2026-11-02"
+    },
+    {
+      "batch": 15,
+      "query": "\"Nature Cities\" \"power grid\" \"topology\"",
+      "run_date": "2026-11-02"
+    },
+    {
+      "batch": 15,
+      "query": "\"Nature Cities\" \"electricity\" 2026",
+      "run_date": "2026-11-02"
+    },
+    {
+      "batch": 15,
+      "query": "\"Nature Cities\" \"power\" \"network\" \"2026\"",
+      "run_date": "2026-11-02"
+    },
+    {
+      "batch": 16,
+      "query": "\"Nature Cities\" \"electricity in African cities\"",
+      "run_date": "2026-11-02"
+    },
+    {
+      "batch": 16,
+      "query": "\"Nature Cities\" \"power quality\" 2025",
+      "run_date": "2026-11-02"
+    },
+    {
+      "batch": 16,
+      "query": "\"Nature Cities\" \"power outages\" 2024 2025 2026",
+      "run_date": "2026-11-02"
+    },
+    {
+      "batch": 16,
+      "query": "\"Nature Cities\" \"microgrid\" 2024 2025 2026",
+      "run_date": "2026-11-02"
+    },
+    {
+      "batch": 17,
+      "query": "\"Divergent humidity-driven growth in urban air-conditioning energy demand under climate change\"",
+      "run_date": "2026-11-02"
+    }
+  ],
+  "directory_urls_reviewed": [
+    "https://www.nature.com/natsustain/research-articles?year=2026&sort=PubDate&error=cookies_not_supported",
+    "https://www.nature.com/natsustain/research-articles?year=2025&sort=PubDate&error=cookies_not_supported",
+    "https://www.nature.com/natsustain/research-articles?page=3&searchType=journalSearch&sort=PubDate&year=2024",
+    "https://www.nature.com/subjects/energy-science-and-technology/natsustain?error=cookies_not_supported",
+    "https://www.nature.com/subjects/energy-and-society/natsustain?error=cookies_not_supported",
+    "https://www.nature.com/subjects/energy-infrastructure/natsustain?error=cookies_not_supported",
+    "https://www.nature.com/subjects/energy-supply-and-demand/nclimate?error=cookies_not_supported",
+    "https://www.nature.com/subjects/energy-grids-and-networks/nclimate?error=cookies_not_supported",
+    "https://www.nature.com/subjects/energy-science-and-technology/nclimate?error=cookies_not_supported",
+    "https://www.nature.com/subjects/energy-and-society/nclimate?error=cookies_not_supported",
+    "https://www.nature.com/subjects/wind-climate-variability-and-energy-potential",
+    "https://www.nature.com/subjects/climate-change-impacts-on-electricity-demand?error=cookies_not_supported",
+    "https://www.nature.com/subjects/network-research?error=cookies_not_supported",
+    "https://www.nature.com/natcities/research-articles?error=cookies_not_supported"
+  ],
+  "per_journal_year_coverage": [
+    {
+      "journal": "Science Advances",
+      "year": 2024,
+      "baseline_count": 1,
+      "added_count": 0,
+      "method": "多轮期刊限定关键词；出版商条目、PubMed、原作者机构库交叉核验",
+      "limit": "science.org全文页403，搜索噪声高；未完成全年所有卷期逐条筛查，0新增不代表当年不存在相关论文"
+    },
+    {
+      "journal": "Science Advances",
+      "year": 2025,
+      "baseline_count": 2,
+      "added_count": 0,
+      "method": "多轮期刊限定关键词；出版商条目、PubMed、原作者机构库交叉核验",
+      "limit": "science.org全文页403，搜索噪声高；未完成全年所有卷期逐条筛查，0新增不代表当年不存在相关论文"
+    },
+    {
+      "journal": "Science Advances",
+      "year": 2026,
+      "baseline_count": 0,
+      "added_count": 0,
+      "method": "多轮期刊限定关键词；出版商条目、PubMed、原作者机构库交叉核验",
+      "limit": "science.org全文页403，搜索噪声高；未完成全年所有卷期逐条筛查，0新增不代表当年不存在相关论文"
+    },
+    {
+      "journal": "Nature Sustainability",
+      "year": 2024,
+      "baseline_count": 3,
+      "added_count": 2,
+      "method": "期刊限定关键词＋Nature能源主题目录；候选逐篇核对出版社公开摘要/在线日期",
+      "limit": "主题标签可能缺漏；未逐页穷尽全年所有卷期。"
+    },
+    {
+      "journal": "Nature Sustainability",
+      "year": 2025,
+      "baseline_count": 4,
+      "added_count": 3,
+      "method": "期刊限定关键词＋Nature能源主题目录；候选逐篇核对出版社公开摘要/在线日期",
+      "limit": "主题标签可能缺漏；未逐页穷尽全年所有卷期。"
+    },
+    {
+      "journal": "Nature Sustainability",
+      "year": 2026,
+      "baseline_count": 3,
+      "added_count": 2,
+      "method": "期刊限定关键词＋Nature能源主题目录；候选逐篇核对出版社公开摘要/在线日期",
+      "limit": "主题标签可能缺漏；未逐页穷尽全年所有卷期。"
+    },
+    {
+      "journal": "Nature Climate Change",
+      "year": 2024,
+      "baseline_count": 2,
+      "added_count": 3,
+      "method": "期刊限定关键词＋Nature能源主题目录；候选逐篇核对出版社公开摘要/在线日期",
+      "limit": "主题标签可能缺漏；未逐页穷尽全年所有卷期。"
+    },
+    {
+      "journal": "Nature Climate Change",
+      "year": 2025,
+      "baseline_count": 3,
+      "added_count": 1,
+      "method": "期刊限定关键词＋Nature能源主题目录；候选逐篇核对出版社公开摘要/在线日期",
+      "limit": "主题标签可能缺漏；未逐页穷尽全年所有卷期。"
+    },
+    {
+      "journal": "Nature Climate Change",
+      "year": 2026,
+      "baseline_count": 2,
+      "added_count": 1,
+      "method": "期刊限定关键词＋Nature能源主题目录；候选逐篇核对出版社公开摘要/在线日期",
+      "limit": "主题标签可能缺漏；未逐页穷尽全年所有卷期。"
+    },
+    {
+      "journal": "Nature Cities",
+      "years": [
+        2024,
+        2025,
+        2026
+      ],
+      "baseline_count": 0,
+      "added_count": 3,
+      "method": "追加定向检查：Network Research目录误配排除；电网接入、电力交换与城市用电需求三篇公开摘要核验",
+      "limit": "选择性补充，未对该刊进行三年全面补检。"
+    }
+  ],
+  "baseline_examined_count": 20,
+  "already_included": [
+    {
+      "title": "Quantifying effects of solar power adoption on CO2 emissions reduction",
+      "journal": "Science Advances",
+      "year": 2025,
+      "doi": "10.1126/sciadv.adq5660"
+    },
+    {
+      "title": "The role of offshore wind and solar PV resources in global low-carbon transition",
+      "journal": "Science Advances",
+      "year": 2025,
+      "doi": "10.1126/sciadv.adx5580"
+    },
+    {
+      "title": "Potential climate predictability of renewable energy supply and demand for Texas given the ENSO hidden state",
+      "journal": "Science Advances",
+      "year": 2024,
+      "doi": "10.1126/sciadv.ado3517"
+    },
+    {
+      "title": "Coal plants persist as a large barrier to the global solar energy transition",
+      "journal": "Nature Sustainability",
+      "year": 2026,
+      "doi": "10.1038/s41893-026-01836-5"
+    },
+    {
+      "title": "Resilience metrics to guide back-up investments in the power system during extreme weather",
+      "journal": "Nature Sustainability",
+      "year": 2026,
+      "doi": "10.1038/s41893-026-01897-6"
+    },
+    {
+      "title": "Navigating the land–energy nexus for carbon-neutral power systems in China",
+      "journal": "Nature Sustainability",
+      "year": 2026,
+      "doi": "10.1038/s41893-026-01941-5"
+    },
+    {
+      "title": "Decarbonization and electricity price vulnerability",
+      "journal": "Nature Sustainability",
+      "year": 2025,
+      "doi": "10.1038/s41893-024-01502-8"
+    },
+    {
+      "title": "Environmental impact and net-zero pathways for sustainable artificial intelligence servers in the USA",
+      "journal": "Nature Sustainability",
+      "year": 2025,
+      "doi": "10.1038/s41893-025-01681-y"
+    },
+    {
+      "title": "Global hydroclimatic risks and strategic decommissioning pathways for thermal power units",
+      "journal": "Nature Sustainability",
+      "year": 2025,
+      "doi": "10.1038/s41893-025-01692-9"
+    },
+    {
+      "title": "Ownership of power plants stranded by climate mitigation",
+      "journal": "Nature Sustainability",
+      "year": 2025,
+      "doi": "10.1038/s41893-025-01707-5"
+    },
+    {
+      "title": "Hydropower expansion in eco-sensitive river basins under global energy-economic change",
+      "journal": "Nature Sustainability",
+      "year": 2024,
+      "doi": "10.1038/s41893-023-01260-z"
+    },
+    {
+      "title": "Rethinking energy planning to mitigate the impacts of African hydropower",
+      "journal": "Nature Sustainability",
+      "year": 2024,
+      "doi": "10.1038/s41893-024-01367-x"
+    },
+    {
+      "title": "Offsetting the greenhouse gas footprint of hydropower with floating solar photovoltaics",
+      "journal": "Nature Sustainability",
+      "year": 2024,
+      "doi": "10.1038/s41893-024-01384-w"
+    },
+    {
+      "title": "Building façade photovoltaics enhance global climate resilience",
+      "journal": "Nature Climate Change",
+      "year": 2026,
+      "doi": "10.1038/s41558-026-02606-z"
+    },
+    {
+      "title": "Flash energy droughts in solar and wind resources under climate change",
+      "journal": "Nature Climate Change",
+      "year": 2026,
+      "doi": "10.1038/s41558-026-02753-3"
+    },
+    {
+      "title": "Worldwide rooftop photovoltaic electricity generation may mitigate global warming",
+      "journal": "Nature Climate Change",
+      "year": 2025,
+      "doi": "10.1038/s41558-025-02276-3"
+    },
+    {
+      "title": "Prolonged wind droughts in a warming climate threaten global wind power security",
+      "journal": "Nature Climate Change",
+      "year": 2025,
+      "doi": "10.1038/s41558-025-02387-x"
+    },
+    {
+      "title": "Dynamic grid management reduces wildfire adaptation costs in the electric power sector",
+      "journal": "Nature Climate Change",
+      "year": 2025,
+      "doi": "10.1038/s41558-025-02436-5"
+    },
+    {
+      "title": "The role of electric grid research in addressing climate change",
+      "journal": "Nature Climate Change",
+      "year": 2024,
+      "doi": "10.1038/s41558-024-02092-1"
+    },
+    {
+      "title": "Elevated urban energy risks due to climate-driven biophysical feedbacks",
+      "journal": "Nature Climate Change",
+      "year": 2024,
+      "doi": "10.1038/s41558-024-02108-w"
+    }
+  ],
+  "additions_summary": {
+    "total": 15,
+    "core": 8,
+    "extension": 3,
+    "background": 4
+  },
+  "excluded": [
+    {
+      "title": "Infrastructure links amplify impacts",
+      "doi": "10.1038/s41558-026-02747-1",
+      "journal": "Nature Climate Change",
+      "year": 2026,
+      "reason": "Research Highlight，转述外刊耦合电水基础设施研究，不当作本刊独立原始研究。"
+    },
+    {
+      "title": "Flash energy droughts strain grids",
+      "journal": "Nature Climate Change",
+      "year": 2026,
+      "reason": "News & Views，配套评述已收录原文Flash energy droughts in solar and wind resources under climate change；不重复计数。"
+    },
+    {
+      "title": "Technological improvements in EV batteries offset climate-induced durability challenges",
+      "doi": "10.1038/s41558-026-02579-z",
+      "journal": "Nature Climate Change",
+      "year": 2026,
+      "reason": "电池寿命与车辆气候适应，未在所读摘要中体现电网运行、充电协调或系统规划；此次不扩至所有电池研究。"
+    },
+    {
+      "title": "Oil-impregnated densified wood veneer with high electrical insulation enabled by nanosized oil channels",
+      "doi": "10.1126/sciadv.aed5744",
+      "journal": "Science Advances",
+      "year": 2026,
+      "reason": "明确面向变压器绝缘，但研究对象是纳米通道绝缘材料而非电网模型/运行；按本次以系统为主边界排除，不表示与电力设备无关。",
+      "source_urls": [
+        "https://doi.org/10.1126/sciadv.aed5744",
+        "https://pubmed.ncbi.nlm.nih.gov/42268977/"
+      ]
+    },
+    {
+      "title": "US federal resource allocations are inconsistent with concentrations of energy poverty",
+      "doi": "10.1126/sciadv.adp8183",
+      "journal": "Science Advances",
+      "year": 2024,
+      "reason": "原始摘要已核实：LASSO估计家庭能源负担、优化LIHEAP州际补贴。与能源公平相邻，但未分析电网结构、运行或供需平衡，本次不为增加Science Advances数量纳入。",
+      "source_urls": [
+        "https://www.iit.comillas.edu/publicacion/revista/en/2537/US_federal_resource_allocations_are_inconsistent_with_concentrations_of_energy_poverty",
+        "https://pmc.ncbi.nlm.nih.gov/articles/PMC11463276/"
+      ]
+    },
+    {
+      "title": "Frequency synchronization induced by frequency detuning",
+      "doi": "10.1126/sciadv.adu4114",
+      "journal": "Science Advances",
+      "year": 2025,
+      "reason": "一般振子同步机理，尚未确认直接电网算例；不能因背景提及电网就计为电网论文。",
+      "source_urls": [
+        "https://pmc.ncbi.nlm.nih.gov/articles/PMC13109953/"
+      ]
+    },
+    {
+      "title": "Noise-enhanced stability in synchronized systems",
+      "journal": "Science Advances",
+      "year": 2025,
+      "reason": "微机械振子/宏观转子噪声实验；电网作为广义应用背景，缺少所核材料中的直接系统算例。",
+      "source_urls": [
+        "https://pmc.ncbi.nlm.nih.gov/articles/PMC12315954/"
+      ]
+    },
+    {
+      "title": "The effect of renewable energy incorporation on power grid stability and resilience",
+      "doi": "10.1126/sciadv.abj6734",
+      "journal": "Science Advances",
+      "year": 2022,
+      "reason": "2022年，超出2024—2026窗口。"
+    },
+    {
+      "title": "Modelling the impacts of policy sequencing on energy decarbonization",
+      "doi": "10.1038/s41558-025-02497-6",
+      "journal": "Nature Climate Change",
+      "year": 2025,
+      "issue_year": 2026,
+      "reason": "已核摘要，主要为跨部门碳政策时序；本次未扩展到所有宏观能源/气候政策研究。"
+    },
+    {
+      "title": "Human health effects of amine-based carbon capture and storage in the US electricity sector",
+      "journal": "Nature Sustainability",
+      "year": 2026,
+      "reason": "电厂CCS健康与排放影响，主题为环境健康，未纳入以电网系统为主的补检。"
+    },
+    {
+      "title": "Synergistic pathways to mitigate climate and water scarcity risks",
+      "journal": "Nature Sustainability",
+      "year": 2026,
+      "reason": "煤电CCS源汇匹配与水资源协同，环境/资源侧扩展；本次不继续扩大泛电厂环境清单。"
+    },
+    {
+      "title": "A circular oligo(disulfide) anolyte enables practical aqueous redox flow batteries",
+      "journal": "Nature Sustainability",
+      "date": "2026-10-23",
+      "reason": "最新目录已见；液流电池分子材料而非系统级储能配置，排除。"
+    },
+    {
+      "title": "Coordinated routing improves travel times and cuts emissions",
+      "journal": "Nature Cities",
+      "date": "2026-10-08",
+      "reason": "Nature Network Research检索摘要将此条日期/期刊与邻近Scientific Reports电网拓扑条目拼接；核原目录发现此条是交通路由，不是电网论文。",
+      "source_urls": [
+        "https://www.nature.com/subjects/network-research?error=cookies_not_supported"
+      ]
+    },
+    {
+      "title": "Economic-boom-driven electricity demand linked to urban air pollution and health in India",
+      "doi": "10.1038/s44284-026-00518-9",
+      "journal": "Nature Cities",
+      "date": "2026-09-25",
+      "reason": "电厂污染与健康影响；Nature Cities仅择取明确电网、供电服务或电力需求研究，不全面扩展健康影响。"
+    }
+  ],
+  "pending": [
+    {
+      "candidate": "Science Advances 12, eaea1569 (2026)",
+      "source_url": "https://www.monash.edu/energy-institute/research/publications",
+      "status": "机构搜索结果出现文章编号但未取得题名与原文，机构页抓取超时；未纳入，不据此推断电网相关性。"
+    }
+  ],
+  "corrections": [
+    {
+      "doi": "10.1038/s41558-025-02276-3",
+      "type": "需补充后续学术争议注记；非撤稿",
+      "related_doi": "10.1038/s41558-025-02459-y",
+      "related_title": "Emissions reductions of rooftop solar are overstated by approaches that inadequately capture substitution effects",
+      "date": "2025-10-22",
+      "article_type": "Matters Arising",
+      "recommendation": "旧条目保留，但注明后续评论指出忽略非屋顶光伏替代等系统效应可能高估减排；其美国案例较原分析低41%—98%。勿把评论当机器遗忘或撤稿。",
+      "source_urls": [
+        "https://www.nature.com/articles/s41558-025-02459-y?error=cookies_not_supported"
+      ]
+    },
+    {
+      "doi": "10.1038/s41893-025-01626-5",
+      "type": "新条目版本说明",
+      "note": "出版社原文页面列2025-10-06 Publisher Correction；入库使用当前原文公开摘要，正式出版日仍2025-09-26。"
+    }
+  ],
+  "unlearning_screen": {
+    "direct_matches_among_new_additions": 0,
+    "scope": "已读公开摘要和部分可读正文＋四条电网与unlearning/forgetting/data deletion/concept erasure组合搜索",
+    "conclusion": "本轮新增记录未检出明确以删除训练样本/参与方/概念影响为目标的机器遗忘方法；不是全文级不存在证明。",
+    "false_positive_notes": [
+      "电源退役或政策退出不等于machine unlearning",
+      "空间gridded climate dataset不等于电网数据集",
+      "学术评论或文献撤回不等于模型知识撤回",
+      "生物记忆/恐惧消退文献不属于电网机器遗忘"
+    ]
+  },
+  "forwarded_to_other_agents": [
+    {
+      "doi": "10.1038/s41467-026-77773-w",
+      "title": "Cross-border electricity tariffs undermine power system efficiency, decarbonization and reliability in North America",
+      "journal": "Nature Communications",
+      "date": "2026-10-01"
+    },
+    {
+      "doi": "10.1038/s41467-025-57559-2",
+      "title": "Repositioning coal power to accelerate net-zero transition of China’s power system",
+      "journal": "Nature Communications",
+      "date": "2025-03-08"
+    },
+    {
+      "doi": "10.1038/s41560-026-02151-1",
+      "title": "Heatwave-induced capacity bottlenecks in European electricity grids",
+      "journal": "Nature Energy",
+      "date": "2026-10-22"
+    },
+    {
+      "doi": "10.1038/s41560-026-02144-0",
+      "title": "One-minute frequency disturbances from unintended synchronization in cyber–physical power systems",
+      "journal": "Nature Energy",
+      "date": "2026-10-30"
+    },
+    {
+      "doi": "10.1038/s41560-026-02163-x",
+      "title": "Data centres asymmetrically exacerbate energy burdens through wholesale price increases and regressive grid cost shifting",
+      "journal": "Nature Energy",
+      "status": "实验室列表已见但官网404，接收agent已列pending，未纳入本文件"
+    }
+  ],
+  "completeness_statement": "这是扩大关键词、核对主题目录并追踪候选原始摘要后的第二轮补充清单，不是数据库导出型系统综述。没有证据支持“近三年全部论文已穷尽”或“绝无电网遗忘论文”的表述。"
+}

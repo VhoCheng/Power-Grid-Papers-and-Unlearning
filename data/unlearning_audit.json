@@ -544,5 +544,34 @@
         "https://www.sciencedirect.com/science/article/pii/S254243512400237X"
       ]
     }
-  ]
+  ],
+  "round_2": {
+    "date": "2026-11-02",
+    "main_catalogue_records": 194,
+    "new_catalogue_records": 109,
+    "new_reference": "U07：知识编辑邻近方法；非电网、非直接遗忘",
+    "assessment": {
+      "definition": "从已训练模型中有目标地删除指定样本、客户、类别或知识/概念的影响；需有删除目标和机制。",
+      "searched_terms": [
+        "machine unlearning",
+        "federated unlearning",
+        "concept erasure",
+        "selective forgetting",
+        "knowledge removal",
+        "knowledge editing"
+      ],
+      "grid_terms": [
+        "power grid",
+        "electricity",
+        "load forecasting",
+        "electric vehicle charging"
+      ],
+      "new_direct_hits_in_selected_journals": 0,
+      "new_adjacent_non_grid_methods": 1,
+      "conclusion": "本轮在指定扩展期刊与时间窗中未确认新的电网×机器遗忘直接交叉论文。新增电网学习文章属于强化学习、边缘控制、神经形态保护或隐私议题，均不据此认定遗忘。",
+      "boundary": "这是公开检索和可访问摘要层面的未检出，绝不表示全球不存在、范围外电力期刊不存在，或可以据此主张首次提出。IEEE TII待核验和2026软件包线索必须保留。"
+    },
+    "conclusion": "在选定期刊、时间窗和已核验电网文献中，尚未确认同时具备电网应用与定向撤回已学数据、客户端或概念影响的直接研究。摘要筛查与定向全文核验不能证明此类论文不存在。",
+    "evidence_scope": "逐条题目与公开摘要/导语筛查；重点方法另有定向全文及关键词核验；没有逐页通读全部论文。"
+  }
 }

@@ -1,114 +1,23 @@
 {
-  "review_date": "2026-11-02",
-  "reviewer": "science_sustainability independent agent",
-  "mode": "只读最终成果；仅另写本报告",
-  "target_directory": "/Users/lxctongxueyangdexiaomao/Documents/Codex/2026-11-02/1-2-3/outputs/电网文献调研_2024-2026/GitHub/Power-Grid-Papers-and-Unlearning",
-  "files_reviewed": [
-    "README.md",
-    "docs/JOURNALS.md",
-    "docs/SEARCH_STRATEGY.md",
-    "docs/UNLEARNING.md",
-    "docs/CATALOG.md",
-    "data/papers.json",
-    "data/papers.csv",
-    "data/papers.xlsx",
-    "data/unlearning_references.json",
-    "data/pending_candidates.json",
-    "data/SCHEMA.md",
-    "data/quality_review.json",
-    "data/unlearning_audit.json",
-    "data/references.bib",
-    "scripts/validate_catalog.py"
-  ],
-  "outcome": "通过：未发现影响交付的实质问题；仅有两处轻微措辞/标点建议。",
-  "blocking_findings": [],
-  "counts": {
-    "main_catalogue": 85,
-    "core_grid": 62,
-    "cross_and_extended": 15,
-    "background": 8,
-    "unlearning_references": 6,
-    "pending_candidates_excluded": 2,
-    "main_unique_doi": 85,
-    "all_main_and_reference_unique_doi": 91,
-    "readme_main_entries": 85,
-    "catalogue_detail_entries": 85,
-    "csv_main_records": 85,
-    "xlsx_main_records": 85,
-    "xlsx_unlearning_records": 6,
-    "bibtex_entries_main_plus_references": 91,
-    "main_direct_unlearning": 0,
-    "main_adjacent_not_unlearning": 21,
-    "main_no_direct_relation_seen": 64,
-    "years": {
-      "2026": 25,
-      "2025": 28,
-      "2024": 32
-    },
-    "journals": {
-      "Nature Communications": 28,
-      "Nature Energy": 14,
-      "Joule": 8,
-      "Science Advances": 3,
-      "Nature Sustainability": 10,
-      "Nature Climate Change": 7,
-      "Nature Computational Science": 1,
-      "Communications Engineering": 4,
-      "Nature Reviews Electrical Engineering": 10
+  "version": 2,
+  "date": "2026-11-02",
+  "records": 194,
+  "references": 7,
+  "readme_bytes": 186400,
+  "checks": {
+    "unique_doi_and_id": true,
+    "required_metadata": true,
+    "dates_in_window": true,
+    "all_201_summaries_inline_once": true,
+    "no_collapsed_abstracts": true,
+    "csv_matches_json": true,
+    "xlsx_matches_json": true,
+    "local_links_and_anchors": true,
+    "gfm_parse": {
+      "h2": 5,
+      "h3": 12,
+      "paper_summaries": 201
     }
   },
-  "checks": [
-    {
-      "check": "范围与计数",
-      "result": "85=62+15+8；六本核心期刊合计70条，其中8条明确另归背景，因此核心电网62条与期刊索引合计70条并不冲突。6篇遗忘参照、2条候选均单列，未混入85条。"
-    },
-    {
-      "check": "时间窗及日期",
-      "result": "2024-01-01至2026-11-02明确为三个日历年，说明不等于滚动36个月。6条Joule记录的卷期/月粒度依据均已注明；P045为2025-01；U03精确日期留空。在线年与卷期年不同的5条记录保留了issue_year，未把DOI年份当在线年。"
-    },
-    {
-      "check": "摘要和题名保真",
-      "result": "85条最终数据的题名、摘要、日期、年份、期刊、DOI与四份已核验工作源数据全部一致。人工阅读README与四份docs，以及各条题名和中文概述，没有发现题名—摘要—结论实质矛盾。此前已独立逐篇复核28条Nature Communications保存的官网摘要证据；本代理原先研究的20条亦未出现导出变更。"
-    },
-    {
-      "check": "不同输出格式",
-      "result": "README与CATALOG各含85条。CATALOG中的每条题名、摘要、日期与遗忘筛查理由与JSON一致；CSV的题名、摘要、日期、年、期刊、DOI与JSON逐项一致；Excel主表85条及专题表6条的18列与对应JSON一致。"
-    },
-    {
-      "check": "链接",
-      "result": "README与四份docs的本地文件和显式锚点均存在；主目录每条有原文链接和DOI，source_urls非空。此次未重新逐个联网测试所有外部URL的实时可达性；403/订阅限制不等于链接缺失。"
-    },
-    {
-      "check": "遗忘结论",
-      "result": "主目录0条直接命中、21条邻近、64条未见直接相关；结论限定于选定期刊、时间窗及已核验文献，并明确不是不存在性证明。IEEE直接研究作为反例列出，NMI/NC非电网方法参照未计为电网交叉命中。概念漂移、RAG删文档、物理线路切除、社会意义unlearning均未误判。"
-    },
-    {
-      "check": "系统相关性边界",
-      "result": "光伏资源、城市能耗、AI用电、资产等8条背景补充明确标记。综述/观点/评论与原创类型均标注；NCS、NREE、Communications Engineering为交叉扩展，不默认同一学术等级。"
-    },
-    {
-      "check": "自动校验",
-      "result": "运行scripts/validate_catalog.py通过；另行加强检查目录计数、锚点、格式间字段一致性及DOI跨表去重，均通过。"
-    }
-  ],
-  "minor_suggestions": [
-    {
-      "severity": "low",
-      "file": "docs/UNLEARNING.md",
-      "location": "U03核验段末尾",
-      "finding": "“不能以9月1日代填。。”有双句号。",
-      "suggestion": "可删去一个句号，不影响事实或统计。"
-    },
-    {
-      "severity": "low",
-      "file": "docs/JOURNALS.md",
-      "location": "期刊表后的解释句",
-      "finding": "“期刊数表示本次目录中含背景补充的记录数”中“期刊数”应为“条目数”。",
-      "suggestion": "改为“表中条目数表示……”更准确；表头本身已写“本次条目数”，当前不影响计数理解。"
-    }
-  ],
-  "limitations": [
-    "本轮为最终成果一致性与表述QA，没有对85篇全部重新开展独立网络检索。",
-    "既有期刊检索覆盖与摘要证据局限在docs/SEARCH_STRATEGY.md和逐条evidence_level中明确，不因QA通过而视为系统综述或全量全文审计。"
-  ]
+  "detail": "quality_review_v2.json"
 }

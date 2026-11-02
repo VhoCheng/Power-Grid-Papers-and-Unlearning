@@ -1,12 +1,8 @@
-# 完整文献目录
+# 全部论文基本信息与核验
 
-本次保存85条电网及延伸文献：核心期刊电网文献62条，交叉与扩展期刊15条，背景补充8条；另列6篇遗忘专题参照及2条待补查线索。按DOI去重；每条保存题目、中文摘要概述、期刊、年份、链接及筛查依据。
+本页保存逐条筛查依据；首页已经默认展开每条中文摘要，无需进入本页才能阅读。
 
-检索日期：2026年11月2日（Asia/Shanghai）。近三年按2024、2025、2026三个日历年处理，截止2026-11-02；不等于向前滚动36个月，也不覆盖尚未结束的2026全年。优先采用首次在线发表年份，个别Joule记录仅能核验卷期日/月，已逐条注明。
-
-摘要均为中文概述；每条的原始摘要链接、日期依据和遗忘筛查层级随记录保存。
-
-## Nature Communications
+[返回首页](../README.md) · [覆盖核查](COVERAGE_AUDIT.md) · [数据](../data/papers.json)
 
 <a id="P001"></a>
 ### P001 · Computationally efficient tail distribution-aware large-scale power system overloading risk assessment
@@ -19,11 +15,11 @@
 
 **遗忘筛查：** 邻近但非遗忘。涉及AI建模、信息筛选或隐私保护，但所读摘要未定义遗忘对象、删除目标及删除有效性验证。
 
-**核验：** 出版社原始页面：题目、日期、摘要已核对。日期口径：在线发表日期。
-
-[论文与原始摘要](https://www.nature.com/articles/s41467-025-68241-y) · [DOI](https://doi.org/10.1038/s41467-025-68241-y)
+**核验：** 出版社原始页面：题目、日期、摘要已核对。日期口径：在线发表日期；卷期年份：2026。
 
 **备注：** DOI含2025但在线发表日期为2026-01-05，按2026统计。
+
+[论文与来源](https://www.nature.com/articles/s41467-025-68241-y) · [DOI](https://doi.org/10.1038/s41467-025-68241-y)
 
 <a id="P002"></a>
 ### P002 · Probabilistic day-ahead forecasting of system-level renewable energy and electricity demand
@@ -36,9 +32,9 @@
 
 **遗忘筛查：** 邻近但非遗忘。涉及AI建模、信息筛选或隐私保护，但所读摘要未定义遗忘对象、删除目标及删除有效性验证。
 
-**核验：** 出版社原始页面：题目、日期、摘要已核对。日期口径：在线发表日期。
+**核验：** 出版社原始页面：题目、日期、摘要已核对。日期口径：在线发表日期；卷期年份：2026。
 
-[论文与原始摘要](https://www.nature.com/articles/s41467-026-69015-w) · [DOI](https://doi.org/10.1038/s41467-026-69015-w)
+[论文与来源](https://www.nature.com/articles/s41467-026-69015-w) · [DOI](https://doi.org/10.1038/s41467-026-69015-w)
 
 <a id="P003"></a>
 ### P003 · Decentralized electric vehicle charging enables large-scale photovoltaic integration in tropical cities
@@ -51,9 +47,9 @@
 
 **遗忘筛查：** 未见直接相关。已读标题与摘要未提出指定训练数据、客户端或概念的影响删除；不能据此断言全文绝无相关表述。
 
-**核验：** 出版社原始页面：题目、日期、摘要已核对。日期口径：在线发表日期。
+**核验：** 出版社原始页面：题目、日期、摘要已核对。日期口径：在线发表日期；卷期年份：2026。
 
-[论文与原始摘要](https://www.nature.com/articles/s41467-026-71123-6) · [DOI](https://doi.org/10.1038/s41467-026-71123-6)
+[论文与来源](https://www.nature.com/articles/s41467-026-71123-6) · [DOI](https://doi.org/10.1038/s41467-026-71123-6)
 
 <a id="P004"></a>
 ### P004 · Long-duration electricity storage needs for coping with Dunkelflaute events in Europe
@@ -66,11 +62,11 @@
 
 **遗忘筛查：** 未见直接相关。已读标题与摘要未提出指定训练数据、客户端或概念的影响删除；不能据此断言全文绝无相关表述。
 
-**核验：** 出版社原始页面：题目、日期、摘要已核对。日期口径：在线发表日期。
-
-[论文与原始摘要](https://www.nature.com/articles/s41467-026-72681-5) · [DOI](https://doi.org/10.1038/s41467-026-72681-5)
+**核验：** 出版社原始页面：题目、日期、摘要已核对。日期口径：在线发表日期；卷期年份：2026。
 
 **备注：** 页面标记2026-07-09作者更正；本记录以检索时已更新页面为准。
+
+[论文与来源](https://www.nature.com/articles/s41467-026-72681-5) · [DOI](https://doi.org/10.1038/s41467-026-72681-5)
 
 <a id="P005"></a>
 ### P005 · High-impact weather effects on wind and solar power systems under future climate scenarios in China
@@ -83,9 +79,9 @@
 
 **遗忘筛查：** 未见直接相关。已读标题与摘要未提出指定训练数据、客户端或概念的影响删除；不能据此断言全文绝无相关表述。
 
-**核验：** 出版社原始页面：题目、日期、摘要已核对。日期口径：在线发表日期。
+**核验：** 出版社原始页面：题目、日期、摘要已核对。日期口径：在线发表日期；卷期年份：2026。
 
-[论文与原始摘要](https://www.nature.com/articles/s41467-026-73427-z) · [DOI](https://doi.org/10.1038/s41467-026-73427-z)
+[论文与来源](https://www.nature.com/articles/s41467-026-73427-z) · [DOI](https://doi.org/10.1038/s41467-026-73427-z)
 
 <a id="P006"></a>
 ### P006 · Navigating optimal solar-wind trade-offs under climate change
@@ -98,9 +94,9 @@
 
 **遗忘筛查：** 未见直接相关。已读标题与摘要未提出指定训练数据、客户端或概念的影响删除；不能据此断言全文绝无相关表述。
 
-**核验：** 出版社原始页面：题目、日期、摘要已核对。日期口径：在线发表日期。
+**核验：** 出版社原始页面：题目、日期、摘要已核对。日期口径：在线发表日期；卷期年份：2026。
 
-[论文与原始摘要](https://www.nature.com/articles/s41467-026-75879-9) · [DOI](https://doi.org/10.1038/s41467-026-75879-9)
+[论文与来源](https://www.nature.com/articles/s41467-026-75879-9) · [DOI](https://doi.org/10.1038/s41467-026-75879-9)
 
 <a id="P007"></a>
 ### P007 · Facilitating megacity electricity decarbonization via grid-interactive demand-side resource management
@@ -113,9 +109,9 @@
 
 **遗忘筛查：** 未见直接相关。已读标题与摘要未提出指定训练数据、客户端或概念的影响删除；不能据此断言全文绝无相关表述。
 
-**核验：** 出版社原始页面：题目、日期、摘要已核对。日期口径：在线发表日期。
+**核验：** 出版社原始页面：题目、日期、摘要已核对。日期口径：在线发表日期；卷期年份：2026。
 
-[论文与原始摘要](https://www.nature.com/articles/s41467-026-76799-4) · [DOI](https://doi.org/10.1038/s41467-026-76799-4)
+[论文与来源](https://www.nature.com/articles/s41467-026-76799-4) · [DOI](https://doi.org/10.1038/s41467-026-76799-4)
 
 <a id="P008"></a>
 ### P008 · Power distribution system blackstart restoration using renewable energy
@@ -128,9 +124,9 @@
 
 **遗忘筛查：** 邻近但非遗忘。涉及AI建模、信息筛选或隐私保护，但所读摘要未定义遗忘对象、删除目标及删除有效性验证。
 
-**核验：** 出版社原始页面：题目、日期、摘要已核对。日期口径：在线发表日期。
+**核验：** 出版社原始页面：题目、日期、摘要已核对。日期口径：在线发表日期；卷期年份：2026。
 
-[论文与原始摘要](https://www.nature.com/articles/s41467-026-76692-0) · [DOI](https://doi.org/10.1038/s41467-026-76692-0)
+[论文与来源](https://www.nature.com/articles/s41467-026-76692-0) · [DOI](https://doi.org/10.1038/s41467-026-76692-0)
 
 <a id="P009"></a>
 ### P009 · Electricity load forecasting under extreme heat and cold waves
@@ -143,9 +139,9 @@
 
 **遗忘筛查：** 邻近但非遗忘。涉及AI建模、信息筛选或隐私保护，但所读摘要未定义遗忘对象、删除目标及删除有效性验证。
 
-**核验：** 出版社原始页面：题目、日期、摘要已核对。日期口径：在线发表日期。
+**核验：** 出版社原始页面：题目、日期、摘要已核对。日期口径：在线发表日期；卷期年份：2026。
 
-[论文与原始摘要](https://www.nature.com/articles/s41467-026-77014-0) · [DOI](https://doi.org/10.1038/s41467-026-77014-0)
+[论文与来源](https://www.nature.com/articles/s41467-026-77014-0) · [DOI](https://doi.org/10.1038/s41467-026-77014-0)
 
 <a id="P010"></a>
 ### P010 · Global spatiotemporal optimization of photovoltaic and wind power to achieve the Paris Agreement targets
@@ -158,9 +154,9 @@
 
 **遗忘筛查：** 未见直接相关。已读标题与摘要未提出指定训练数据、客户端或概念的影响删除；不能据此断言全文绝无相关表述。
 
-**核验：** 出版社原始页面：题目、日期、摘要已核对。日期口径：在线发表日期。
+**核验：** 出版社原始页面：题目、日期、摘要已核对。日期口径：在线发表日期；卷期年份：2025。
 
-[论文与原始摘要](https://www.nature.com/articles/s41467-025-57292-w) · [DOI](https://doi.org/10.1038/s41467-025-57292-w)
+[论文与来源](https://www.nature.com/articles/s41467-025-57292-w) · [DOI](https://doi.org/10.1038/s41467-025-57292-w)
 
 <a id="P011"></a>
 ### P011 · Coordinating power sector climate transitions under policy uncertainty
@@ -173,9 +169,9 @@
 
 **遗忘筛查：** 未见直接相关。已读标题与摘要未提出指定训练数据、客户端或概念的影响删除；不能据此断言全文绝无相关表述。
 
-**核验：** 出版社原始页面：题目、日期、摘要已核对。日期口径：在线发表日期。
+**核验：** 出版社原始页面：题目、日期、摘要已核对。日期口径：在线发表日期；卷期年份：2025。
 
-[论文与原始摘要](https://www.nature.com/articles/s41467-025-59126-1) · [DOI](https://doi.org/10.1038/s41467-025-59126-1)
+[论文与来源](https://www.nature.com/articles/s41467-025-59126-1) · [DOI](https://doi.org/10.1038/s41467-025-59126-1)
 
 <a id="P012"></a>
 ### P012 · Globally interconnected solar-wind system addresses future electricity demands
@@ -188,9 +184,9 @@
 
 **遗忘筛查：** 未见直接相关。已读标题与摘要未提出指定训练数据、客户端或概念的影响删除；不能据此断言全文绝无相关表述。
 
-**核验：** 出版社原始页面：题目、日期、摘要已核对。日期口径：在线发表日期。
+**核验：** 出版社原始页面：题目、日期、摘要已核对。日期口径：在线发表日期；卷期年份：2025。
 
-[论文与原始摘要](https://www.nature.com/articles/s41467-025-59879-9) · [DOI](https://doi.org/10.1038/s41467-025-59879-9)
+[论文与来源](https://www.nature.com/articles/s41467-025-59879-9) · [DOI](https://doi.org/10.1038/s41467-025-59879-9)
 
 <a id="P013"></a>
 ### P013 · Vulnerability of power distribution networks to local temperature changes induced by global climate change
@@ -203,9 +199,9 @@
 
 **遗忘筛查：** 未见直接相关。已读标题与摘要未提出指定训练数据、客户端或概念的影响删除；不能据此断言全文绝无相关表述。
 
-**核验：** 出版社原始页面：题目、日期、摘要已核对。日期口径：在线发表日期。
+**核验：** 出版社原始页面：题目、日期、摘要已核对。日期口径：在线发表日期；卷期年份：2025。
 
-[论文与原始摘要](https://www.nature.com/articles/s41467-025-59749-4) · [DOI](https://doi.org/10.1038/s41467-025-59749-4)
+[论文与来源](https://www.nature.com/articles/s41467-025-59749-4) · [DOI](https://doi.org/10.1038/s41467-025-59749-4)
 
 <a id="P014"></a>
 ### P014 · Electric transmission value and its drivers in United States power markets
@@ -218,9 +214,9 @@
 
 **遗忘筛查：** 未见直接相关。已读标题与摘要未提出指定训练数据、客户端或概念的影响删除；不能据此断言全文绝无相关表述。
 
-**核验：** 出版社原始页面：题目、日期、摘要已核对。日期口径：在线发表日期。
+**核验：** 出版社原始页面：题目、日期、摘要已核对。日期口径：在线发表日期；卷期年份：2025。
 
-[论文与原始摘要](https://www.nature.com/articles/s41467-025-63143-5) · [DOI](https://doi.org/10.1038/s41467-025-63143-5)
+[论文与来源](https://www.nature.com/articles/s41467-025-63143-5) · [DOI](https://doi.org/10.1038/s41467-025-63143-5)
 
 <a id="P015"></a>
 ### P015 · Data-driven dynamic modeling for inverter-based resources using neural networks
@@ -233,9 +229,9 @@
 
 **遗忘筛查：** 邻近但非遗忘。涉及AI建模、信息筛选或隐私保护，但所读摘要未定义遗忘对象、删除目标及删除有效性验证。
 
-**核验：** 出版社原始页面：题目、日期、摘要已核对。日期口径：在线发表日期。
+**核验：** 出版社原始页面：题目、日期、摘要已核对。日期口径：在线发表日期；卷期年份：2025。
 
-[论文与原始摘要](https://www.nature.com/articles/s41467-025-66604-z) · [DOI](https://doi.org/10.1038/s41467-025-66604-z)
+[论文与来源](https://www.nature.com/articles/s41467-025-66604-z) · [DOI](https://doi.org/10.1038/s41467-025-66604-z)
 
 <a id="P016"></a>
 ### P016 · Deep learning predicts real-world electric vehicle direct current charging profiles and durations
@@ -248,9 +244,9 @@
 
 **遗忘筛查：** 邻近但非遗忘。涉及AI建模、信息筛选或隐私保护，但所读摘要未定义遗忘对象、删除目标及删除有效性验证。
 
-**核验：** 出版社原始页面：题目、日期、摘要已核对。日期口径：在线发表日期。
+**核验：** 出版社原始页面：题目、日期、摘要已核对。日期口径：在线发表日期；卷期年份：2025。
 
-[论文与原始摘要](https://www.nature.com/articles/s41467-025-65970-y) · [DOI](https://doi.org/10.1038/s41467-025-65970-y)
+[论文与来源](https://www.nature.com/articles/s41467-025-65970-y) · [DOI](https://doi.org/10.1038/s41467-025-65970-y)
 
 <a id="P017"></a>
 ### P017 · Avoiding ecosystem and social impacts of hydropower, wind, and solar in Southern Africa’s low-carbon electricity system
@@ -263,9 +259,9 @@
 
 **遗忘筛查：** 未见直接相关。已读标题与摘要未提出指定训练数据、客户端或概念的影响删除；不能据此断言全文绝无相关表述。
 
-**核验：** 出版社原始页面：题目、日期、摘要已核对。日期口径：在线发表日期。
+**核验：** 出版社原始页面：题目、日期、摘要已核对。日期口径：在线发表日期；卷期年份：2024。
 
-[论文与原始摘要](https://www.nature.com/articles/s41467-024-45313-z) · [DOI](https://doi.org/10.1038/s41467-024-45313-z)
+[论文与来源](https://www.nature.com/articles/s41467-024-45313-z) · [DOI](https://doi.org/10.1038/s41467-024-45313-z)
 
 <a id="P018"></a>
 ### P018 · Higher-order Granger reservoir computing: simultaneously achieving scalable complex structures inference and accurate dynamics prediction
@@ -278,9 +274,9 @@
 
 **遗忘筛查：** 邻近但非遗忘。涉及AI建模、信息筛选或隐私保护，但所读摘要未定义遗忘对象、删除目标及删除有效性验证。
 
-**核验：** 出版社原始页面：题目、日期、摘要已核对。日期口径：在线发表日期。
+**核验：** 出版社原始页面：题目、日期、摘要已核对。日期口径：在线发表日期；卷期年份：2024。
 
-[论文与原始摘要](https://www.nature.com/articles/s41467-024-46852-1) · [DOI](https://doi.org/10.1038/s41467-024-46852-1)
+[论文与来源](https://www.nature.com/articles/s41467-024-46852-1) · [DOI](https://doi.org/10.1038/s41467-024-46852-1)
 
 <a id="P019"></a>
 ### P019 · On the potential of vehicle-to-grid and second-life batteries to provide energy and material security
@@ -293,9 +289,9 @@
 
 **遗忘筛查：** 未见直接相关。已读标题与摘要未提出指定训练数据、客户端或概念的影响删除；不能据此断言全文绝无相关表述。
 
-**核验：** 出版社原始页面：题目、日期、摘要已核对。日期口径：在线发表日期。
+**核验：** 出版社原始页面：题目、日期、摘要已核对。日期口径：在线发表日期；卷期年份：2024。
 
-[论文与原始摘要](https://www.nature.com/articles/s41467-024-48554-0) · [DOI](https://doi.org/10.1038/s41467-024-48554-0)
+[论文与来源](https://www.nature.com/articles/s41467-024-48554-0) · [DOI](https://doi.org/10.1038/s41467-024-48554-0)
 
 <a id="P020"></a>
 ### P020 · Break down the decentralization-security-privacy trilemma in management of distributed energy systems
@@ -308,9 +304,9 @@
 
 **遗忘筛查：** 邻近但非遗忘。涉及AI建模、信息筛选或隐私保护，但所读摘要未定义遗忘对象、删除目标及删除有效性验证。
 
-**核验：** 出版社原始页面：题目、日期、摘要已核对。日期口径：在线发表日期。
+**核验：** 出版社原始页面：题目、日期、摘要已核对。日期口径：在线发表日期；卷期年份：2024。
 
-[论文与原始摘要](https://www.nature.com/articles/s41467-024-48860-7) · [DOI](https://doi.org/10.1038/s41467-024-48860-7)
+[论文与来源](https://www.nature.com/articles/s41467-024-48860-7) · [DOI](https://doi.org/10.1038/s41467-024-48860-7)
 
 <a id="P021"></a>
 ### P021 · Multi-resource dynamic coordinated planning of flexible distribution network
@@ -323,9 +319,9 @@
 
 **遗忘筛查：** 未见直接相关。已读标题与摘要未提出指定训练数据、客户端或概念的影响删除；不能据此断言全文绝无相关表述。
 
-**核验：** 出版社原始页面：题目、日期、摘要已核对。日期口径：在线发表日期。
+**核验：** 出版社原始页面：题目、日期、摘要已核对。日期口径：在线发表日期；卷期年份：2024。
 
-[论文与原始摘要](https://www.nature.com/articles/s41467-024-48862-5) · [DOI](https://doi.org/10.1038/s41467-024-48862-5)
+[论文与来源](https://www.nature.com/articles/s41467-024-48862-5) · [DOI](https://doi.org/10.1038/s41467-024-48862-5)
 
 <a id="P022"></a>
 ### P022 · Early warning and proactive control strategies for power blackouts caused by gas network malfunctions
@@ -338,9 +334,9 @@
 
 **遗忘筛查：** 未见直接相关。已读标题与摘要未提出指定训练数据、客户端或概念的影响删除；不能据此断言全文绝无相关表述。
 
-**核验：** 出版社原始页面：题目、日期、摘要已核对。日期口径：在线发表日期。
+**核验：** 出版社原始页面：题目、日期、摘要已核对。日期口径：在线发表日期；卷期年份：2024。
 
-[论文与原始摘要](https://www.nature.com/articles/s41467-024-48964-0) · [DOI](https://doi.org/10.1038/s41467-024-48964-0)
+[论文与来源](https://www.nature.com/articles/s41467-024-48964-0) · [DOI](https://doi.org/10.1038/s41467-024-48964-0)
 
 <a id="P023"></a>
 ### P023 · Climate change impacts on the extreme power shortage events of wind-solar supply systems worldwide during 1980–2022
@@ -353,9 +349,9 @@
 
 **遗忘筛查：** 未见直接相关。已读标题与摘要未提出指定训练数据、客户端或概念的影响删除；不能据此断言全文绝无相关表述。
 
-**核验：** 出版社原始页面：题目、日期、摘要已核对。日期口径：在线发表日期。
+**核验：** 出版社原始页面：题目、日期、摘要已核对。日期口径：在线发表日期；卷期年份：2024。
 
-[论文与原始摘要](https://www.nature.com/articles/s41467-024-48966-y) · [DOI](https://doi.org/10.1038/s41467-024-48966-y)
+[论文与来源](https://www.nature.com/articles/s41467-024-48966-y) · [DOI](https://doi.org/10.1038/s41467-024-48966-y)
 
 <a id="P024"></a>
 ### P024 · Impacts of large-scale deployment of vertical bifacial photovoltaics on European electricity market dynamics
@@ -368,9 +364,9 @@
 
 **遗忘筛查：** 未见直接相关。已读标题与摘要未提出指定训练数据、客户端或概念的影响删除；不能据此断言全文绝无相关表述。
 
-**核验：** 出版社原始页面：题目、日期、摘要已核对。日期口径：在线发表日期。
+**核验：** 出版社原始页面：题目、日期、摘要已核对。日期口径：在线发表日期；卷期年份：2024。
 
-[论文与原始摘要](https://www.nature.com/articles/s41467-024-50762-7) · [DOI](https://doi.org/10.1038/s41467-024-50762-7)
+[论文与来源](https://www.nature.com/articles/s41467-024-50762-7) · [DOI](https://doi.org/10.1038/s41467-024-50762-7)
 
 <a id="P025"></a>
 ### P025 · Offshore wind and wave energy can reduce total installed capacity required in zero-emissions grids
@@ -383,9 +379,9 @@
 
 **遗忘筛查：** 未见直接相关。已读标题与摘要未提出指定训练数据、客户端或概念的影响删除；不能据此断言全文绝无相关表述。
 
-**核验：** 出版社原始页面：题目、日期、摘要已核对。日期口径：在线发表日期。
+**核验：** 出版社原始页面：题目、日期、摘要已核对。日期口径：在线发表日期；卷期年份：2024。
 
-[论文与原始摘要](https://www.nature.com/articles/s41467-024-50040-6) · [DOI](https://doi.org/10.1038/s41467-024-50040-6)
+[论文与来源](https://www.nature.com/articles/s41467-024-50040-6) · [DOI](https://doi.org/10.1038/s41467-024-50040-6)
 
 <a id="P026"></a>
 ### P026 · The value of long-duration energy storage under various grid conditions in a zero-emissions future
@@ -398,9 +394,9 @@
 
 **遗忘筛查：** 未见直接相关。已读标题与摘要未提出指定训练数据、客户端或概念的影响删除；不能据此断言全文绝无相关表述。
 
-**核验：** 出版社原始页面：题目、日期、摘要已核对。日期口径：在线发表日期。
+**核验：** 出版社原始页面：题目、日期、摘要已核对。日期口径：在线发表日期；卷期年份：2024。
 
-[论文与原始摘要](https://www.nature.com/articles/s41467-024-53274-6) · [DOI](https://doi.org/10.1038/s41467-024-53274-6)
+[论文与来源](https://www.nature.com/articles/s41467-024-53274-6) · [DOI](https://doi.org/10.1038/s41467-024-53274-6)
 
 <a id="P027"></a>
 ### P027 · Climate change and its influence on water systems increases the cost of electricity system decarbonization
@@ -413,9 +409,9 @@
 
 **遗忘筛查：** 未见直接相关。已读标题与摘要未提出指定训练数据、客户端或概念的影响删除；不能据此断言全文绝无相关表述。
 
-**核验：** 出版社原始页面：题目、日期、摘要已核对。日期口径：在线发表日期。
+**核验：** 出版社原始页面：题目、日期、摘要已核对。日期口径：在线发表日期；卷期年份：2024。
 
-[论文与原始摘要](https://www.nature.com/articles/s41467-024-54162-9) · [DOI](https://doi.org/10.1038/s41467-024-54162-9)
+[论文与来源](https://www.nature.com/articles/s41467-024-54162-9) · [DOI](https://doi.org/10.1038/s41467-024-54162-9)
 
 <a id="P028"></a>
 ### P028 · Designing a sector-coupled European energy system robust to 60 years of historical weather data
@@ -428,11 +424,9 @@
 
 **遗忘筛查：** 未见直接相关。已读标题与摘要未提出指定训练数据、客户端或概念的影响删除；不能据此断言全文绝无相关表述。
 
-**核验：** 出版社原始页面：题目、日期、摘要已核对。日期口径：在线发表日期。
+**核验：** 出版社原始页面：题目、日期、摘要已核对。日期口径：在线发表日期；卷期年份：2024。
 
-[论文与原始摘要](https://www.nature.com/articles/s41467-024-54853-3) · [DOI](https://doi.org/10.1038/s41467-024-54853-3)
-
-## Nature Energy
+[论文与来源](https://www.nature.com/articles/s41467-024-54853-3) · [DOI](https://doi.org/10.1038/s41467-024-54853-3)
 
 <a id="P029"></a>
 ### P029 · Integrated planning of net-zero power systems for all
@@ -445,9 +439,9 @@
 
 **遗忘筛查：** 未见直接相关。题目及可获取摘要研究电力系统问题，未见删除指定训练数据、客户端或知识/概念影响的目标与验证；未完成所有付费全文筛查。
 
-**核验：** 官网完整摘要与题目/日期核验。日期口径：在线发表日期。
+**核验：** 官网完整摘要与题目/日期核验。日期口径：在线发表日期；卷期年份：2026。
 
-[论文与原始摘要](https://www.nature.com/articles/s41560-026-02054-1) · [DOI](https://doi.org/10.1038/s41560-026-02054-1)
+[论文与来源](https://www.nature.com/articles/s41560-026-02054-1) · [DOI](https://doi.org/10.1038/s41560-026-02054-1)
 
 <a id="P030"></a>
 ### P030 · Industrial overcapacity can enable seasonal flexibility in electricity use
@@ -460,9 +454,9 @@
 
 **遗忘筛查：** 未见直接相关。题目及可获取摘要研究电力系统问题，未见删除指定训练数据、客户端或知识/概念影响的目标与验证；未完成所有付费全文筛查。
 
-**核验：** 官网完整摘要与题目/日期核验。日期口径：在线发表日期。
+**核验：** 官网完整摘要与题目/日期核验。日期口径：在线发表日期；卷期年份：2026。
 
-[论文与原始摘要](https://www.nature.com/articles/s41560-026-02073-y) · [DOI](https://doi.org/10.1038/s41560-026-02073-y)
+[论文与来源](https://www.nature.com/articles/s41560-026-02073-y) · [DOI](https://doi.org/10.1038/s41560-026-02073-y)
 
 <a id="P031"></a>
 ### P031 · Lessons from wholesale market success for system service procurement design in high renewable electricity markets
@@ -475,9 +469,9 @@
 
 **遗忘筛查：** 未见直接相关。题目及可获取摘要研究电力系统问题，未见删除指定训练数据、客户端或知识/概念影响的目标与验证；未完成所有付费全文筛查。
 
-**核验：** 官网完整摘要与题目/日期核验。日期口径：在线发表日期。
+**核验：** 官网完整摘要与题目/日期核验。日期口径：在线发表日期；卷期年份：2025。
 
-[论文与原始摘要](https://www.nature.com/articles/s41560-024-01699-0) · [DOI](https://doi.org/10.1038/s41560-024-01699-0)
+[论文与来源](https://www.nature.com/articles/s41560-024-01699-0) · [DOI](https://doi.org/10.1038/s41560-024-01699-0)
 
 <a id="P032"></a>
 ### P032 · Power price stability and the insurance value of renewable technologies
@@ -490,9 +484,9 @@
 
 **遗忘筛查：** 未见直接相关。题目及可获取摘要研究电力系统问题，未见删除指定训练数据、客户端或知识/概念影响的目标与验证；未完成所有付费全文筛查。
 
-**核验：** 官网完整摘要与题目/日期核验。日期口径：在线发表日期。
+**核验：** 官网完整摘要与题目/日期核验。日期口径：在线发表日期；卷期年份：2025。
 
-[论文与原始摘要](https://www.nature.com/articles/s41560-025-01704-0) · [DOI](https://doi.org/10.1038/s41560-025-01704-0)
+[论文与来源](https://www.nature.com/articles/s41560-025-01704-0) · [DOI](https://doi.org/10.1038/s41560-025-01704-0)
 
 <a id="P033"></a>
 ### P033 · Multi-country evidence on societal factors to include in energy transition modelling
@@ -505,9 +499,9 @@
 
 **遗忘筛查：** 未见直接相关。题目及可获取摘要研究电力系统问题，未见删除指定训练数据、客户端或知识/概念影响的目标与验证；未完成所有付费全文筛查。
 
-**核验：** 官网完整摘要与题目/日期核验。日期口径：在线发表日期。
+**核验：** 官网完整摘要与题目/日期核验。日期口径：在线发表日期；卷期年份：2025。
 
-[论文与原始摘要](https://www.nature.com/articles/s41560-025-01719-7) · [DOI](https://doi.org/10.1038/s41560-025-01719-7)
+[论文与来源](https://www.nature.com/articles/s41560-025-01719-7) · [DOI](https://doi.org/10.1038/s41560-025-01719-7)
 
 <a id="P034"></a>
 ### P034 · Solar and battery can reduce energy costs and provide affordable outage backup for US households
@@ -520,9 +514,9 @@
 
 **遗忘筛查：** 未见直接相关。题目及可获取摘要研究电力系统问题，未见删除指定训练数据、客户端或知识/概念影响的目标与验证；未完成所有付费全文筛查。
 
-**核验：** 官网完整摘要与题目/日期核验。日期口径：在线发表日期。
+**核验：** 官网完整摘要与题目/日期核验。日期口径：在线发表日期；卷期年份：2025。
 
-[论文与原始摘要](https://www.nature.com/articles/s41560-025-01821-w) · [DOI](https://doi.org/10.1038/s41560-025-01821-w)
+[论文与来源](https://www.nature.com/articles/s41560-025-01821-w) · [DOI](https://doi.org/10.1038/s41560-025-01821-w)
 
 <a id="P035"></a>
 ### P035 · Shaping residential electricity demand with negative pricing
@@ -535,9 +529,11 @@
 
 **遗忘筛查：** 未见直接相关。题目及可获取摘要研究电力系统问题，未见删除指定训练数据、客户端或知识/概念影响的目标与验证；未完成所有付费全文筛查。
 
-**核验：** 官网完整摘要与题目/日期核验。日期口径：在线发表日期。
+**核验：** 官网完整摘要与题目/日期核验。日期口径：在线发表日期；卷期年份：2026。
 
-[论文与原始摘要](https://www.nature.com/articles/s41560-025-01901-x) · [DOI](https://doi.org/10.1038/s41560-025-01901-x)
+**备注：** 在线首发年份为2025，卷期年份为2026；按在线首发年统计。
+
+[论文与来源](https://www.nature.com/articles/s41560-025-01901-x) · [DOI](https://doi.org/10.1038/s41560-025-01901-x)
 
 <a id="P036"></a>
 ### P036 · Implications of policy-driven transmission expansion for costs, emissions and reliability in the USA
@@ -550,9 +546,11 @@
 
 **遗忘筛查：** 未见直接相关。题目及可获取摘要研究电力系统问题，未见删除指定训练数据、客户端或知识/概念影响的目标与验证；未完成所有付费全文筛查。
 
-**核验：** 官网完整摘要与题目/日期核验。日期口径：在线发表日期。
+**核验：** 官网完整摘要与题目/日期核验。日期口径：在线发表日期；卷期年份：2026。
 
-[论文与原始摘要](https://www.nature.com/articles/s41560-025-01921-7) · [DOI](https://doi.org/10.1038/s41560-025-01921-7)
+**备注：** 在线首发年份为2025，卷期年份为2026；按在线首发年统计。
+
+[论文与来源](https://www.nature.com/articles/s41560-025-01921-7) · [DOI](https://doi.org/10.1038/s41560-025-01921-7)
 
 <a id="P037"></a>
 ### P037 · Vehicle-to-home charging can cut costs and greenhouse gas emissions across the USA
@@ -565,9 +563,9 @@
 
 **遗忘筛查：** 未见直接相关。题目及可获取摘要研究电力系统问题，未见删除指定训练数据、客户端或知识/概念影响的目标与验证；未完成所有付费全文筛查。
 
-**核验：** 官网完整摘要与题目/日期核验。日期口径：在线发表日期。
+**核验：** 官网完整摘要与题目/日期核验。日期口径：在线发表日期；卷期年份：2025。
 
-[论文与原始摘要](https://www.nature.com/articles/s41560-025-01894-7) · [DOI](https://doi.org/10.1038/s41560-025-01894-7)
+[论文与来源](https://www.nature.com/articles/s41560-025-01894-7) · [DOI](https://doi.org/10.1038/s41560-025-01894-7)
 
 <a id="P038"></a>
 ### P038 · The influence of additionality and time-matching requirements on the emissions from grid-connected hydrogen production
@@ -580,9 +578,9 @@
 
 **遗忘筛查：** 未见直接相关。题目及可获取摘要研究电力系统问题，未见删除指定训练数据、客户端或知识/概念影响的目标与验证；未完成所有付费全文筛查。
 
-**核验：** 官网完整摘要与题目/日期核验。日期口径：在线发表日期。
+**核验：** 官网完整摘要与题目/日期核验。日期口径：在线发表日期；卷期年份：2024。
 
-[论文与原始摘要](https://www.nature.com/articles/s41560-023-01435-0) · [DOI](https://doi.org/10.1038/s41560-023-01435-0)
+[论文与来源](https://www.nature.com/articles/s41560-023-01435-0) · [DOI](https://doi.org/10.1038/s41560-023-01435-0)
 
 <a id="P039"></a>
 ### P039 · A geographically disaggregated approach to integrate low-carbon technologies across local electricity networks
@@ -595,9 +593,9 @@
 
 **遗忘筛查：** 邻近但非遗忘。正文使用神经网络元模型与聚类进行网络成本估计；未提出训练数据删除或概念撤回，普通机器学习不是机器遗忘。
 
-**核验：** 官网全文、摘要和日期核验。日期口径：在线发表日期。
+**核验：** 官网全文、摘要和日期核验。日期口径：在线发表日期；卷期年份：2024。
 
-[论文与原始摘要](https://www.nature.com/articles/s41560-024-01542-6) · [DOI](https://doi.org/10.1038/s41560-024-01542-6)
+[论文与来源](https://www.nature.com/articles/s41560-024-01542-6) · [DOI](https://doi.org/10.1038/s41560-024-01542-6)
 
 <a id="P040"></a>
 ### P040 · Exploiting different electricity markets via highly rate-mismatched modular electrochemical synthesis
@@ -610,9 +608,9 @@
 
 **遗忘筛查：** 未见直接相关。题目及可获取摘要研究电力系统问题，未见删除指定训练数据、客户端或知识/概念影响的目标与验证；未完成所有付费全文筛查。
 
-**核验：** 官网完整摘要与题目/日期核验。日期口径：在线发表日期。
+**核验：** 官网完整摘要与题目/日期核验。日期口径：在线发表日期；卷期年份：2024。
 
-[论文与原始摘要](https://www.nature.com/articles/s41560-024-01578-8) · [DOI](https://doi.org/10.1038/s41560-024-01578-8)
+[论文与来源](https://www.nature.com/articles/s41560-024-01578-8) · [DOI](https://doi.org/10.1038/s41560-024-01578-8)
 
 <a id="P041"></a>
 ### P041 · Temporally compounding energy droughts in European electricity systems with hydropower
@@ -625,9 +623,9 @@
 
 **遗忘筛查：** 未见直接相关。题目及可获取摘要研究电力系统问题，未见删除指定训练数据、客户端或知识/概念影响的目标与验证；未完成所有付费全文筛查。
 
-**核验：** 官网完整摘要与题目/日期核验。日期口径：在线发表日期。
+**核验：** 官网完整摘要与题目/日期核验。日期口径：在线发表日期；卷期年份：2024。
 
-[论文与原始摘要](https://www.nature.com/articles/s41560-024-01640-5) · [DOI](https://doi.org/10.1038/s41560-024-01640-5)
+[论文与来源](https://www.nature.com/articles/s41560-024-01640-5) · [DOI](https://doi.org/10.1038/s41560-024-01640-5)
 
 <a id="P042"></a>
 ### P042 · Impacts of renewable energy resources on the weather vulnerability of power systems
@@ -640,11 +638,9 @@
 
 **遗忘筛查：** 未见直接相关。题目及可获取摘要研究电力系统问题，未见删除指定训练数据、客户端或知识/概念影响的目标与验证；未完成所有付费全文筛查。
 
-**核验：** 官网完整摘要与题目/日期核验。日期口径：在线发表日期。
+**核验：** 官网完整摘要与题目/日期核验。日期口径：在线发表日期；卷期年份：2024。
 
-[论文与原始摘要](https://www.nature.com/articles/s41560-024-01652-1) · [DOI](https://doi.org/10.1038/s41560-024-01652-1)
-
-## Joule
+[论文与来源](https://www.nature.com/articles/s41560-024-01652-1) · [DOI](https://doi.org/10.1038/s41560-024-01652-1)
 
 <a id="P043"></a>
 ### P043 · What can we learn from US national transmission studies?
@@ -653,13 +649,13 @@
 
 **归类：** 核心期刊电网文献 ｜ **电网关联：** 直接电网/电力系统相关
 
-**摘要（中文概述）：** 综合七项美国全国尺度输电研究，比较不同技术和政策情景下的电网扩建需求。多数情景认为到2050年输电规模至少应翻倍，以接纳新负荷和电源并提高可靠性。研究普遍发现显著净成本节约及较高投资收益，建议加强全国协同、多情景和发输电联合优化。
+**内容概述（导语或机构摘要）：** 综合七项美国全国尺度输电研究，比较不同技术和政策情景下的电网扩建需求。多数情景认为到2050年输电规模至少应翻倍，以接纳新负荷和电源并提高可靠性。研究普遍发现显著净成本节约及较高投资收益，建议加强全国协同、多情景和发输电联合优化。
 
 **遗忘筛查：** 未见直接相关。题目及可获取摘要研究电力系统问题，未见删除指定训练数据、客户端或知识/概念影响的目标与验证；未完成所有付费全文筛查。
 
-**核验：** 作者机构完整摘要与期刊元数据核验。日期口径：卷期日期；精确在线首发日待核验。
+**核验：** 作者机构完整摘要与期刊元数据核验。日期口径：卷期日期；精确在线首发日待核验；卷期年份：2026。
 
-[论文与原始摘要](https://www.sciencedirect.com/science/article/pii/S2542435126000231) · [DOI](https://doi.org/10.1016/j.joule.2026.102339)
+[论文与来源](https://www.sciencedirect.com/science/article/pii/S2542435126000231) · [DOI](https://doi.org/10.1016/j.joule.2026.102339) · [补充来源1](https://research-hub.nlr.gov/en/publications/what-can-we-learn-from-us-national-transmission-studies-article-n/) · [补充来源2](https://www.brattle.com/insights-events/publications/what-can-we-learn-from-us-national-transmission-studies/)
 
 <a id="P044"></a>
 ### P044 · Proactive grid investment enables V2G for 100% adoption of electric vehicles in urban areas
@@ -672,9 +668,9 @@
 
 **遗忘筛查：** 未见直接相关。题目及可获取摘要研究电力系统问题，未见删除指定训练数据、客户端或知识/概念影响的目标与验证；未完成所有付费全文筛查。
 
-**核验：** 官网完整摘要与题目/日期核验。日期口径：在线发表日期。
+**核验：** 官网完整摘要与题目/日期核验。日期口径：在线发表日期；卷期年份：2026。
 
-[论文与原始摘要](https://doi.org/10.1016/j.joule.2026.102393) · [DOI](https://doi.org/10.1016/j.joule.2026.102393)
+[论文与来源](https://doi.org/10.1016/j.joule.2026.102393) · [DOI](https://doi.org/10.1016/j.joule.2026.102393)
 
 <a id="P045"></a>
 ### P045 · 24/7 carbon-free electricity matching accelerates adoption of advanced clean energy technologies
@@ -683,13 +679,13 @@
 
 **归类：** 核心期刊电网文献 ｜ **电网关联：** 直接电网/电力系统相关
 
-**摘要（中文概述）：** 通过示例建模说明，企业和政府承诺逐小时匹配无碳用电，可为长时储能和稳定清洁电源创造早期市场。初始采购推动技术降本，又吸引更多采购者，可能带来超出直接用电替代的系统减排收益。这里的学习指技术经验积累与成本下降，不属于机器学习或遗忘学习。
+**内容概述（导语或机构摘要）：** 通过示例建模说明，企业和政府承诺逐小时匹配无碳用电，可为长时储能和稳定清洁电源创造早期市场。初始采购推动技术降本，又吸引更多采购者，可能带来超出直接用电替代的系统减排收益。这里的学习指技术经验积累与成本下降，不属于机器学习或遗忘学习。
 
 **遗忘筛查：** 未见直接相关。题目及可获取摘要研究电力系统问题，未见删除指定训练数据、客户端或知识/概念影响的目标与验证；未完成所有付费全文筛查。
 
-**核验：** 作者页面完整摘要与期刊元数据、作者机构PDF核验。日期口径：作者页面发表月份；卷期日期为2025-02-19。
+**核验：** 作者页面完整摘要与期刊元数据、作者机构PDF核验。日期口径：作者页面发表月份；卷期日期为2025-02-19；卷期年份：2025。
 
-[论文与原始摘要](https://www.sciencedirect.com/science/article/pii/S2542435124005440) · [DOI](https://doi.org/10.1016/j.joule.2024.101808)
+[论文与来源](https://www.sciencedirect.com/science/article/pii/S2542435124005440) · [DOI](https://doi.org/10.1016/j.joule.2024.101808) · [补充来源1](https://iriepin.com/publication/p_2025_joule/) · [补充来源2](https://zero.lab.princeton.edu/wp-content/uploads/2025/03/Riepin-et-al.-2025-247-carbon-free-electricity-matching-accelerates-adoption-of-advanced-clean-energy-technologies.pdf)
 
 <a id="P046"></a>
 ### P046 · Assess space-based solar power for European-scale power system decarbonization
@@ -702,9 +698,9 @@
 
 **遗忘筛查：** 未见直接相关。题目及可获取摘要研究电力系统问题，未见删除指定训练数据、客户端或知识/概念影响的目标与验证；未完成所有付费全文筛查。
 
-**核验：** 官网完整摘要与题目/日期核验。日期口径：卷期日期；在线首发日待核验。
+**核验：** 官网完整摘要与题目/日期核验。日期口径：卷期日期；在线首发日待核验；卷期年份：2025。
 
-[论文与原始摘要](https://www.sciencedirect.com/science/article/pii/S2542435125002557) · [DOI](https://doi.org/10.1016/j.joule.2025.102074)
+[论文与来源](https://www.sciencedirect.com/science/article/pii/S2542435125002557) · [DOI](https://doi.org/10.1016/j.joule.2025.102074)
 
 <a id="P047"></a>
 ### P047 · Exploring the capabilities and limitations of large language models in the electric energy sector
@@ -713,13 +709,13 @@
 
 **归类：** 核心期刊电网文献 ｜ **电网关联：** 直接电网/电力系统相关
 
-**摘要（中文概述）：** 讨论大语言模型在电力行业运行维护中的用途与限制，提出电力领域数据收集和微调、将专业分析工具接入模型、利用检索增强生成建立知识库等方向。文章强调安全关键任务中的可靠性问题，为电力行业应用大模型提供研究议程，属于评论文章而非机器遗忘方法论文。
+**内容概述（导语或机构摘要）：** 讨论大语言模型在电力行业运行维护中的用途与限制，提出电力领域数据收集和微调、将专业分析工具接入模型、利用检索增强生成建立知识库等方向。文章强调安全关键任务中的可靠性问题，为电力行业应用大模型提供研究议程，属于评论文章而非机器遗忘方法论文。
 
 **遗忘筛查：** 邻近但非遗忘。出版商导语与可获取正文讨论微调、专业工具、RAG和安全；不包含删除指定数据或概念的训练影响这一目标。
 
-**核验：** 期刊导语、题目、卷期日期及作者预印本核验。日期口径：卷期日期；在线首发日待核验。
+**核验：** 期刊导语、题目、卷期日期及作者预印本核验。日期口径：卷期日期；在线首发日待核验；卷期年份：2024。
 
-[论文与原始摘要](https://www.sciencedirect.com/science/article/pii/S254243512400237X) · [DOI](https://doi.org/10.1016/j.joule.2024.05.009)
+[论文与来源](https://www.sciencedirect.com/science/article/pii/S254243512400237X) · [DOI](https://doi.org/10.1016/j.joule.2024.05.009) · [补充来源1](https://arxiv.org/abs/2403.09125)
 
 <a id="P048"></a>
 ### P048 · The evolving long tail at the edge of the grid: Benefits and concerns
@@ -732,9 +728,9 @@
 
 **遗忘筛查：** 未见直接相关。题目及可获取摘要研究电力系统问题，未见删除指定训练数据、客户端或知识/概念影响的目标与验证；未完成所有付费全文筛查。
 
-**核验：** 官网完整摘要与题目/日期核验。日期口径：卷期日期；在线首发日待核验。
+**核验：** 官网完整摘要与题目/日期核验。日期口径：卷期日期；在线首发日待核验；卷期年份：2024。
 
-[论文与原始摘要](https://www.sciencedirect.com/science/article/pii/S2542435124001892) · [DOI](https://doi.org/10.1016/j.joule.2024.04.005)
+[论文与来源](https://www.sciencedirect.com/science/article/pii/S2542435124001892) · [DOI](https://doi.org/10.1016/j.joule.2024.04.005)
 
 <a id="P049"></a>
 ### P049 · Grid connection barriers to renewable energy deployment in the United States
@@ -747,9 +743,11 @@
 
 **遗忘筛查：** 未见直接相关。题目及可获取摘要研究电力系统问题，未见删除指定训练数据、客户端或知识/概念影响的目标与验证；未完成所有付费全文筛查。
 
-**核验：** 作者机构页面完整摘要、期刊PDF在线日期核验。日期口径：在线发表日期。
+**核验：** 作者机构页面完整摘要、期刊PDF在线日期核验。日期口径：在线发表日期；卷期年份：2025。
 
-[论文与原始摘要](https://www.sciencedirect.com/science/article/pii/S2542435124005038) · [DOI](https://doi.org/10.1016/j.joule.2024.11.008)
+**备注：** 在线首发年份为2024，卷期年份为2025；按在线首发年统计。
+
+[论文与来源](https://www.sciencedirect.com/science/article/pii/S2542435124005038) · [DOI](https://doi.org/10.1016/j.joule.2024.11.008) · [补充来源1](https://eta-publications.lbl.gov/publications/grid-connection-barriers-renewable) · [补充来源2](https://escholarship.org/content/qt6qh4064x/qt6qh4064x_noSplash_b157ea5695b2096076c6b46953604160.pdf)
 
 <a id="P050"></a>
 ### P050 · Foundation models for the electric power grid
@@ -762,11 +760,9 @@
 
 **遗忘筛查：** 邻近但非遗忘。官网正文讨论隐私保护联邦学习、差分隐私、私有数据、持续学习及微调；这些不等同于删除指定数据或概念对模型的影响，未见遗忘算法与删除后验证。
 
-**核验：** 官网正文与作者预印本、机构元数据交叉核验；精确在线日待核验。日期口径：卷期日期；在线首发日待核验。
+**核验：** 官网正文与作者预印本、机构元数据交叉核验；精确在线日待核验。日期口径：卷期日期；在线首发日待核验；卷期年份：2024。
 
-[论文与原始摘要](https://www.sciencedirect.com/science/article/pii/S2542435124004707) · [DOI](https://doi.org/10.1016/j.joule.2024.11.002)
-
-## Science Advances
+[论文与来源](https://www.sciencedirect.com/science/article/pii/S2542435124004707) · [DOI](https://doi.org/10.1016/j.joule.2024.11.002) · [补充来源1](https://arxiv.org/abs/2407.09434) · [补充来源2](https://publications.polymtl.ca/76216/) · [补充来源3](https://vivo-cub.colorado.edu/display/pubid_382117)
 
 <a id="P051"></a>
 ### P051 · Quantifying effects of solar power adoption on CO2 emissions reduction
@@ -779,9 +775,9 @@
 
 **遗忘筛查：** 未见直接相关。分布滞后模型用于估计排放效应，摘要未涉及从模型中撤回数据影响。
 
-**核验：** 已核对PubMed所收录原论文摘要、在线发表日期与DOI，并保留出版社链接；摘要级遗忘筛查。日期口径：在线发表日期。
+**核验：** 已核对PubMed所收录原论文摘要、在线发表日期与DOI，并保留出版社链接；摘要级遗忘筛查。日期口径：在线发表日期；卷期年份：2025。
 
-[论文与原始摘要](https://www.science.org/doi/10.1126/sciadv.adq5660) · [DOI](https://doi.org/10.1126/sciadv.adq5660)
+[论文与来源](https://www.science.org/doi/10.1126/sciadv.adq5660) · [DOI](https://doi.org/10.1126/sciadv.adq5660) · [补充来源1](https://pubmed.ncbi.nlm.nih.gov/40737395/)
 
 <a id="P052"></a>
 ### P052 · The role of offshore wind and solar PV resources in global low-carbon transition
@@ -794,9 +790,9 @@
 
 **遗忘筛查：** 未见直接相关。研究资源评估与发电潜力，摘要未见机器遗忘。
 
-**核验：** 已核对PubMed所收录原论文摘要、在线发表日期与DOI，并保留出版社链接；摘要级遗忘筛查。日期口径：在线发表日期。
+**核验：** 已核对PubMed所收录原论文摘要、在线发表日期与DOI，并保留出版社链接；摘要级遗忘筛查。日期口径：在线发表日期；卷期年份：2025。
 
-[论文与原始摘要](https://www.science.org/doi/10.1126/sciadv.adx5580) · [DOI](https://doi.org/10.1126/sciadv.adx5580)
+[论文与来源](https://www.science.org/doi/10.1126/sciadv.adx5580) · [DOI](https://doi.org/10.1126/sciadv.adx5580) · [补充来源1](https://pubmed.ncbi.nlm.nih.gov/41134894/)
 
 <a id="P053"></a>
 ### P053 · Potential climate predictability of renewable energy supply and demand for Texas given the ENSO hidden state
@@ -809,11 +805,9 @@
 
 **遗忘筛查：** 邻近但非遗忘。隐马尔可夫预测模型学习气候—能源关系；没有撤回训练样本、客户端或概念的目标。
 
-**核验：** 已核对PubMed所收录原论文摘要、在线发表日期与DOI，并保留出版社链接；摘要级遗忘筛查。日期口径：在线发表日期。
+**核验：** 已核对PubMed所收录原论文摘要、在线发表日期与DOI，并保留出版社链接；摘要级遗忘筛查。日期口径：在线发表日期；卷期年份：2024。
 
-[论文与原始摘要](https://www.science.org/doi/10.1126/sciadv.ado3517) · [DOI](https://doi.org/10.1126/sciadv.ado3517)
-
-## Nature Sustainability
+[论文与来源](https://www.science.org/doi/10.1126/sciadv.ado3517) · [DOI](https://doi.org/10.1126/sciadv.ado3517) · [补充来源1](https://pubmed.ncbi.nlm.nih.gov/39485843/)
 
 <a id="P054"></a>
 ### P054 · Coal plants persist as a large barrier to the global solar energy transition
@@ -826,9 +820,9 @@
 
 **遗忘筛查：** 未见直接相关。研究气溶胶引起的发电损失，未涉及训练数据删除。
 
-**核验：** 已核对出版社公开题名、摘要、发表日期与DOI；摘要级遗忘筛查，非完整全文审计。日期口径：在线发表日期。
+**核验：** 已核对出版社公开题名、摘要、发表日期与DOI；摘要级遗忘筛查，非完整全文审计。日期口径：在线发表日期；卷期年份：2026。
 
-[论文与原始摘要](https://www.nature.com/articles/s41893-026-01836-5) · [DOI](https://doi.org/10.1038/s41893-026-01836-5)
+[论文与来源](https://www.nature.com/articles/s41893-026-01836-5) · [DOI](https://doi.org/10.1038/s41893-026-01836-5)
 
 <a id="P055"></a>
 ### P055 · Resilience metrics to guide back-up investments in the power system during extreme weather
@@ -841,9 +835,9 @@
 
 **遗忘筛查：** 未见直接相关。研究优化模型和可靠性指标，摘要未涉及机器遗忘。
 
-**核验：** 已核对出版社公开题名、摘要、发表日期与DOI；摘要级遗忘筛查，非完整全文审计。日期口径：在线发表日期。
+**核验：** 已核对出版社公开题名、摘要、发表日期与DOI；摘要级遗忘筛查，非完整全文审计。日期口径：在线发表日期；卷期年份：2026。
 
-[论文与原始摘要](https://www.nature.com/articles/s41893-026-01897-6) · [DOI](https://doi.org/10.1038/s41893-026-01897-6)
+[论文与来源](https://www.nature.com/articles/s41893-026-01897-6) · [DOI](https://doi.org/10.1038/s41893-026-01897-6)
 
 <a id="P056"></a>
 ### P056 · Navigating the land–energy nexus for carbon-neutral power systems in China
@@ -856,9 +850,9 @@
 
 **遗忘筛查：** 未见直接相关。研究选址与容量约束，摘要未涉及撤回训练数据的模型更新。
 
-**核验：** 已核对出版社公开题名、摘要、发表日期与DOI；摘要级遗忘筛查，非完整全文审计。日期口径：在线发表日期。
+**核验：** 已核对出版社公开题名、摘要、发表日期与DOI；摘要级遗忘筛查，非完整全文审计。日期口径：在线发表日期；卷期年份：2026。
 
-[论文与原始摘要](https://www.nature.com/articles/s41893-026-01941-5) · [DOI](https://doi.org/10.1038/s41893-026-01941-5)
+[论文与来源](https://www.nature.com/articles/s41893-026-01941-5) · [DOI](https://doi.org/10.1038/s41893-026-01941-5)
 
 <a id="P057"></a>
 ### P057 · Decarbonization and electricity price vulnerability
@@ -871,9 +865,9 @@
 
 **遗忘筛查：** 未见直接相关。研究价格冲击传导，摘要未出现对训练数据或模型知识进行定向删除的目标。
 
-**核验：** 已核对出版社公开题名、摘要、发表日期与DOI；摘要级遗忘筛查，非完整全文审计。日期口径：在线发表日期。
+**核验：** 已核对出版社公开题名、摘要、发表日期与DOI；摘要级遗忘筛查，非完整全文审计。日期口径：在线发表日期；卷期年份：2025。
 
-[论文与原始摘要](https://www.nature.com/articles/s41893-024-01502-8) · [DOI](https://doi.org/10.1038/s41893-024-01502-8)
+[论文与来源](https://www.nature.com/articles/s41893-024-01502-8) · [DOI](https://doi.org/10.1038/s41893-024-01502-8)
 
 <a id="P058"></a>
 ### P058 · Environmental impact and net-zero pathways for sustainable artificial intelligence servers in the USA
@@ -886,9 +880,9 @@
 
 **遗忘筛查：** 未见直接相关。研究AI计算设施的用电与环境足迹，不是AI模型的遗忘学习。
 
-**核验：** 已核对出版社公开题名、摘要、发表日期与DOI；摘要级遗忘筛查，非完整全文审计。日期口径：在线发表日期。
+**核验：** 已核对出版社公开题名、摘要、发表日期与DOI；摘要级遗忘筛查，非完整全文审计。日期口径：在线发表日期；卷期年份：2025。
 
-[论文与原始摘要](https://www.nature.com/articles/s41893-025-01681-y) · [DOI](https://doi.org/10.1038/s41893-025-01681-y)
+[论文与来源](https://www.nature.com/articles/s41893-025-01681-y) · [DOI](https://doi.org/10.1038/s41893-025-01681-y)
 
 <a id="P059"></a>
 ### P059 · Global hydroclimatic risks and strategic decommissioning pathways for thermal power units
@@ -901,9 +895,11 @@
 
 **遗忘筛查：** 未见直接相关。机组退役指物理资产退出，摘要未显示撤回训练数据或概念的算法。
 
-**核验：** 已核对出版社公开题名、摘要、发表日期与DOI；摘要级遗忘筛查，非完整全文审计。日期口径：在线发表日期。
+**核验：** 已核对出版社公开题名、摘要、发表日期与DOI；摘要级遗忘筛查，非完整全文审计。日期口径：在线发表日期；卷期年份：2026。
 
-[论文与原始摘要](https://www.nature.com/articles/s41893-025-01692-9) · [DOI](https://doi.org/10.1038/s41893-025-01692-9)
+**备注：** 在线首发年份为2025，卷期年份为2026；按在线首发年统计。
+
+[论文与来源](https://www.nature.com/articles/s41893-025-01692-9) · [DOI](https://doi.org/10.1038/s41893-025-01692-9)
 
 <a id="P060"></a>
 ### P060 · Ownership of power plants stranded by climate mitigation
@@ -916,9 +912,11 @@
 
 **遗忘筛查：** 未见直接相关。电站退役和资产搁浅不是机器遗忘；摘要未涉及模型内影响删除。
 
-**核验：** 已核对出版社公开题名、摘要、发表日期与DOI；摘要级遗忘筛查，非完整全文审计。日期口径：在线发表日期。
+**核验：** 已核对出版社公开题名、摘要、发表日期与DOI；摘要级遗忘筛查，非完整全文审计。日期口径：在线发表日期；卷期年份：2026。
 
-[论文与原始摘要](https://www.nature.com/articles/s41893-025-01707-5) · [DOI](https://doi.org/10.1038/s41893-025-01707-5)
+**备注：** 在线首发年份为2025，卷期年份为2026；按在线首发年统计。
+
+[论文与来源](https://www.nature.com/articles/s41893-025-01707-5) · [DOI](https://doi.org/10.1038/s41893-025-01707-5)
 
 <a id="P061"></a>
 ### P061 · Hydropower expansion in eco-sensitive river basins under global energy-economic change
@@ -931,9 +929,9 @@
 
 **遗忘筛查：** 未见直接相关。能源技术替代与模型遗忘无关，摘要未见指定训练影响删除。
 
-**核验：** 已核对出版社公开题名、摘要、发表日期与DOI；摘要级遗忘筛查，非完整全文审计。日期口径：在线发表日期。
+**核验：** 已核对出版社公开题名、摘要、发表日期与DOI；摘要级遗忘筛查，非完整全文审计。日期口径：在线发表日期；卷期年份：2024。
 
-[论文与原始摘要](https://www.nature.com/articles/s41893-023-01260-z) · [DOI](https://doi.org/10.1038/s41893-023-01260-z)
+[论文与来源](https://www.nature.com/articles/s41893-023-01260-z) · [DOI](https://doi.org/10.1038/s41893-023-01260-z)
 
 <a id="P062"></a>
 ### P062 · Rethinking energy planning to mitigate the impacts of African hydropower
@@ -946,9 +944,9 @@
 
 **遗忘筛查：** 未见直接相关。取消水电项目是规划选择，不是机器学习模型中的遗忘或撤回。
 
-**核验：** 已核对出版社公开题名、摘要、发表日期与DOI；摘要级遗忘筛查，非完整全文审计。日期口径：在线发表日期。
+**核验：** 已核对出版社公开题名、摘要、发表日期与DOI；摘要级遗忘筛查，非完整全文审计。日期口径：在线发表日期；卷期年份：2024。
 
-[论文与原始摘要](https://www.nature.com/articles/s41893-024-01367-x) · [DOI](https://doi.org/10.1038/s41893-024-01367-x)
+[论文与来源](https://www.nature.com/articles/s41893-024-01367-x) · [DOI](https://doi.org/10.1038/s41893-024-01367-x)
 
 <a id="P063"></a>
 ### P063 · Offsetting the greenhouse gas footprint of hydropower with floating solar photovoltaics
@@ -961,11 +959,9 @@
 
 **遗忘筛查：** 未见直接相关。研究水光组合与排放核算，未见模型遗忘目标。
 
-**核验：** 已核对出版社公开题名、摘要、发表日期与DOI；摘要级遗忘筛查，非完整全文审计。日期口径：在线发表日期。
+**核验：** 已核对出版社公开题名、摘要、发表日期与DOI；摘要级遗忘筛查，非完整全文审计。日期口径：在线发表日期；卷期年份：2024。
 
-[论文与原始摘要](https://www.nature.com/articles/s41893-024-01384-w) · [DOI](https://doi.org/10.1038/s41893-024-01384-w)
-
-## Nature Climate Change
+[论文与来源](https://www.nature.com/articles/s41893-024-01384-w) · [DOI](https://doi.org/10.1038/s41893-024-01384-w)
 
 <a id="P064"></a>
 ### P064 · Building façade photovoltaics enhance global climate resilience
@@ -978,9 +974,9 @@
 
 **遗忘筛查：** 未见直接相关。研究建筑发电和负荷效益，未涉及机器遗忘。
 
-**核验：** 已核对出版社公开题名、摘要、发表日期与DOI；摘要级遗忘筛查，非完整全文审计。日期口径：在线发表日期。
+**核验：** 已核对出版社公开题名、摘要、发表日期与DOI；摘要级遗忘筛查，非完整全文审计。日期口径：在线发表日期；卷期年份：2026。
 
-[论文与原始摘要](https://www.nature.com/articles/s41558-026-02606-z) · [DOI](https://doi.org/10.1038/s41558-026-02606-z)
+[论文与来源](https://www.nature.com/articles/s41558-026-02606-z) · [DOI](https://doi.org/10.1038/s41558-026-02606-z)
 
 <a id="P065"></a>
 ### P065 · Flash energy droughts in solar and wind resources under climate change
@@ -993,9 +989,9 @@
 
 **遗忘筛查：** 未见直接相关。风光骤降及调度适应不构成机器遗忘，摘要未出现训练影响删除目标。
 
-**核验：** 已核对出版社公开题名、摘要、发表日期与DOI；摘要级遗忘筛查，非完整全文审计。日期口径：在线发表日期。
+**核验：** 已核对出版社公开题名、摘要、发表日期与DOI；摘要级遗忘筛查，非完整全文审计。日期口径：在线发表日期；卷期年份：2026。
 
-[论文与原始摘要](https://www.nature.com/articles/s41558-026-02753-3) · [DOI](https://doi.org/10.1038/s41558-026-02753-3)
+[论文与来源](https://www.nature.com/articles/s41558-026-02753-3) · [DOI](https://doi.org/10.1038/s41558-026-02753-3)
 
 <a id="P066"></a>
 ### P066 · Worldwide rooftop photovoltaic electricity generation may mitigate global warming
@@ -1008,11 +1004,11 @@
 
 **遗忘筛查：** 邻近但非遗忘。使用AI提取屋顶数据，但摘要及可见方法为识别与外推，未描述数据撤回或概念擦除。
 
-**核验：** 已核对出版社公开题名、摘要、发表日期与DOI；摘要级遗忘筛查，非完整全文审计。日期口径：在线发表日期。
+**核验：** 已核对出版社公开题名、摘要、发表日期与DOI；摘要级遗忘筛查，非完整全文审计。日期口径：在线发表日期；卷期年份：2025。
 
-[论文与原始摘要](https://www.nature.com/articles/s41558-025-02276-3) · [DOI](https://doi.org/10.1038/s41558-025-02276-3)
+**备注：** 原文页面标注2025-10-22发布相关Matters Arising；减排替代效应存在学术讨论，不能将潜力估计视为实际减排保证。 后续学术讨论：2025-10-22的Matters Arising（10.1038/s41558-025-02459-y）指出，若未充分捕捉替代效应，屋顶光伏减排收益可能被高估；其美国案例估计较原分析低41%—98%。该结果限于评论所分析情景，不代表全球结果被统一修正。这是方法争议，非撤稿，也不是机器遗忘。
 
-**备注：** 原文页面标注2025-10-22发布相关Matters Arising；减排替代效应存在学术讨论，不能将潜力估计视为实际减排保证。
+[论文与来源](https://www.nature.com/articles/s41558-025-02276-3) · [DOI](https://doi.org/10.1038/s41558-025-02276-3) · [补充来源1](https://www.nature.com/articles/s41558-025-02459-y)
 
 <a id="P067"></a>
 ### P067 · Prolonged wind droughts in a warming climate threaten global wind power security
@@ -1025,9 +1021,9 @@
 
 **遗忘筛查：** 未见直接相关。研究气候风险投影，未见模型遗忘或数据撤回。
 
-**核验：** 已核对出版社公开题名、摘要、发表日期与DOI；摘要级遗忘筛查，非完整全文审计。日期口径：在线发表日期。
+**核验：** 已核对出版社公开题名、摘要、发表日期与DOI；摘要级遗忘筛查，非完整全文审计。日期口径：在线发表日期；卷期年份：2025。
 
-[论文与原始摘要](https://www.nature.com/articles/s41558-025-02387-x) · [DOI](https://doi.org/10.1038/s41558-025-02387-x)
+[论文与来源](https://www.nature.com/articles/s41558-025-02387-x) · [DOI](https://doi.org/10.1038/s41558-025-02387-x)
 
 <a id="P068"></a>
 ### P068 · Dynamic grid management reduces wildfire adaptation costs in the electric power sector
@@ -1040,9 +1036,9 @@
 
 **遗忘筛查：** 邻近但非遗忘。使用风险预测模型，但动态保护管理是物理运行调整，摘要未描述从已训练模型删除特定数据或知识。
 
-**核验：** 已核对出版社公开题名、摘要、发表日期与DOI；摘要级遗忘筛查，非完整全文审计。日期口径：在线发表日期。
+**核验：** 已核对出版社公开题名、摘要、发表日期与DOI；摘要级遗忘筛查，非完整全文审计。日期口径：在线发表日期；卷期年份：2025。
 
-[论文与原始摘要](https://www.nature.com/articles/s41558-025-02436-5) · [DOI](https://doi.org/10.1038/s41558-025-02436-5)
+[论文与来源](https://www.nature.com/articles/s41558-025-02436-5) · [DOI](https://doi.org/10.1038/s41558-025-02436-5)
 
 <a id="P069"></a>
 ### P069 · The role of electric grid research in addressing climate change
@@ -1055,9 +1051,9 @@
 
 **遗忘筛查：** 未见直接相关。已核对摘要；其中心是气候—电网协同议程，未在摘要中识别到机器遗忘议题。
 
-**核验：** 已核对出版社公开题名、摘要、发表日期与DOI；摘要级遗忘筛查，非完整全文审计。日期口径：在线发表日期。
+**核验：** 已核对出版社公开题名、摘要、发表日期与DOI；摘要级遗忘筛查，非完整全文审计。日期口径：在线发表日期；卷期年份：2024。
 
-[论文与原始摘要](https://www.nature.com/articles/s41558-024-02092-1) · [DOI](https://doi.org/10.1038/s41558-024-02092-1)
+[论文与来源](https://www.nature.com/articles/s41558-024-02092-1) · [DOI](https://doi.org/10.1038/s41558-024-02092-1)
 
 <a id="P070"></a>
 ### P070 · Elevated urban energy risks due to climate-driven biophysical feedbacks
@@ -1070,11 +1066,9 @@
 
 **遗忘筛查：** 未见直接相关。动态需求建模不是针对已训练模型执行遗忘。
 
-**核验：** 已核对出版社公开题名、摘要、发表日期与DOI；摘要级遗忘筛查，非完整全文审计。日期口径：在线发表日期。
+**核验：** 已核对出版社公开题名、摘要、发表日期与DOI；摘要级遗忘筛查，非完整全文审计。日期口径：在线发表日期；卷期年份：2024。
 
-[论文与原始摘要](https://www.nature.com/articles/s41558-024-02108-w) · [DOI](https://doi.org/10.1038/s41558-024-02108-w)
-
-## Nature Computational Science
+[论文与来源](https://www.nature.com/articles/s41558-024-02108-w) · [DOI](https://doi.org/10.1038/s41558-024-02108-w)
 
 <a id="P071"></a>
 ### P071 · Sustainability as a challenge in complex systems dynamics
@@ -1087,11 +1081,9 @@
 
 **遗忘筛查：** 未见直接相关。关注物理网络的集体动力学与失效，不是机器遗忘。
 
-**核验：** 期刊官网摘要与日期已核验。日期口径：在线发表日期。
+**核验：** 期刊官网摘要与日期已核验。日期口径：在线发表日期；卷期年份：2026。
 
-[论文与原始摘要](https://www.nature.com/articles/s43588-026-00971-5) · [DOI](https://doi.org/10.1038/s43588-026-00971-5)
-
-## Communications Engineering
+[论文与来源](https://www.nature.com/articles/s43588-026-00971-5) · [DOI](https://doi.org/10.1038/s43588-026-00971-5)
 
 <a id="P072"></a>
 ### P072 · Diffusion model-based parameter estimation in dynamic power systems
@@ -1104,9 +1096,9 @@
 
 **遗忘筛查：** 邻近但非遗忘。利用扩散模型求解反问题，未涉及概念擦除或数据撤回。
 
-**核验：** 期刊官网摘要与日期已核验。日期口径：在线发表日期。
+**核验：** 期刊官网摘要与日期已核验。日期口径：在线发表日期；卷期年份：2026。
 
-[论文与原始摘要](https://www.nature.com/articles/s44172-026-00670-z) · [DOI](https://doi.org/10.1038/s44172-026-00670-z)
+[论文与来源](https://www.nature.com/articles/s44172-026-00670-z) · [DOI](https://doi.org/10.1038/s44172-026-00670-z)
 
 <a id="P073"></a>
 ### P073 · Operating smart grids by customizing large model agents
@@ -1119,9 +1111,9 @@
 
 **遗忘筛查：** 邻近但非遗忘。涉及检索增强、持续学习和智能体记忆，但未提出训练影响删除或概念撤回方法。
 
-**核验：** 期刊官网摘要及公开正文已核验。日期口径：在线发表日期。
+**核验：** 期刊官网摘要及公开正文已核验。日期口径：在线发表日期；卷期年份：2026。
 
-[论文与原始摘要](https://www.nature.com/articles/s44172-026-00709-1) · [DOI](https://doi.org/10.1038/s44172-026-00709-1)
+[论文与来源](https://www.nature.com/articles/s44172-026-00709-1) · [DOI](https://doi.org/10.1038/s44172-026-00709-1)
 
 <a id="P074"></a>
 ### P074 · Scalable reinforcement learning for large-scale coordination of electric vehicles using graph neural networks
@@ -1134,9 +1126,9 @@
 
 **遗忘筛查：** 邻近但非遗忘。分支剪枝用于缩减充电决策问题；不是删除训练数据或客户端的影响。
 
-**核验：** 期刊官网摘要与日期已核验。日期口径：在线发表日期。
+**核验：** 期刊官网摘要与日期已核验。日期口径：在线发表日期；卷期年份：2025。
 
-[论文与原始摘要](https://www.nature.com/articles/s44172-025-00457-8) · [DOI](https://doi.org/10.1038/s44172-025-00457-8)
+[论文与来源](https://www.nature.com/articles/s44172-025-00457-8) · [DOI](https://doi.org/10.1038/s44172-025-00457-8)
 
 <a id="P075"></a>
 ### P075 · Data-driven and privacy-preserving risk assessment method based on federated learning for smart grids
@@ -1149,11 +1141,9 @@
 
 **遗忘筛查：** 邻近但非遗忘。保护分布式训练数据和参数；未提出从已训练模型删除指定数据影响的机制。
 
-**核验：** 期刊官网摘要与日期已核验。日期口径：在线发表日期。
+**核验：** 期刊官网摘要与日期已核验。日期口径：在线发表日期；卷期年份：2024。
 
-[论文与原始摘要](https://www.nature.com/articles/s44172-024-00300-6) · [DOI](https://doi.org/10.1038/s44172-024-00300-6)
-
-## Nature Reviews Electrical Engineering
+[论文与来源](https://www.nature.com/articles/s44172-024-00300-6) · [DOI](https://doi.org/10.1038/s44172-024-00300-6)
 
 <a id="P076"></a>
 ### P076 · Resilient low-inertia power systems through asynchronous energy balancing
@@ -1166,9 +1156,9 @@
 
 **遗忘筛查：** 未见直接相关。异步物理子系统与能量路由不涉及机器遗忘。
 
-**核验：** 期刊官网摘要与日期已核验。日期口径：在线发表日期。
+**核验：** 期刊官网摘要与日期已核验。日期口径：在线发表日期；卷期年份：2026。
 
-[论文与原始摘要](https://www.nature.com/articles/s44287-025-00256-5) · [DOI](https://doi.org/10.1038/s44287-025-00256-5)
+[论文与来源](https://www.nature.com/articles/s44287-025-00256-5) · [DOI](https://doi.org/10.1038/s44287-025-00256-5)
 
 <a id="P077"></a>
 ### P077 · From electricity outage analysis and monitoring to mitigation and restoration
@@ -1181,9 +1171,9 @@
 
 **遗忘筛查：** 未见直接相关。供电恢复与故障处置不等于模型遗忘。
 
-**核验：** 期刊官网摘要与日期已核验。日期口径：在线发表日期。
+**核验：** 期刊官网摘要与日期已核验。日期口径：在线发表日期；卷期年份：2026。
 
-[论文与原始摘要](https://www.nature.com/articles/s44287-026-00298-3) · [DOI](https://doi.org/10.1038/s44287-026-00298-3)
+[论文与来源](https://www.nature.com/articles/s44287-026-00298-3) · [DOI](https://doi.org/10.1038/s44287-026-00298-3)
 
 <a id="P078"></a>
 ### P078 · Long-horizon resilience of power systems under climate change
@@ -1196,9 +1186,9 @@
 
 **遗忘筛查：** 未见直接相关。长期风险框架不属于机器学习中的概念撤回。
 
-**核验：** 期刊官网摘要与日期已核验。日期口径：在线发表日期。
+**核验：** 期刊官网摘要与日期已核验。日期口径：在线发表日期；卷期年份：2026。
 
-[论文与原始摘要](https://www.nature.com/articles/s44287-026-00322-6) · [DOI](https://doi.org/10.1038/s44287-026-00322-6)
+[论文与来源](https://www.nature.com/articles/s44287-026-00322-6) · [DOI](https://doi.org/10.1038/s44287-026-00322-6)
 
 <a id="P079"></a>
 ### P079 · End-to-end cyber resilience enhancement for renewable-dominated power grids
@@ -1211,9 +1201,9 @@
 
 **遗忘筛查：** 未见直接相关。讨论网络物理联合防御，摘要未见已训练模型删除机制。
 
-**核验：** 期刊官网摘要与日期已核验。日期口径：在线发表日期。
+**核验：** 期刊官网摘要与日期已核验。日期口径：在线发表日期；卷期年份：2026。
 
-[论文与原始摘要](https://www.nature.com/articles/s44287-026-00334-2) · [DOI](https://doi.org/10.1038/s44287-026-00334-2)
+[论文与来源](https://www.nature.com/articles/s44287-026-00334-2) · [DOI](https://doi.org/10.1038/s44287-026-00334-2)
 
 <a id="P080"></a>
 ### P080 · Designing the future electricity spot market with high renewables via reliable simulations
@@ -1226,9 +1216,9 @@
 
 **遗忘筛查：** 邻近但非遗忘。多智能体策略学习用于市场仿真，没有定向遗忘对象。
 
-**核验：** 期刊官网摘要与日期已核验。日期口径：在线发表日期。
+**核验：** 期刊官网摘要与日期已核验。日期口径：在线发表日期；卷期年份：2025。
 
-[论文与原始摘要](https://www.nature.com/articles/s44287-025-00163-9) · [DOI](https://doi.org/10.1038/s44287-025-00163-9)
+[论文与来源](https://www.nature.com/articles/s44287-025-00163-9) · [DOI](https://doi.org/10.1038/s44287-025-00163-9)
 
 <a id="P081"></a>
 ### P081 · Developments, challenges and future opportunities in cybersecure microgrid control
@@ -1241,9 +1231,9 @@
 
 **遗忘筛查：** 邻近但非遗忘。控制层面检测和缓解攻击，不等于删除已训练模型中的恶意训练影响。
 
-**核验：** 期刊官网摘要与日期已核验。日期口径：在线发表日期。
+**核验：** 期刊官网摘要与日期已核验。日期口径：在线发表日期；卷期年份：2025。
 
-[论文与原始摘要](https://www.nature.com/articles/s44287-025-00189-z) · [DOI](https://doi.org/10.1038/s44287-025-00189-z)
+[论文与来源](https://www.nature.com/articles/s44287-025-00189-z) · [DOI](https://doi.org/10.1038/s44287-025-00189-z)
 
 <a id="P082"></a>
 ### P082 · Resilience of renewable power systems under climate risks
@@ -1256,9 +1246,9 @@
 
 **遗忘筛查：** 未见直接相关。研究物理电网韧性，不涉及学习模型撤回。
 
-**核验：** 期刊官网摘要与日期已核验。日期口径：在线发表日期。
+**核验：** 期刊官网摘要与日期已核验。日期口径：在线发表日期；卷期年份：2024。
 
-[论文与原始摘要](https://www.nature.com/articles/s44287-023-00003-8) · [DOI](https://doi.org/10.1038/s44287-023-00003-8)
+[论文与来源](https://www.nature.com/articles/s44287-023-00003-8) · [DOI](https://doi.org/10.1038/s44287-023-00003-8)
 
 <a id="P083"></a>
 ### P083 · Sustainable plug-in electric vehicle integration into power systems
@@ -1271,9 +1261,9 @@
 
 **遗忘筛查：** 未见直接相关。智能充电及系统集成综述，摘要未涉及遗忘学习。
 
-**核验：** 期刊官网摘要与日期已核验。日期口径：在线发表日期。
+**核验：** 期刊官网摘要与日期已核验。日期口径：在线发表日期；卷期年份：2024。
 
-[论文与原始摘要](https://www.nature.com/articles/s44287-023-00004-7) · [DOI](https://doi.org/10.1038/s44287-023-00004-7)
+[论文与来源](https://www.nature.com/articles/s44287-023-00004-7) · [DOI](https://doi.org/10.1038/s44287-023-00004-7)
 
 <a id="P084"></a>
 ### P084 · Artificial intelligence-based methods for renewable power system operation
@@ -1286,9 +1276,9 @@
 
 **遗忘筛查：** 邻近但非遗忘。通用学习方法综述，公开摘要未见定向训练影响删除。
 
-**核验：** 期刊官网摘要与日期已核验。日期口径：在线发表日期。
+**核验：** 期刊官网摘要与日期已核验。日期口径：在线发表日期；卷期年份：2024。
 
-[论文与原始摘要](https://www.nature.com/articles/s44287-024-00018-9) · [DOI](https://doi.org/10.1038/s44287-024-00018-9)
+[论文与来源](https://www.nature.com/articles/s44287-024-00018-9) · [DOI](https://doi.org/10.1038/s44287-024-00018-9)
 
 <a id="P085"></a>
 ### P085 · Power electronics in wind generation systems
@@ -1301,7 +1291,1754 @@
 
 **遗忘筛查：** 未见直接相关。变流器控制和频率支撑，不涉及训练数据影响删除。
 
-**核验：** 期刊官网摘要与日期已核验。日期口径：在线发表日期。
+**核验：** 期刊官网摘要与日期已核验。日期口径：在线发表日期；卷期年份：2024。
 
-[论文与原始摘要](https://www.nature.com/articles/s44287-024-00032-x) · [DOI](https://doi.org/10.1038/s44287-024-00032-x)
+[论文与来源](https://www.nature.com/articles/s44287-024-00032-x) · [DOI](https://doi.org/10.1038/s44287-024-00032-x)
+
+<a id="P086"></a>
+### P086 · Rooftop photovoltaic-powered electric vehicle charging for accelerated decarbonization
+
+**期刊：** Nature Sustainability ｜ **年份：** 2026 ｜ **日期：** 2026-06-15 ｜ **类型：** Article
+
+**归类：** 核心期刊电网文献 ｜ **电网关联：** 直接：光伏—充电负荷匹配、城市微电网尺度与充电策略
+
+**摘要（中文概述）：** 研究利用全球40座城市、2.2万个充电桩的33.8亿条充电记录，评估屋顶光伏供给与电动汽车充电需求的时空匹配。在三类充电策略及不同微电网尺度下，日充电供需能力呈稳定的指数尺度关系。情景预测显示，到2050年充电需求虽显著增加，城市屋顶光伏年度发电量仍足以覆盖需求，并可带来可观的累计减排和经济收益。
+
+**遗忘筛查：** 未见直接相关。使用充电记录开展供需预测与规划，但公开摘要未定义用户数据删除或遗忘后的模型评估。
+
+**核验：** 已核对出版社题名、公开摘要和在线日期；摘要级遗忘筛查。日期口径：出版社在线发表日期；卷期年份：2026。
+
+[论文与来源](https://www.nature.com/articles/s41893-026-01854-3) · [DOI](https://doi.org/10.1038/s41893-026-01854-3)
+
+<a id="P087"></a>
+### P087 · Global gridded dataset of heating and cooling degree days under climate change scenarios
+
+**期刊：** Nature Sustainability ｜ **年份：** 2026 ｜ **日期：** 2026-01-26 ｜ **类型：** Resource
+
+**归类：** 背景补充 ｜ **电网关联：** 背景：气候驱动的供暖制冷需求数据，可辅助电力负荷建模；gridded指空间网格而非电网
+
+**摘要（中文概述）：** 研究发布全球升温1.0、1.5与2.0摄氏度情景下的采暖和制冷度日数据集，以30幅网格图和五类统计量表征十年尺度的气候差异。结果显示采暖需求指标普遍下降，而制冷需求指标非线性增加，升温早期已出现明显变化。数据可为气候适应与用能需求规划提供输入，但度日指标并不直接等同于实测电力负荷或电网潮流。
+
+**遗忘筛查：** 未见直接相关。提供气候需求指标数据集，无模型训练影响删除或概念撤回任务。
+
+**核验：** 已核对出版社题名、公开摘要和在线日期；摘要级遗忘筛查。日期口径：出版社在线发表日期；卷期年份：2026。
+
+[论文与来源](https://www.nature.com/articles/s41893-025-01754-y) · [DOI](https://doi.org/10.1038/s41893-025-01754-y)
+
+<a id="P088"></a>
+### P088 · Strategizing renewable energy transitions to preserve sediment transport integrity
+
+**期刊：** Nature Sustainability ｜ **年份：** 2025 ｜ **日期：** 2025-09-26 ｜ **类型：** Article
+
+**归类：** 核心期刊电网文献 ｜ **电网关联：** 系统级：跨境电源组合、风光储替代水电与输电规划
+
+**摘要（中文概述）：** 研究将水文、泥沙与电力规划结合，评估湄公河流域水电扩张和风光储替代方案。全面开发大型水电会使入海泥沙大幅减少；以风电、光伏和储能替代19座高拦沙坝，可保留最多98%的泥沙输送，而2020—2050年系统成本增加约4%—6%。计入泥沙的生态收益后，新增成本可基本抵消，说明跨境电力规划应同时考虑河流生态约束。
+
+**遗忘筛查：** 未见直接相关。水—泥沙—能源规划优化研究；公开摘要未涉及训练数据、模型知识或概念的定向撤回。
+
+**核验：** 已核对出版社题名、公开摘要和在线日期；摘要级遗忘筛查。日期口径：出版社在线发表日期；卷期年份：2025。
+
+**备注：** 出版社列有2025-10-06 Publisher Correction；采用当前原文摘要，首次发表日期仍为2025-09-26。
+
+[论文与来源](https://www.nature.com/articles/s41893-025-01626-5) · [DOI](https://doi.org/10.1038/s41893-025-01626-5)
+
+<a id="P089"></a>
+### P089 · Negotiating risks to natural capital in net-zero transitions
+
+**期刊：** Nature Sustainability ｜ **年份：** 2025 ｜ **日期：** 2025-05-29 ｜ **类型：** Article
+
+**归类：** 背景补充 ｜ **电网关联：** 背景：新能源设施选址与土地约束；并非电网运行或控制研究
+
+**摘要（中文概述）：** 净零转型需要大规模新能源基础设施，但固定的土地可用性假设容易忽略生物多样性、农业及原住民权益。研究以澳大利亚为例，将国家能源转型模型与多种土地保护情景结合，识别新能源布局因自然资本约束而不可行或成本上升的地区。结果提出持续、协同地调整能源与土地规划，以降低脱碳目标和生态保护之间的冲突。
+
+**遗忘筛查：** 未见直接相关。调整规划情景与土地可用性并不等同于机器遗忘；未见训练影响撤回目标。
+
+**核验：** 已核对出版社题名、公开摘要和在线日期；摘要级遗忘筛查。日期口径：出版社在线发表日期；卷期年份：2025。
+
+[论文与来源](https://www.nature.com/articles/s41893-025-01576-y) · [DOI](https://doi.org/10.1038/s41893-025-01576-y)
+
+<a id="P090"></a>
+### P090 · Trading off regional and overall energy system design flexibility in the net-zero transition
+
+**期刊：** Nature Sustainability ｜ **年份：** 2025 ｜ **日期：** 2025-05-02 ｜ **类型：** Article
+
+**归类：** 核心期刊电网文献 ｜ **电网关联：** 系统级：欧洲互联系统、区域发电投资与跨区协调
+
+**摘要（中文概述）：** 研究利用优化模型描绘欧洲2050年净零能源系统的近最优方案，考察区域自主选择与整体稳健性之间的权衡，并纳入不同气象年、成本和土地约束。多数地区存在较大的技术替代空间，但部分区域的光伏或风电难以替代。国家可调整新能源出口与氢能策略，但需协调互联系统；南欧与德国增加光伏投入可扩大欧洲整体的设计选择。
+
+**遗忘筛查：** 未见直接相关。近最优能源系统规划与情景稳健性分析，未见数据或模型知识撤回。
+
+**核验：** 已核对出版社题名、公开摘要和在线日期；摘要级遗忘筛查。日期口径：出版社在线发表日期；卷期年份：2025。
+
+[论文与来源](https://www.nature.com/articles/s41893-025-01556-2) · [DOI](https://doi.org/10.1038/s41893-025-01556-2)
+
+<a id="P091"></a>
+### P091 · A renewable and socially accepted energy system for astronomical telescopes
+
+**期刊：** Nature Sustainability ｜ **年份：** 2024 ｜ **日期：** 2024-10-11 ｜ **类型：** Article
+
+**归类：** 核心期刊电网文献 ｜ **电网关联：** 系统级：离网供电、分布式能源系统与社区负荷共享
+
+**摘要（中文概述）：** 偏远天文台通常依赖化石燃料独立供电，周边社区的需求也易被忽略。研究结合能源系统优化与参与式多准则分析，为阿塔卡马拟建望远镜设计可再生供电方案。结果表明，在不增设容量的情况下，该系统还可满足附近社区约66%的用能需求；将方案推广至邻近天文台有望减少化石发电及排放，利益共享也能改善方案的社会接受度。
+
+**遗忘筛查：** 未见直接相关。优化独立能源系统与社区供电配置，未见模型遗忘或数据撤回任务。
+
+**核验：** 已核对出版社题名、公开摘要和在线日期；摘要级遗忘筛查。日期口径：出版社在线发表日期；卷期年份：2024。
+
+[论文与来源](https://www.nature.com/articles/s41893-024-01442-3) · [DOI](https://doi.org/10.1038/s41893-024-01442-3)
+
+<a id="P092"></a>
+### P092 · Sustainable urban transformations based on integrated microgrid designs
+
+**期刊：** Nature Sustainability ｜ **年份：** 2024 ｜ **日期：** 2024-07-16 ｜ **类型：** Article
+
+**归类：** 核心期刊电网文献 ｜ **电网关联：** 直接：微电网边界规划、停电应对与供电韧性
+
+**摘要（中文概述）：** 自然灾害与气候变化加剧城市停电风险，微电网可在主网故障时维持局部供电，但仅按技术指标划分边界可能延续社会不平等。研究将社会经济与技术指标共同纳入城市微电网规划，并通过美国一个县的案例评估韧性、居民福祉和公平性之间的联系，强调微电网分区、储能与关键负荷供电应兼顾不同群体的灾害承受能力。
+
+**遗忘筛查：** 未见直接相关。围绕微电网分区与社会技术指标开展规划；未涉及从已训练模型中删除指定影响。
+
+**核验：** 已核对出版社题名、公开摘要和在线日期；摘要级遗忘筛查。日期口径：出版社在线发表日期；卷期年份：2024。
+
+[论文与来源](https://www.nature.com/articles/s41893-024-01395-7) · [DOI](https://doi.org/10.1038/s41893-024-01395-7)
+
+<a id="P093"></a>
+### P093 · Urban building energy modelling in the electrification era
+
+**期刊：** Nature Reviews Electrical Engineering ｜ **年份：** 2026 ｜ **日期：** 2026-10-29 ｜ **类型：** Review Article
+
+**归类：** 交叉与扩展期刊 ｜ **电网关联：** 直接电网/电力系统相关
+
+**摘要（中文概述）：** 综述城市建筑群能源建模如何应对气候变化和电气化。建筑逐渐由被动用能者转为可与电网互动的资源，要求模型刻画建筑、交通与电网耦合、气候风险及多类型负荷。文章讨论人工智能、数据隐私与验证不足等挑战，并展望模型用于预测电网压力、热浪健康保护和公平投资决策的方向。
+
+**遗忘筛查：** 邻近但非遗忘。提及数据隐私和AI建模，但没有训练数据撤回或概念删除方法。
+
+**核验：** 期刊官网摘要、类型与日期已核验。日期口径：在线发表日期；卷期年份：2026。
+
+[论文与来源](https://www.nature.com/articles/s44287-026-00348-w) · [DOI](https://doi.org/10.1038/s44287-026-00348-w)
+
+<a id="P094"></a>
+### P094 · Structural alignment for energy–computation co-design
+
+**期刊：** Nature Reviews Electrical Engineering ｜ **年份：** 2026 ｜ **日期：** 2026-02-23 ｜ **类型：** Comment
+
+**归类：** 交叉与扩展期刊 ｜ **电网关联：** 直接电网/电力系统相关
+
+**内容概述（出版社导语，无正式摘要）：** 评论关注持续运行、规模达到吉瓦级的人工智能计算负荷对电力系统造成的压力。作者认为，需要在能源与计算协同设计中理解两类系统各自的组织约束和演化方式，以结构性协调支持长期共发展；文章提出研究议题，未提供具体模型遗忘方法。
+
+**遗忘筛查：** 未见直接相关。能源与计算的结构协调，不涉及删除模型训练数据或概念。
+
+**核验：** 期刊官网导语、类型与日期已核验（无正式摘要）。日期口径：在线发表日期；卷期年份：2026。
+
+[论文与来源](https://www.nature.com/articles/s44287-026-00273-y) · [DOI](https://doi.org/10.1038/s44287-026-00273-y)
+
+<a id="P095"></a>
+### P095 · A systems engineering approach to enhance utilization of renewable energy
+
+**期刊：** Nature Reviews Electrical Engineering ｜ **年份：** 2026 ｜ **日期：** 2026-01-09 ｜ **类型：** Comment
+
+**归类：** 交叉与扩展期刊 ｜ **电网关联：** 直接电网/电力系统相关
+
+**内容概述（出版社导语，无正式摘要）：** 评论讨论电力系统大规模、充分利用可再生能源面临的挑战，主张采用系统工程视角贯通预测、分析、调度和控制。通过强调运行各环节的协同，提出提高新能源利用水平的研究方向。该文属于方法论倡议，出版社公开导语未报告特定算法的实验结果。
+
+**遗忘筛查：** 未见直接相关。预测调度控制一体化倡议，不涉及机器遗忘。
+
+**核验：** 期刊官网导语、类型与日期已核验（无正式摘要）。日期口径：在线发表日期；卷期年份：2026。
+
+[论文与来源](https://www.nature.com/articles/s44287-025-00253-8) · [DOI](https://doi.org/10.1038/s44287-025-00253-8)
+
+<a id="P096"></a>
+### P096 · Translating energy equity from a sociological concept to an electric power engineering perspective
+
+**期刊：** Nature Reviews Electrical Engineering ｜ **年份：** 2025 ｜ **日期：** 2025-09-24 ｜ **类型：** Perspective
+
+**归类：** 交叉与扩展期刊 ｜ **电网关联：** 直接电网/电力系统相关
+
+**摘要（中文概述）：** 从电力工程视角讨论如何将能源公平转化为可操作的研究目标。文章梳理欧美相关政策及工程研究，将公平问题联系到电力可及性、可负担性与韧性，比较量化和嵌入工程决策的途径，并提出技术应用面临的挑战及研究路线，帮助电力系统设计与运行更明确地考虑社会分配影响。
+
+**遗忘筛查：** 未见直接相关。讨论工程决策中的能源公平，不是通过遗忘数据消除模型偏差。
+
+**核验：** 期刊官网摘要、类型与日期已核验。日期口径：在线发表日期；卷期年份：2025。
+
+[论文与来源](https://www.nature.com/articles/s44287-025-00210-5) · [DOI](https://doi.org/10.1038/s44287-025-00210-5)
+
+<a id="P097"></a>
+### P097 · Hydrogen as the nexus of future sustainable transport and energy systems
+
+**期刊：** Nature Reviews Electrical Engineering ｜ **年份：** 2025 ｜ **日期：** 2025-06-02 ｜ **类型：** Review Article
+
+**归类：** 交叉与扩展期刊 ｜ **电网关联：** 直接电网/电力系统相关
+
+**摘要（中文概述）：** 综述绿氢与燃料电池汽车如何连接低碳交通和能源系统，促进间歇性新能源并网、储能与系统灵活性。文章梳理制氢、燃料电池和加氢基础设施进展，讨论规模化应用的技术、经济及监管障碍，并提出协调制氢与能源交通需求的研究、政策和投资路线。
+
+**遗忘筛查：** 未见直接相关。能源交通部门耦合与氢能综述，不涉及机器遗忘。
+
+**核验：** 期刊官网摘要、类型与日期已核验。日期口径：在线发表日期；卷期年份：2025。
+
+[论文与来源](https://www.nature.com/articles/s44287-025-00178-2) · [DOI](https://doi.org/10.1038/s44287-025-00178-2)
+
+<a id="P098"></a>
+### P098 · Pumped-storage renovation for grid-scale, long-duration energy storage
+
+**期刊：** Nature Reviews Electrical Engineering ｜ **年份：** 2025 ｜ **日期：** 2025-01-20 ｜ **类型：** Comment
+
+**归类：** 交叉与扩展期刊 ｜ **电网关联：** 直接电网/电力系统相关
+
+**内容概述（出版社导语，无正式摘要）：** 评论提出利用既有大型水电系统进行抽水蓄能改造，以释放电网级长时和季节性储能潜力。作者从应对风光发电间歇性的需求出发，讨论改造面临的技术挑战与后续研究方向，强调现有水电基础设施在低碳电力系统中的新用途。
+
+**遗忘筛查：** 未见直接相关。长时储能技术评论，不涉及机器学习或遗忘。
+
+**核验：** 期刊官网导语、类型与日期已核验（无正式摘要）。日期口径：在线发表日期；卷期年份：2025。
+
+[论文与来源](https://www.nature.com/articles/s44287-025-00143-z) · [DOI](https://doi.org/10.1038/s44287-025-00143-z)
+
+<a id="P099"></a>
+### P099 · Sustainable electrification in the era of AI
+
+**期刊：** Nature Reviews Electrical Engineering ｜ **年份：** 2024 ｜ **日期：** 2024-07-31 ｜ **类型：** Comment
+
+**归类：** 交叉与扩展期刊 ｜ **电网关联：** 直接电网/电力系统相关
+
+**内容概述（出版社导语，无正式摘要）：** 评论指出电网既支撑经济脱碳，也为人工智能发展提供基础，因此需要将人工智能增长与可持续电气化共同考虑。作者提出跨材料发现、计算机体系结构、智能电网和系统理论的综合研究议程，推动高效率、大规模、低碳电气化；公开导语侧重研究方向，并未报告特定控制算法的验证结果。
+
+**遗忘筛查：** 未见直接相关。研究电气化与AI基础设施，不涉及撤回数据或知识。
+
+**核验：** 期刊官网导语、类型与日期已核验（无正式摘要）。日期口径：在线发表日期；卷期年份：2024。
+
+[论文与来源](https://www.nature.com/articles/s44287-024-00083-0) · [DOI](https://doi.org/10.1038/s44287-024-00083-0)
+
+<a id="P100"></a>
+### P100 · One-minute frequency disturbances from unintended synchronization in cyber–physical power systems
+
+**期刊：** Nature Energy ｜ **年份：** 2026 ｜ **日期：** 2026-10-30 ｜ **类型：** Article
+
+**归类：** 核心期刊电网文献 ｜ **电网关联：** 直接电网/电力系统相关
+
+**摘要（中文概述）：** 分析多个电网中持续出现的一分钟周期频率扰动，指出按时钟同步运行的软件控制可使不同能源设备产生非预期的同步功率变化。这类扰动与不间断电源、储能等数字控制设备有关，能够跨电压等级传播，并增加调频需求及水电机组磨损。随着数据中心、储能和联网设备扩张，控制系统设计需要避免周期性同步引起的系统风险。
+
+**遗忘筛查：** 未见直接相关。题目及可获取摘要研究电力系统问题，未见删除指定训练数据、客户端或知识/概念影响的目标与验证；未完成所有付费全文筛查。
+
+**核验：** 官网完整摘要与题目/日期核验。日期口径：在线发表日期；卷期年份：2026。
+
+[论文与来源](https://www.nature.com/articles/s41560-026-02144-0) · [DOI](https://doi.org/10.1038/s41560-026-02144-0)
+
+<a id="P101"></a>
+### P101 · Heatwave-induced capacity bottlenecks in European electricity grids
+
+**期刊：** Nature Energy ｜ **年份：** 2026 ｜ **日期：** 2026-10-22 ｜ **类型：** Article
+
+**归类：** 核心期刊电网文献 ｜ **电网关联：** 直接电网/电力系统相关
+
+**摘要（中文概述）：** 将温度相关的用电需求、发电机出力降额与输电线路热约束统一纳入交流最优潮流框架，利用西欧公开电网、气象和需求数据模拟多种热浪情景。结果揭示地区间容量瓶颈及负荷削减风险存在明显差异，西班牙较为脆弱而德国相对稳健。研究强调规划与运行需要同时考虑高温对供需和线路容量的影响。
+
+**遗忘筛查：** 未见直接相关。题目及可获取摘要研究电力系统问题，未见删除指定训练数据、客户端或知识/概念影响的目标与验证；未完成所有付费全文筛查。
+
+**核验：** 官网完整摘要与题目/日期核验。日期口径：在线发表日期；卷期年份：2026。
+
+[论文与来源](https://www.nature.com/articles/s41560-026-02151-1) · [DOI](https://doi.org/10.1038/s41560-026-02151-1)
+
+<a id="P102"></a>
+### P102 · Climate change reshapes resource adequacy risks and optimal renewable energy siting in wind and solar energy systems
+
+**期刊：** Nature Energy ｜ **年份：** 2026 ｜ **日期：** 2026-07-16 ｜ **类型：** Article
+
+**归类：** 核心期刊电网文献 ｜ **电网关联：** 直接电网/电力系统相关
+
+**摘要（中文概述）：** 将高分辨率气候预测与县级电力系统优化结合，评估新英格兰及得克萨斯的风光资源充裕性。制冷需求增长、可再生能源变化和输电约束可能显著增加供电不足风险，而将未来气候纳入风光选址可降低这些风险。研究说明两地适宜的调整路径不同，需要把发电布局、需求位置与输电投资联动考虑。
+
+**遗忘筛查：** 未见直接相关。题目及可获取摘要研究电力系统问题，未见删除指定训练数据、客户端或知识/概念影响的目标与验证；未完成所有付费全文筛查。
+
+**核验：** 官网完整摘要与题目/日期核验。日期口径：在线发表日期；卷期年份：2026。
+
+[论文与来源](https://www.nature.com/articles/s41560-026-02109-3) · [DOI](https://doi.org/10.1038/s41560-026-02109-3)
+
+<a id="P103"></a>
+### P103 · Coordinated planning of European charging infrastructure and energy system for optimal V1G and V2G deployment
+
+**期刊：** Nature Energy ｜ **年份：** 2026 ｜ **日期：** 2026-07-14 ｜ **类型：** Article
+
+**归类：** 核心期刊电网文献 ｜ **电网关联：** 直接电网/电力系统相关
+
+**摘要（中文概述）：** 把充电基础设施成本内生纳入欧洲能源系统优化，对比无序充电、单向智能充电与双向车网互动的竞争和互补关系。单向智能充电贡献大部分系统成本节约，双向充电的额外系统收益较小，但可提供可观的平衡市场价值。不同地区的风光结构、输电限制和供电稀缺程度影响最优部署，统一的欧洲充电指标可能高估或低估局部需求。
+
+**遗忘筛查：** 未见直接相关。题目及可获取摘要研究电力系统问题，未见删除指定训练数据、客户端或知识/概念影响的目标与验证；未完成所有付费全文筛查。
+
+**核验：** 官网完整摘要与题目/日期核验。日期口径：在线发表日期；卷期年份：2026。
+
+[论文与来源](https://www.nature.com/articles/s41560-026-02107-5) · [DOI](https://doi.org/10.1038/s41560-026-02107-5)
+
+<a id="P104"></a>
+### P104 · AI data centres as grid-interactive assets
+
+**期刊：** Nature Energy ｜ **年份：** 2025 ｜ **日期：** 2025-12-05 ｜ **类型：** Article
+
+**归类：** 核心期刊电网文献 ｜ **电网关联：** 直接电网/电力系统相关
+
+**摘要（中文概述）：** 通过亚利桑那州凤凰城云计算环境中的现场示范，检验人工智能工作负载能否作为电网可调节资源。对256块图形处理器的运行进行软件协调，在三小时高峰期间降低约四分之一功率，同时保持服务质量。结果说明根据实时电网信号调整计算任务，可在不增加储能和硬件的条件下提供需求侧灵活性，为数据中心与电网协同运行提供实证。
+
+**遗忘筛查：** 未见直接相关。研究AI数据中心任务调度参与电网需求响应，不是移除模型中的训练数据、客户端或知识影响。
+
+**核验：** 官网完整摘要与题目/日期核验。日期口径：在线发表日期；卷期年份：2026。
+
+**备注：** 在线首发年份为2025，卷期年份为2026；按在线首发年统计。
+
+[论文与来源](https://www.nature.com/articles/s41560-025-01927-1) · [DOI](https://doi.org/10.1038/s41560-025-01927-1)
+
+<a id="P105"></a>
+### P105 · Redesigning electrification of China’s ammonia and methanol industry to balance decarbonization with power system security
+
+**期刊：** Nature Energy ｜ **年份：** 2025 ｜ **日期：** 2025-06-05 ｜ **类型：** Article
+
+**归类：** 核心期刊电网文献 ｜ **电网关联：** 直接电网/电力系统相关
+
+**摘要（中文概述）：** 评估中国22个省份氨与甲醇产业电气化路径，分析可再生发电和化工负荷的时空错配如何影响电力排放及安全。单纯依赖电网供电可能抵消减排，共址新能源若缺少自平衡灵活性也会增加系统平衡需求。论文提出绿色灵活化工电气化路径，并讨论通过电价机制激励化工需求管理，使产业减排与电网安全相协调。
+
+**遗忘筛查：** 未见直接相关。题目及可获取摘要研究电力系统问题，未见删除指定训练数据、客户端或知识/概念影响的目标与验证；未完成所有付费全文筛查。
+
+**核验：** 官网完整摘要与题目/日期核验。日期口径：在线发表日期；卷期年份：2025。
+
+[论文与来源](https://www.nature.com/articles/s41560-025-01779-9) · [DOI](https://doi.org/10.1038/s41560-025-01779-9)
+
+<a id="P106"></a>
+### P106 · Mobilizing power quality and reliability measurements for electricity equity and justice in Africa
+
+**期刊：** Nature Energy ｜ **年份：** 2025 ｜ **日期：** 2025-02-28 ｜ **类型：** Article
+
+**归类：** 核心期刊电网文献 ｜ **电网关联：** 直接电网/电力系统相关
+
+**摘要（中文概述）：** 提出结合能源公平、能力、多维贫困与电力工程的分析框架，研究撒哈拉以南非洲供电质量和可靠性的分布。利用阿克拉一年的远程监测数据，识别不同社区的电能质量与可靠性差异，并发现较差供电状况与贫困社区相联系。研究强调电力接入率之外还应测量实际服务质量，以评估家庭生活能力及电力系统不平等。
+
+**遗忘筛查：** 未见直接相关。题目及可获取摘要研究电力系统问题，未见删除指定训练数据、客户端或知识/概念影响的目标与验证；未完成所有付费全文筛查。
+
+**核验：** 官网完整摘要与题目/日期核验。日期口径：在线发表日期；卷期年份：2025。
+
+[论文与来源](https://www.nature.com/articles/s41560-025-01717-9) · [DOI](https://doi.org/10.1038/s41560-025-01717-9)
+
+<a id="P107"></a>
+### P107 · Demand-side strategies enable rapid and deep cuts in buildings and transport emissions to 2050
+
+**期刊：** Nature Energy ｜ **年份：** 2025 ｜ **日期：** 2025-02-05 ｜ **类型：** Article
+
+**归类：** 核心期刊电网文献 ｜ **电网关联：** 系统级相关：终端电气化与供应侧电力投资
+
+**摘要（中文概述）：** 利用多种全球综合评估模型，对建筑和交通中的活动变化、能效提升及终端电气化三类策略进行比较，并考虑系统间相互作用。电气化具有较大的直接减排潜力，但需求增长会改变供应侧投资需求。联合采用多类需求侧措施可在减排的同时降低电力需求，减少发电和基础设施投资压力，说明电气化应与需求管理协同推进。
+
+**遗忘筛查：** 未见直接相关。题目及可获取摘要研究电力系统问题，未见删除指定训练数据、客户端或知识/概念影响的目标与验证；未完成所有付费全文筛查。
+
+**核验：** 官网完整摘要与题目/日期核验。日期口径：在线发表日期；卷期年份：2025。
+
+[论文与来源](https://www.nature.com/articles/s41560-025-01703-1) · [DOI](https://doi.org/10.1038/s41560-025-01703-1)
+
+<a id="P108"></a>
+### P108 · Multi-year field measurements of home storage systems and their use in capacity estimation
+
+**期刊：** Nature Energy ｜ **年份：** 2024 ｜ **日期：** 2024-09-16 ｜ **类型：** Article
+
+**归类：** 核心期刊电网文献 ｜ **电网关联：** 系统级相关：实际户用光储运行数据
+
+**摘要（中文概述）：** 基于德国21套实际运行的户用锂电储能系统、最长八年的高分辨率测量，提出可扩展的在线可用容量估计方法，并用定期现场容量测试验证。结果显示系统平均每年损失约两至三个百分点的可用容量。研究同时公开覆盖约106个系统年的大规模运行数据，为户用光储可靠运行、健康状态评估及透明的容量退化测量提供依据。
+
+**遗忘筛查：** 未见直接相关。题目及可获取摘要研究电力系统问题，未见删除指定训练数据、客户端或知识/概念影响的目标与验证；未完成所有付费全文筛查。
+
+**核验：** 官网完整摘要与题目/日期核验。日期口径：在线发表日期；卷期年份：2024。
+
+[论文与来源](https://www.nature.com/articles/s41560-024-01620-9) · [DOI](https://doi.org/10.1038/s41560-024-01620-9)
+
+<a id="P109"></a>
+### P109 · Transforming public transport depots into profitable energy hubs
+
+**期刊：** Nature Energy ｜ **年份：** 2024 ｜ **日期：** 2024-08-01 ｜ **类型：** Article
+
+**归类：** 核心期刊电网文献 ｜ **电网关联：** 直接电网/电力系统相关
+
+**摘要（中文概述）：** 利用北京两万余辆公交车的两亿余条定位记录，评估将公交场站改造成配置光伏和储能的能源枢纽。光伏能够减少净充电负荷，加入储能后削峰效果进一步增强，但储能也会降低项目利润。研究量化了电网收益、经济性与减排之间的权衡，为城市公交电气化及场站能源配置提供数据驱动的规划框架。
+
+**遗忘筛查：** 未见直接相关。题目及可获取摘要研究电力系统问题，未见删除指定训练数据、客户端或知识/概念影响的目标与验证；未完成所有付费全文筛查。
+
+**核验：** 官网完整摘要与题目/日期核验。日期口径：在线发表日期；卷期年份：2024。
+
+[论文与来源](https://www.nature.com/articles/s41560-024-01580-0) · [DOI](https://doi.org/10.1038/s41560-024-01580-0)
+
+<a id="P110"></a>
+### P110 · Increasing the resilience of the Texas power grid against extreme storms by hardening critical lines
+
+**期刊：** Nature Energy ｜ **年份：** 2024 ｜ **日期：** 2024-03-01 ｜ **类型：** Article
+
+**归类：** 核心期刊电网文献 ｜ **电网关联：** 直接电网/电力系统相关
+
+**摘要（中文概述）：** 结合输电线路概率失效模型与得克萨斯电网模型，模拟七场历史热带气旋中风致线路故障及级联停电的时空演化。模型能够复现供电中断，并识别静态方法容易遗漏的关键线路。研究发现仅加固约百分之一的线路，就能显著降低最严重停电的发生概率，为在有限信息和预算下提高电网抗风暴能力提供方法。
+
+**遗忘筛查：** 未见直接相关。题目及可获取摘要研究电力系统问题，未见删除指定训练数据、客户端或知识/概念影响的目标与验证；未完成所有付费全文筛查。
+
+**核验：** 官网完整摘要与题目/日期核验。日期口径：在线发表日期；卷期年份：2024。
+
+[论文与来源](https://www.nature.com/articles/s41560-023-01434-1) · [DOI](https://doi.org/10.1038/s41560-023-01434-1)
+
+<a id="P111"></a>
+### P111 · Transforming electrified railway into mechanical energy storage for electricity system decarbonization
+
+**期刊：** Nature Communications ｜ **年份：** 2026 ｜ **日期：** 2026-10-19 ｜ **类型：** Article
+
+**归类：** 核心期刊电网文献 ｜ **电网关联：** 直接电网
+
+**摘要（中文概述）：** 把电气化铁路的牵引与再生制动视为可调节的机械储能资源，通过协调列车运行与电力系统交换能量。基于大量站间运行数据估算其潜力，并在中国、欧洲和印度的容量扩展模型中检验。结果显示，该资源可减少专用储能建设需求，在不增加总成本的情况下进一步降低排放。
+
+**遗忘筛查：** 未见直接相关。所读题目与摘要未见定向撤回已训练模型中的数据、客户端或概念影响；本判断不等于逐页全文排除。
+
+**核验：** 出版社原始页面：题目、日期、摘要已核对。日期口径：首次在线发表日期；卷期年份：未核验。
+
+**备注：** 第二轮补检新增。 已同行评议并接收，提前在线发表；截至检索日尚待正式Version of Record，卷期年份未核实。
+
+[论文与来源](https://www.nature.com/articles/s41467-026-78711-6) · [DOI](https://doi.org/10.1038/s41467-026-78711-6)
+
+<a id="P112"></a>
+### P112 · Unlocking electric vehicle flexibility in microgrids via lightweight on-charger coordination
+
+**期刊：** Nature Communications ｜ **年份：** 2026 ｜ **日期：** 2026-10-17 ｜ **类型：** Article
+
+**归类：** 核心期刊电网文献 ｜ **电网关联：** 直接电网
+
+**摘要（中文概述）：** 将电动车充电器转变为能够自主协调的边缘智能节点，在硬件资源受限条件下开展分布式充电优化。高保真微电网硬件在环实验表明，框架显著降低存储和通信开销，并通过释放车辆灵活性改善经济收益，为可再生能源丰富的微电网提供车网协同方式。
+
+**遗忘筛查：** 邻近但非遗忘。边缘智能和分布式充电优化，摘要未说明定向删除样本、客户端或概念影响。
+
+**核验：** 出版社原始页面：题目、日期、摘要已核对。日期口径：首次在线发表日期；卷期年份：未核验。
+
+**备注：** 第二轮补检新增。 已同行评议并接收，提前在线发表；截至检索日尚待正式Version of Record，卷期年份未核实。
+
+[论文与来源](https://www.nature.com/articles/s41467-026-78319-w) · [DOI](https://doi.org/10.1038/s41467-026-78319-w)
+
+<a id="P113"></a>
+### P113 · Cross-border electricity tariffs undermine power system efficiency, decarbonization and reliability in North America
+
+**期刊：** Nature Communications ｜ **年份：** 2026 ｜ **日期：** 2026-10-01 ｜ **类型：** Article
+
+**归类：** 核心期刊电网文献 ｜ **电网关联：** 系统级相关
+
+**摘要（中文概述）：** 结合纽约十年电力市场数据和电力系统仿真，评估对加拿大进口电力加征关税的影响。结果显示，贸易受限会使水电及核电进口被化石发电替代，推高价格与排放、削弱经济福利，并压缩运行备用。极端冬季扰动下的停电风险也随之增加，凸显跨境互联的可靠性价值。
+
+**遗忘筛查：** 未见直接相关。所读题目与摘要未见定向撤回已训练模型中的数据、客户端或概念影响；本判断不等于逐页全文排除。
+
+**核验：** 出版社原始页面：题目、日期、摘要已核对。日期口径：首次在线发表日期；卷期年份：2026。
+
+**备注：** 第二轮补检新增。
+
+[论文与来源](https://www.nature.com/articles/s41467-026-77773-w) · [DOI](https://doi.org/10.1038/s41467-026-77773-w)
+
+<a id="P114"></a>
+### P114 · Extreme vulnerability to intruder attacks destabilizes network dynamics
+
+**期刊：** Nature Communications ｜ **年份：** 2026 ｜ **日期：** 2026-08-13 ｜ **类型：** Article
+
+**归类：** 背景补充 ｜ **电网关联：** 背景相关
+
+**摘要（中文概述）：** 研究网络中的单个恶意节点如何破坏同步、共识等稳定动态状态，发现集中攻击某些低入度节点可能比攻击枢纽更具破坏性。理论从线性系统延伸至非线性振子网络，并讨论电网平衡等应用背景。其核心贡献是一般网络脆弱性分析，不能直接等同于真实电网攻击验证。
+
+**遗忘筛查：** 未见直接相关。讨论恶意节点与网络稳定性，网络节点删除或隔离不等于机器遗忘。
+
+**核验：** 出版社原始页面：题目、日期、摘要已核对。日期口径：首次在线发表日期；卷期年份：2026。
+
+**备注：** 第二轮补检新增。
+
+[论文与来源](https://www.nature.com/articles/s41467-026-76342-5) · [DOI](https://doi.org/10.1038/s41467-026-76342-5)
+
+<a id="P115"></a>
+### P115 · High-power hybrid commutated converter for carbon-neutral power transmission
+
+**期刊：** Nature Communications ｜ **年份：** 2026 ｜ **日期：** 2026-07-22 ｜ **类型：** Article
+
+**归类：** 核心期刊电网文献 ｜ **电网关联：** 直接电网
+
+**摘要（中文概述）：** 提出面向大规模清洁电力输送的混合换相换流器，通过强迫换相与恢复增强换相结合，提高直流输电的可靠性并缓解换相失败风险。研究完成120千伏、360兆瓦级验证，并结合实际工程应用说明该技术支撑高功率、长距离新能源输送的可行性。
+
+**遗忘筛查：** 未见直接相关。所读题目与摘要未见定向撤回已训练模型中的数据、客户端或概念影响；本判断不等于逐页全文排除。
+
+**核验：** 出版社原始页面：题目、日期、摘要已核对。日期口径：首次在线发表日期；卷期年份：2026。
+
+**备注：** 第二轮补检新增。
+
+[论文与来源](https://www.nature.com/articles/s41467-026-75691-5) · [DOI](https://doi.org/10.1038/s41467-026-75691-5)
+
+<a id="P116"></a>
+### P116 · Understanding the European energy crisis through structural causal models
+
+**期刊：** Nature Communications ｜ **年份：** 2026 ｜ **日期：** 2026-07-17 ｜ **类型：** Article
+
+**归类：** 核心期刊电网文献 ｜ **电网关联：** 直接电网/电力系统相关
+
+**摘要（中文概述）：** 针对欧洲能源危机中法国虽少用天然气却出现显著电价上涨的现象，构建因果图分析法国和西班牙市场的电价与净出口。研究结合线性结构因果模型、树模型及Shapley Flow，区分天然气价格与核电不可用性的联合作用，量化间接影响和反事实情景，说明相关分析可能掩盖市场传导机制。
+
+**遗忘筛查：** 邻近但非遗忘。因果统计与机器学习用于电价解释，不涉及删除训练数据或概念。
+
+**核验：** 期刊官网摘要、类型、日期与DOI已核验。日期口径：在线发表日期；卷期年份：2026。
+
+[论文与来源](https://www.nature.com/articles/s41467-026-75433-7) · [DOI](https://doi.org/10.1038/s41467-026-75433-7)
+
+<a id="P117"></a>
+### P117 · Efficiency-weighted cooling degree days reveal opposing temperature and humidity effects on energy demand
+
+**期刊：** Nature Communications ｜ **年份：** 2026 ｜ **日期：** 2026-07-11 ｜ **类型：** Article
+
+**归类：** 背景补充 ｜ **电网关联：** 背景相关
+
+**摘要（中文概述）：** 提出考虑制冷效率的有效制冷度日指标，同时描述气温和湿度对空调用能的作用。北美历史与未来情景分析表明，单纯以温度推算负荷会遗漏湿热与干热条件下的效率差异。论文为电力需求和气候风险评估提供输入改进，但并非电网调度或机器遗忘研究。
+
+**遗忘筛查：** 未见直接相关。所读题目与摘要未见定向撤回已训练模型中的数据、客户端或概念影响；本判断不等于逐页全文排除。
+
+**核验：** 出版社原始页面：题目、日期、摘要已核对。日期口径：首次在线发表日期；卷期年份：2026。
+
+**备注：** 第二轮补检新增。
+
+[论文与来源](https://www.nature.com/articles/s41467-026-75388-9) · [DOI](https://doi.org/10.1038/s41467-026-75388-9)
+
+<a id="P118"></a>
+### P118 · Assessing grid affordability for universal electricity access in Sub-Saharan Africa
+
+**期刊：** Nature Communications ｜ **年份：** 2026 ｜ **日期：** 2026-07-09 ｜ **类型：** Article
+
+**归类：** 核心期刊电网文献 ｜ **电网关联：** 系统级相关
+
+**摘要（中文概述）：** 汇集撒哈拉以南非洲48国居民电价，并结合收入分布和分级用电需求评估支付能力。结果显示，大量居民难以负担较高等级的电力服务；将居民负担与公用事业财务状况共同分析，可识别电网扩展的可行地区及电气化陷阱，支持并网和离网方案的差异化选择。
+
+**遗忘筛查：** 未见直接相关。所读题目与摘要未见定向撤回已训练模型中的数据、客户端或概念影响；本判断不等于逐页全文排除。
+
+**核验：** 出版社原始页面：题目、日期、摘要已核对。日期口径：首次在线发表日期；卷期年份：2026。
+
+**备注：** 第二轮补检新增。
+
+[论文与来源](https://www.nature.com/articles/s41467-026-75104-7) · [DOI](https://doi.org/10.1038/s41467-026-75104-7)
+
+<a id="P119"></a>
+### P119 · A probabilistic forecasting framework for neighbourhood-level disaggregation of electric vehicle adoption scenarios
+
+**期刊：** Nature Communications ｜ **年份：** 2026 ｜ **日期：** 2026-06-13 ｜ **类型：** Article
+
+**归类：** 核心期刊电网文献 ｜ **电网关联：** 直接电网
+
+**摘要（中文概述）：** 为配电网投资提供社区尺度的电动汽车普及率预测，将地方车辆登记数据与区域情景相结合，利用高斯过程生成带不确定区间的细粒度预测。英国十个地区、1294个社区的验证显示，该方法在较长预测跨度下改善误差与区间校准，有助于识别低压网络潜在承载风险。
+
+**遗忘筛查：** 邻近但非遗忘。涉及预测、智能建模或优化，但所读摘要未定义遗忘对象、删除已学习影响的目标及有效性验证。
+
+**核验：** 出版社原始页面：题目、日期、摘要已核对。日期口径：首次在线发表日期；卷期年份：2026。
+
+**备注：** 第二轮补检新增。
+
+[论文与来源](https://www.nature.com/articles/s41467-026-74155-0) · [DOI](https://doi.org/10.1038/s41467-026-74155-0)
+
+<a id="P120"></a>
+### P120 · Rethinking the use of deep learning methods for photovoltaic power forecasting
+
+**期刊：** Nature Communications ｜ **年份：** 2026 ｜ **日期：** 2026-06-12 ｜ **类型：** Article
+
+**归类：** 核心期刊电网文献 ｜ **电网关联：** 直接电网
+
+**摘要（中文概述）：** 重新评估光伏预测中历史观测与未来天气信息的融合方式，提出带多尺度编码、通道相关注意力和层级交叉解码的Cross-Unet模型。在中国与澳大利亚多个电站、不同天气预报来源及预测时长上验证，展示15分钟分辨率、数小时到一周预测对调度和交易的支持作用。
+
+**遗忘筛查：** 邻近但非遗忘。涉及预测、智能建模或优化，但所读摘要未定义遗忘对象、删除已学习影响的目标及有效性验证。
+
+**核验：** 出版社原始页面：题目、日期、摘要已核对。日期口径：首次在线发表日期；卷期年份：2026。
+
+**备注：** 第二轮补检新增。
+
+[论文与来源](https://www.nature.com/articles/s41467-026-73817-3) · [DOI](https://doi.org/10.1038/s41467-026-73817-3)
+
+<a id="P121"></a>
+### P121 · Detection and countermeasure integrated framework against false data injection attacks in multi-area coupled power systems
+
+**期刊：** Nature Communications ｜ **年份：** 2026 ｜ **日期：** 2026-06-10 ｜ **类型：** Article
+
+**归类：** 核心期刊电网文献 ｜ **电网关联：** 直接电网
+
+**摘要（中文概述）：** 针对多区域耦合电力系统负荷频率控制中的虚假数据注入攻击，提出联合检测和反制框架。利用无迹卡尔曼滤波的采样策略刻画动态耦合，并自适应更新状态与噪声协方差。多种攻击场景实验显示，状态估计、攻击检测和应对效果得到改善。
+
+**遗忘筛查：** 未见直接相关。自适应协方差更新与虚假数据攻击反制，不等于从已训练模型撤回历史训练影响。
+
+**核验：** 出版社原始页面：题目、日期、摘要已核对。日期口径：首次在线发表日期；卷期年份：2026。
+
+**备注：** 第二轮补检新增。
+
+[论文与来源](https://www.nature.com/articles/s41467-026-74374-5) · [DOI](https://doi.org/10.1038/s41467-026-74374-5)
+
+<a id="P122"></a>
+### P122 · Rethinking the economics and flexibility of U.S. nuclear power through hydrogen integration and policy support
+
+**期刊：** Nature Communications ｜ **年份：** 2026 ｜ **日期：** 2026-06-02 ｜ **类型：** Article
+
+**归类：** 核心期刊电网文献 ｜ **电网关联：** 直接电网/电力系统相关
+
+**摘要（中文概述）：** 研究美国既有核电站通过高温电解制氢和辅助服务参与，提高经济性及运行灵活性的潜力。逐小时优化与全生命周期技术经济分析相结合，评估改造、成本下降和政策支持的作用。结果表明，合理的核氢耦合及市场参与可改善净现值并扩大灵活输出，为新能源比例上升下的电网可靠运行提供支撑。
+
+**遗忘筛查：** 未见直接相关。电网成本、市场或部门耦合分析，不涉及模型遗忘。
+
+**核验：** 期刊官网摘要、类型、日期与DOI已核验。日期口径：在线发表日期；卷期年份：2026。
+
+[论文与来源](https://www.nature.com/articles/s41467-026-73630-y) · [DOI](https://doi.org/10.1038/s41467-026-73630-y)
+
+<a id="P123"></a>
+### P123 · EU-ETS emergency reserve price curbs coal use and shields consumers during natural gas price shocks
+
+**期刊：** Nature Communications ｜ **年份：** 2026 ｜ **日期：** 2026-05-25 ｜ **类型：** Article
+
+**归类：** 核心期刊电网文献 ｜ **电网关联：** 直接电网/电力系统相关
+
+**摘要（中文概述）：** 利用欧洲能源危机期间13个欧盟国家的逐小时电力市场数据，估计天然气价格冲击对燃煤发电、排放及电价的影响。研究比较现有天然气价格上限与排放交易应急机制，提出在气价超过历史基准时自动启动适度拍卖底价，以缓解消费者负担，同时维护脱碳激励并减少临时性政策干预。
+
+**遗忘筛查：** 未见直接相关。电网成本、市场或部门耦合分析，不涉及模型遗忘。
+
+**核验：** 期刊官网摘要、类型、日期与DOI已核验。日期口径：在线发表日期；卷期年份：2026。
+
+[论文与来源](https://www.nature.com/articles/s41467-026-73559-2) · [DOI](https://doi.org/10.1038/s41467-026-73559-2)
+
+<a id="P124"></a>
+### P124 · Digital twin-driven fault diagnosis of power substations by multi-modal fusion learning
+
+**期刊：** Nature Communications ｜ **年份：** 2026 ｜ **日期：** 2026-05-20 ｜ **类型：** Article
+
+**归类：** 核心期刊电网文献 ｜ **电网关联：** 直接电网
+
+**摘要（中文概述）：** 提出数字孪生支持的变电站多模态故障诊断方法，用图注意力和自注意力融合拓扑、告警、故障波形及SCADA测量。基于110千伏变电站仿真场景验证故障位置、类型和保护失效识别，并分析缺测条件下的鲁棒性，为变电站在线诊断与实际部署提供框架。
+
+**遗忘筛查：** 邻近但非遗忘。涉及预测、智能建模或优化，但所读摘要未定义遗忘对象、删除已学习影响的目标及有效性验证。
+
+**核验：** 出版社原始页面：题目、日期、摘要已核对。日期口径：首次在线发表日期；卷期年份：2026。
+
+**备注：** 第二轮补检新增。
+
+[论文与来源](https://www.nature.com/articles/s41467-026-73483-5) · [DOI](https://doi.org/10.1038/s41467-026-73483-5)
+
+<a id="P125"></a>
+### P125 · Flexibility-aware framework for efficient planner-initiated siting of data center
+
+**期刊：** Nature Communications ｜ **年份：** 2026 ｜ **日期：** 2026-05-16 ｜ **类型：** Article
+
+**归类：** 核心期刊电网文献 ｜ **电网关联：** 系统级相关
+
+**摘要（中文概述）：** 面向大型人工智能数据中心并网缓慢的问题，提出规划方主动选址流程，先以可靠性约束筛选，再评估不同负荷暂停和迁移能力下的市场影响，并进行多指标排序。德州2000节点合成系统案例表明，运行灵活性可增加可选接入位置，为加快接电与控制电网压力提供依据。
+
+**遗忘筛查：** 未见直接相关。所读题目与摘要未见定向撤回已训练模型中的数据、客户端或概念影响；本判断不等于逐页全文排除。
+
+**核验：** 出版社原始页面：题目、日期、摘要已核对。日期口径：首次在线发表日期；卷期年份：2026。
+
+**备注：** 第二轮补检新增。
+
+[论文与来源](https://www.nature.com/articles/s41467-026-72324-9) · [DOI](https://doi.org/10.1038/s41467-026-72324-9)
+
+<a id="P126"></a>
+### P126 · Lightweight vision architecture deployed in the terminal for safety monitoring and early warning of transmission lines
+
+**期刊：** Nature Communications ｜ **年份：** 2026 ｜ **日期：** 2026-04-25 ｜ **类型：** Article
+
+**归类：** 核心期刊电网文献 ｜ **电网关联：** 直接电网
+
+**摘要（中文概述）：** 针对输电走廊危险物体侵入预警，提出可部署于终端的轻量视觉架构，融合目标检测、姿态估计、深度转换和点云重建。方法同时识别危险目标与其相对导线的安全距离，在复杂地形下进行三维感知，并通过终端人工智能平台和现场摄像设备验证部署适应性。
+
+**遗忘筛查：** 邻近但非遗忘。涉及预测、智能建模或优化，但所读摘要未定义遗忘对象、删除已学习影响的目标及有效性验证。
+
+**核验：** 出版社原始页面：题目、日期、摘要已核对。日期口径：首次在线发表日期；卷期年份：2026。
+
+**备注：** 第二轮补检新增。
+
+[论文与来源](https://www.nature.com/articles/s41467-026-72321-y) · [DOI](https://doi.org/10.1038/s41467-026-72321-y)
+
+<a id="P127"></a>
+### P127 · Exploring the feasible net-zero transition pathway in China considering energy system flexibility
+
+**期刊：** Nature Communications ｜ **年份：** 2026 ｜ **日期：** 2026-04-11 ｜ **类型：** Article
+
+**归类：** 核心期刊电网文献 ｜ **电网关联：** 系统级相关
+
+**摘要（中文概述）：** 在能源—经济—环境模型中加入逐小时负荷、电力平衡、储能运行及需求响应，分析中国净零路径的灵活性约束。更细时间刻画会暴露陡峭爬坡与晚高峰压力，并提高最优减排成本；负荷移时和车网互动可减少部分储能投资，改善可靠性与成本之间的权衡。
+
+**遗忘筛查：** 未见直接相关。所读题目与摘要未见定向撤回已训练模型中的数据、客户端或概念影响；本判断不等于逐页全文排除。
+
+**核验：** 出版社原始页面：题目、日期、摘要已核对。日期口径：首次在线发表日期；卷期年份：2026。
+
+**备注：** 第二轮补检新增。
+
+[论文与来源](https://www.nature.com/articles/s41467-026-71410-2) · [DOI](https://doi.org/10.1038/s41467-026-71410-2)
+
+<a id="P128"></a>
+### P128 · Bulk electrical power extraction through tunnel transmission technology from renewable energy concentrated zones
+
+**期刊：** Nature Communications ｜ **年份：** 2026 ｜ **日期：** 2026-04-02 ｜ **类型：** Article
+
+**归类：** 核心期刊电网文献 ｜ **电网关联：** 系统级相关
+
+**摘要（中文概述）：** 针对山区新能源基地外送受地形和生态约束的问题，结合电磁、热流体仿真与全寿命成本评估，比较架空线路、气体绝缘线路及电缆隧道方案。结果说明，导体布置和通风优化可以提升输送容量；在土地、景观及环境外部成本较高的地区，地下气体绝缘输电具备经济竞争力。
+
+**遗忘筛查：** 未见直接相关。所读题目与摘要未见定向撤回已训练模型中的数据、客户端或概念影响；本判断不等于逐页全文排除。
+
+**核验：** 出版社原始页面：题目、日期、摘要已核对。日期口径：首次在线发表日期；卷期年份：2026。
+
+**备注：** 第二轮补检新增。
+
+[论文与来源](https://www.nature.com/articles/s41467-026-71221-5) · [DOI](https://doi.org/10.1038/s41467-026-71221-5)
+
+<a id="P129"></a>
+### P129 · Energy, power, and infrastructure demands from electrifying airport ground support equipment at United States airports
+
+**期刊：** Nature Communications ｜ **年份：** 2026 ｜ **日期：** 2026-03-30 ｜ **类型：** Article
+
+**归类：** 核心期刊电网文献 ｜ **电网关联：** 直接电网
+
+**摘要（中文概述）：** 构建覆盖美国300多个机场的自下而上模型，估算地面保障设备电气化带来的能量需求、峰值功率、充电设施数量及成本。结果显示大型机场可能形成显著新增电力负荷；结合表后储能与光伏能够削减峰值和系统总费用，为机场接电与设施规划提供依据。
+
+**遗忘筛查：** 未见直接相关。所读题目与摘要未见定向撤回已训练模型中的数据、客户端或概念影响；本判断不等于逐页全文排除。
+
+**核验：** 出版社原始页面：题目、日期、摘要已核对。日期口径：首次在线发表日期；卷期年份：2026。
+
+**备注：** 第二轮补检新增。
+
+[论文与来源](https://www.nature.com/articles/s41467-026-71125-4) · [DOI](https://doi.org/10.1038/s41467-026-71125-4)
+
+<a id="P130"></a>
+### P130 · Towards high resolution, validated and open global wind power assessments
+
+**期刊：** Nature Communications ｜ **年份：** 2026 ｜ **日期：** 2026-01-14 ｜ **类型：** Article
+
+**归类：** 背景补充 ｜ **电网关联：** 背景相关
+
+**摘要（中文概述）：** 发布开放的全球风电时序模拟流程ETHOS.RESKit，结合高分辨率风资源图谱、再分析数据及可定制机型，生成陆上和海上风电输出。通过多国测风塔、机组与统计发电量进行校准验证，为选址和系统集成提供输入数据；本目录将其归为资源与建模背景。
+
+**遗忘筛查：** 未见直接相关。所读题目与摘要未见定向撤回已训练模型中的数据、客户端或概念影响；本判断不等于逐页全文排除。
+
+**核验：** 出版社原始页面：题目、日期、摘要已核对。日期口径：首次在线发表日期；卷期年份：2026。
+
+**备注：** 第二轮补检新增。
+
+[论文与来源](https://www.nature.com/articles/s41467-026-68337-z) · [DOI](https://doi.org/10.1038/s41467-026-68337-z)
+
+<a id="P131"></a>
+### P131 · The benefits of exploring a large scenario space for future energy systems
+
+**期刊：** Nature Communications ｜ **年份：** 2025 ｜ **日期：** 2025-12-23 ｜ **类型：** Article
+
+**归类：** 核心期刊电网文献 ｜ **电网关联：** 系统级相关
+
+**摘要（中文概述）：** 针对能源规划常使用少量情景而难以覆盖不确定性的问题，提出同时比较超过一万种情景的多指标分析方法，并用于德国电力系统。结果显示，多天气年假设对成本、供电安全和可持续性影响尤其明显，提示稳健规划需要充分探索参数和方法选择，而非依赖单一情景。
+
+**遗忘筛查：** 未见直接相关。所读题目与摘要未见定向撤回已训练模型中的数据、客户端或概念影响；本判断不等于逐页全文排除。
+
+**核验：** 出版社原始页面：题目、日期、摘要已核对。日期口径：首次在线发表日期；卷期年份：2026。
+
+**备注：** 第二轮补检新增。 在线首发2025，卷期2026；主年份按在线首发统计。
+
+[论文与来源](https://www.nature.com/articles/s41467-025-67593-9) · [DOI](https://doi.org/10.1038/s41467-025-67593-9)
+
+<a id="P132"></a>
+### P132 · Scenario-adaptive hierarchical optimisation framework for design in hybrid energy storage systems
+
+**期刊：** Nature Communications ｜ **年份：** 2025 ｜ **日期：** 2025-12-10 ｜ **类型：** Article
+
+**归类：** 核心期刊电网文献 ｜ **电网关联：** 直接电网
+
+**摘要（中文概述）：** 围绕工业园区光伏发电与多能需求的不匹配，构建混合储能设计的分层优化流程，将需求分析、储能选择、系统建模、配置调度及性能评估相衔接。通过配置与运行之间的反馈，适应不同气候和负荷场景，展示降低能源费用、碳排放及提高可再生能源利用率的潜力。
+
+**遗忘筛查：** 未见直接相关。所读题目与摘要未见定向撤回已训练模型中的数据、客户端或概念影响；本判断不等于逐页全文排除。
+
+**核验：** 出版社原始页面：题目、日期、摘要已核对。日期口径：首次在线发表日期；卷期年份：2026。
+
+**备注：** 第二轮补检新增。 在线首发2025，卷期2026；主年份按在线首发统计。
+
+[论文与来源](https://www.nature.com/articles/s41467-025-67377-1) · [DOI](https://doi.org/10.1038/s41467-025-67377-1)
+
+<a id="P133"></a>
+### P133 · Rising worldwide challenges to climate-induced extreme low-production events of photovoltaic and wind power
+
+**期刊：** Nature Communications ｜ **年份：** 2025 ｜ **日期：** 2025-12-10 ｜ **类型：** Article
+
+**归类：** 核心期刊电网文献 ｜ **电网关联：** 直接电网
+
+**摘要（中文概述）：** 比较多个排放情景下全球光伏和风电极端低出力事件的变化，识别供电可靠性面临的长期气候风险。结果显示，风电低出力异常在多数现有装机区域加剧，光伏风险对情景和地区更敏感；部分低收入经济体承受不成比例的风险，需协同推进减缓与适应措施。
+
+**遗忘筛查：** 未见直接相关。所读题目与摘要未见定向撤回已训练模型中的数据、客户端或概念影响；本判断不等于逐页全文排除。
+
+**核验：** 出版社原始页面：题目、日期、摘要已核对。日期口径：首次在线发表日期；卷期年份：2026。
+
+**备注：** 第二轮补检新增。 在线首发2025，卷期2026；主年份按在线首发统计。
+
+[论文与来源](https://www.nature.com/articles/s41467-025-67428-7) · [DOI](https://doi.org/10.1038/s41467-025-67428-7)
+
+<a id="P134"></a>
+### P134 · Considering distributive justice as a planning principle helps navigate a diversity of future energy infrastructure designs
+
+**期刊：** Nature Communications ｜ **年份：** 2025 ｜ **日期：** 2025-11-25 ｜ **类型：** Article
+
+**归类：** 核心期刊电网文献 ｜ **电网关联：** 系统级相关
+
+**摘要（中文概述）：** 将分配正义指标纳入欧洲低碳能源基础设施设计，比较不同公平观念和公众偏好下的技术配置。分析发现，公平标准可在不显著增加成本的情况下缩小可行方案范围；结合公众意见能提高技术容量建议的一致性，为兼顾系统约束和社会接受度的规划提供支持。
+
+**遗忘筛查：** 未见直接相关。所读题目与摘要未见定向撤回已训练模型中的数据、客户端或概念影响；本判断不等于逐页全文排除。
+
+**核验：** 出版社原始页面：题目、日期、摘要已核对。日期口径：首次在线发表日期；卷期年份：2025。
+
+**备注：** 第二轮补检新增。
+
+[论文与来源](https://www.nature.com/articles/s41467-025-65526-0) · [DOI](https://doi.org/10.1038/s41467-025-65526-0)
+
+<a id="P135"></a>
+### P135 · Ambitious climate targets can make the phaseout of India’s coal-fired power plants cost-beneficial
+
+**期刊：** Nature Communications ｜ **年份：** 2025 ｜ **日期：** 2025-11-24 ｜ **类型：** Article
+
+**归类：** 背景补充 ｜ **电网关联：** 背景相关
+
+**摘要（中文概述）：** 构建电厂级混合整数非线性动态优化模型，比较印度煤电在不同温控目标下的退出路线及成本收益。结果表明，更积极的气候目标可能具有更高净收益，把社会收益纳入评价可进一步增强退役可行性。研究关注电力资产转型，不包含网络运行或模型遗忘机制。
+
+**遗忘筛查：** 未见直接相关。所读题目与摘要未见定向撤回已训练模型中的数据、客户端或概念影响；本判断不等于逐页全文排除。
+
+**核验：** 出版社原始页面：题目、日期、摘要已核对。日期口径：首次在线发表日期；卷期年份：2025。
+
+**备注：** 第二轮补检新增。
+
+[论文与来源](https://www.nature.com/articles/s41467-025-66580-4) · [DOI](https://doi.org/10.1038/s41467-025-66580-4)
+
+<a id="P136"></a>
+### P136 · Cascading marginal emissions signals for green charging with growing electric vehicle adoption
+
+**期刊：** Nature Communications ｜ **年份：** 2025 ｜ **日期：** 2025-11-19 ｜ **类型：** Article
+
+**归类：** 核心期刊电网文献 ｜ **电网关联：** 直接电网
+
+**摘要（中文概述）：** 将真实电动车充电数据与美国西部电网模型结合，检验按平均或边际排放信号移峰的效果。大量车辆同时响应、信号噪声及高排放机组跟随可能使传统方案反而增排。提出按小群体依次更新信号的级联策略，在研究场景中降低新增排放，说明需求响应必须考虑规模效应。
+
+**遗忘筛查：** 未见直接相关。所读题目与摘要未见定向撤回已训练模型中的数据、客户端或概念影响；本判断不等于逐页全文排除。
+
+**核验：** 出版社原始页面：题目、日期、摘要已核对。日期口径：首次在线发表日期；卷期年份：2025。
+
+**备注：** 第二轮补检新增。
+
+[论文与来源](https://www.nature.com/articles/s41467-025-64979-7) · [DOI](https://doi.org/10.1038/s41467-025-64979-7)
+
+<a id="P137"></a>
+### P137 · Unlocking vehicle-to-grid potential of load shifting in China’s megacities considering comprehensive real-world behaviors
+
+**期刊：** Nature Communications ｜ **年份：** 2025 ｜ **日期：** 2025-11-18 ｜ **类型：** Article
+
+**归类：** 核心期刊电网文献 ｜ **电网关联：** 直接电网
+
+**摘要（中文概述）：** 构建出行与车网互动耦合模型，把私人电动车的行程、充电行为、参与意愿、补偿和电池损耗共同纳入城市调峰分析。深圳48万辆车的案例表明，兼顾用户满意度的策略可以保持较强的削峰填谷能力，并降低损耗和补偿成本；快充普及还会改变资源分配公平性。
+
+**遗忘筛查：** 未见直接相关。所读题目与摘要未见定向撤回已训练模型中的数据、客户端或概念影响；本判断不等于逐页全文排除。
+
+**核验：** 出版社原始页面：题目、日期、摘要已核对。日期口径：首次在线发表日期；卷期年份：2025。
+
+**备注：** 第二轮补检新增。
+
+[论文与来源](https://www.nature.com/articles/s41467-025-65073-8) · [DOI](https://doi.org/10.1038/s41467-025-65073-8)
+
+<a id="P138"></a>
+### P138 · Temporal matching as an accounting principle for green electricity claims
+
+**期刊：** Nature Communications ｜ **年份：** 2025 ｜ **日期：** 2025-10-20 ｜ **类型：** Article
+
+**归类：** 核心期刊电网文献 ｜ **电网关联：** 系统级相关
+
+**摘要（中文概述）：** 利用欧洲绿证与电力市场数据，比较年度、季度、月度直到小时级匹配对绿色用电声明的影响。年度总量匹配会掩盖季节及日内供需错配。论文建议先采用更细的季度或月度核算，再推进小时匹配，并把储能纳入证书体系，以提高绿色电力采购的可信度。
+
+**遗忘筛查：** 未见直接相关。所读题目与摘要未见定向撤回已训练模型中的数据、客户端或概念影响；本判断不等于逐页全文排除。
+
+**核验：** 出版社原始页面：题目、日期、摘要已核对。日期口径：首次在线发表日期；卷期年份：2025。
+
+**备注：** 第二轮补检新增。
+
+[论文与来源](https://www.nature.com/articles/s41467-025-65125-z) · [DOI](https://doi.org/10.1038/s41467-025-65125-z)
+
+<a id="P139"></a>
+### P139 · Identifying key uncertainties in energy transitions with a Puerto Rico case study
+
+**期刊：** Nature Communications ｜ **年份：** 2025 ｜ **日期：** 2025-10-13 ｜ **类型：** Article
+
+**归类：** 核心期刊电网文献 ｜ **电网关联：** 系统级相关
+
+**摘要（中文概述）：** 通过代理模型和敏感性分析，识别能源转型中技术、经济、社会与气候不确定性的主要来源。波多黎各案例显示，飓风发生频率与组织运行低效对预期系统成本影响突出；不同技术路线下的重要变量也会改变，说明电力规划应针对情景识别关键风险，而非只采用单组参数。
+
+**遗忘筛查：** 邻近但非遗忘。涉及预测、智能建模或优化，但所读摘要未定义遗忘对象、删除已学习影响的目标及有效性验证。
+
+**核验：** 出版社原始页面：题目、日期、摘要已核对。日期口径：首次在线发表日期；卷期年份：2025。
+
+**备注：** 第二轮补检新增。
+
+[论文与来源](https://www.nature.com/articles/s41467-025-64143-1) · [DOI](https://doi.org/10.1038/s41467-025-64143-1)
+
+<a id="P140"></a>
+### P140 · Regional coordination can alleviate the cost burden of a low-carbon electricity system
+
+**期刊：** Nature Communications ｜ **年份：** 2025 ｜ **日期：** 2025-10-10 ｜ **类型：** Article
+
+**归类：** 核心期刊电网文献 ｜ **电网关联：** 系统级相关
+
+**摘要（中文概述）：** 在可再生资源分布不均且技术成本存在不确定性的南美区域，比较各国独立规划与跨国协同的低碳电力路径。区域协调可利用资源互补，降低新增发电需求和减排额外成本，并缓解部分规划不确定性；同时，各国具体技术配置仍对技术经济假设敏感。
+
+**遗忘筛查：** 未见直接相关。所读题目与摘要未见定向撤回已训练模型中的数据、客户端或概念影响；本判断不等于逐页全文排除。
+
+**核验：** 出版社原始页面：题目、日期、摘要已核对。日期口径：首次在线发表日期；卷期年份：2025。
+
+**备注：** 第二轮补检新增。
+
+[论文与来源](https://www.nature.com/articles/s41467-025-64093-8) · [DOI](https://doi.org/10.1038/s41467-025-64093-8)
+
+<a id="P141"></a>
+### P141 · Unequal power outages induced by natural disasters
+
+**期刊：** Nature Communications ｜ **年份：** 2025 ｜ **日期：** 2025-10-08 ｜ **类型：** Article
+
+**归类：** 核心期刊电网文献 ｜ **电网关联：** 直接电网
+
+**摘要（中文概述）：** 利用中国2019—2021年高频停电和自然灾害数据，比较不同地区的供电可靠性损失。分析发现，贫困县在灾害后的停电频率和持续时间增幅更大，未来气候情景可能扩大差距。研究强调，电网韧性投资和气候资金分配需考虑脆弱地区承受的不均等风险。
+
+**遗忘筛查：** 未见直接相关。所读题目与摘要未见定向撤回已训练模型中的数据、客户端或概念影响；本判断不等于逐页全文排除。
+
+**核验：** 出版社原始页面：题目、日期、摘要已核对。日期口径：首次在线发表日期；卷期年份：2025。
+
+**备注：** 第二轮补检新增。
+
+[论文与来源](https://www.nature.com/articles/s41467-025-64012-x) · [DOI](https://doi.org/10.1038/s41467-025-64012-x)
+
+<a id="P142"></a>
+### P142 · China’s urban EV ultra-fast charging distorts regulated price signals and elevates risk to grid stability
+
+**期刊：** Nature Communications ｜ **年份：** 2025 ｜ **日期：** 2025-09-26 ｜ **类型：** Article
+
+**归类：** 核心期刊电网文献 ｜ **电网关联：** 直接电网
+
+**摘要（中文概述）：** 基于中国主要城市真实充电数据模拟超快充扩张，发现其可能放大公共充电负荷的峰谷差。储能虽能平滑部分短时波动，也可能因同步响应分时电价而在低价时段开始时形成更强冲击。研究指出，快充基础设施扩张需要同步调整电网管理及价格机制。
+
+**遗忘筛查：** 未见直接相关。所读题目与摘要未见定向撤回已训练模型中的数据、客户端或概念影响；本判断不等于逐页全文排除。
+
+**核验：** 出版社原始页面：题目、日期、摘要已核对。日期口径：首次在线发表日期；卷期年份：2025。
+
+**备注：** 第二轮补检新增。
+
+[论文与来源](https://www.nature.com/articles/s41467-025-63199-3) · [DOI](https://doi.org/10.1038/s41467-025-63199-3)
+
+<a id="P143"></a>
+### P143 · Opportunities for decentralised solar power to improve reliability, reduce emissions and avoid stranded assets
+
+**期刊：** Nature Communications ｜ **年份：** 2025 ｜ **日期：** 2025-08-28 ｜ **类型：** Article
+
+**归类：** 核心期刊电网文献 ｜ **电网关联：** 系统级相关
+
+**摘要（中文概述）：** 利用能源系统模型分析农村光伏微电网与国家电网互联的收益和投资风险。研究发现，互联微电网可在改善供电可靠性的同时降低单位电费和碳强度；用户需求小幅下降影响有限，但较大幅度流失会损害经济性，因此需要制度安排协调主网改善与分布式投资。
+
+**遗忘筛查：** 未见直接相关。所读题目与摘要未见定向撤回已训练模型中的数据、客户端或概念影响；本判断不等于逐页全文排除。
+
+**核验：** 出版社原始页面：题目、日期、摘要已核对。日期口径：首次在线发表日期；卷期年份：2025。
+
+**备注：** 第二轮补检新增。
+
+[论文与来源](https://www.nature.com/articles/s41467-025-62948-8) · [DOI](https://doi.org/10.1038/s41467-025-62948-8)
+
+<a id="P144"></a>
+### P144 · Assessment of carbon-abatement pricing to maximize the value of electrolytic hydrogen in emissions-intensive power sectors
+
+**期刊：** Nature Communications ｜ **年份：** 2025 ｜ **日期：** 2025-08-28 ｜ **类型：** Article
+
+**归类：** 核心期刊电网文献 ｜ **电网关联：** 系统级相关
+
+**摘要（中文概述）：** 针对化石燃料占比较高的电网，构建电—氢—电系统经济可行性框架，联合考虑调度机构、风险厌恶投资者和政府目标。分析碳减排定价及市场调度规则如何影响制氢、备用和投资收益，强调仅追求降低边际电价不足以实现氢能在低碳电力系统中的综合价值。
+
+**遗忘筛查：** 未见直接相关。所读题目与摘要未见定向撤回已训练模型中的数据、客户端或概念影响；本判断不等于逐页全文排除。
+
+**核验：** 出版社原始页面：题目、日期、摘要已核对。日期口径：首次在线发表日期；卷期年份：2025。
+
+**备注：** 第二轮补检新增。
+
+[论文与来源](https://www.nature.com/articles/s41467-025-62952-y) · [DOI](https://doi.org/10.1038/s41467-025-62952-y)
+
+<a id="P145"></a>
+### P145 · The impact of temporal hydrogen regulation on hydrogen exporters and their domestic energy transition
+
+**期刊：** Nature Communications ｜ **年份：** 2025 ｜ **日期：** 2025-08-12 ｜ **类型：** Article
+
+**归类：** 核心期刊电网文献 ｜ **电网关联：** 系统级相关
+
+**摘要（中文概述）：** 采用摩洛哥部门耦合能源模型，研究大规模并网电解制氢出口对国内电价、排放和转型的影响。氢能出口与本地减排可形成协同，但在化石能源占优时也会提高居民用电成本。按时间匹配制氢与清洁发电能够改善利益分配，说明出口监管需兼顾本国电力消费者。
+
+**遗忘筛查：** 未见直接相关。所读题目与摘要未见定向撤回已训练模型中的数据、客户端或概念影响；本判断不等于逐页全文排除。
+
+**核验：** 出版社原始页面：题目、日期、摘要已核对。日期口径：首次在线发表日期；卷期年份：2025。
+
+**备注：** 第二轮补检新增。
+
+[论文与来源](https://www.nature.com/articles/s41467-025-62873-w) · [DOI](https://doi.org/10.1038/s41467-025-62873-w)
+
+<a id="P146"></a>
+### P146 · Grid congestion stymies climate benefit from U.S. vehicle electrification
+
+**期刊：** Nature Communications ｜ **年份：** 2025 ｜ **日期：** 2025-08-06 ｜ **类型：** Article
+
+**归类：** 核心期刊电网文献 ｜ **电网关联：** 系统级相关
+
+**摘要（中文概述）：** 研究美国汽车电气化的减排收益如何受输电网络拥塞影响。模型显示，即使增加大量可再生发电，现有线路容量仍可能限制清洁电力送达充电负荷，使车辆减排潜力无法兑现。适度且有针对性的输电扩容能够释放收益，强调交通电气化与电网建设需协同规划。
+
+**遗忘筛查：** 未见直接相关。所读题目与摘要未见定向撤回已训练模型中的数据、客户端或概念影响；本判断不等于逐页全文排除。
+
+**核验：** 出版社原始页面：题目、日期、摘要已核对。日期口径：首次在线发表日期；卷期年份：2025。
+
+**备注：** 第二轮补检新增。
+
+[论文与来源](https://www.nature.com/articles/s41467-025-61976-8) · [DOI](https://doi.org/10.1038/s41467-025-61976-8)
+
+<a id="P147"></a>
+### P147 · Assessing the real implications for CO2 as generation from renewables increases
+
+**期刊：** Nature Communications ｜ **年份：** 2025 ｜ **日期：** 2025-08-02 ｜ **类型：** Article
+
+**归类：** 核心期刊电网文献 ｜ **电网关联：** 系统级相关
+
+**摘要（中文概述）：** 使用加州与德州逐小时发电和排放数据，分析风光增长对传统热电机组运行效率的影响。可再生能源通常显著减少系统排放，但其波动也会迫使机组低效运行、产生额外排放惩罚。研究揭示减排收益的非线性，强调新能源接入应与灵活性及机组调度共同评估。
+
+**遗忘筛查：** 未见直接相关。所读题目与摘要未见定向撤回已训练模型中的数据、客户端或概念影响；本判断不等于逐页全文排除。
+
+**核验：** 出版社原始页面：题目、日期、摘要已核对。日期口径：首次在线发表日期；卷期年份：2025。
+
+**备注：** 第二轮补检新增。
+
+[论文与来源](https://www.nature.com/articles/s41467-025-59800-4) · [DOI](https://doi.org/10.1038/s41467-025-59800-4)
+
+<a id="P148"></a>
+### P148 · Delivering equity in low-carbon multisector infrastructure planning
+
+**期刊：** Nature Communications ｜ **年份：** 2025 ｜ **日期：** 2025-06-19 ｜ **类型：** Article
+
+**归类：** 核心期刊电网文献 ｜ **电网关联：** 系统级相关
+
+**摘要（中文概述）：** 将河流流域与电力系统仿真、人工智能辅助方案设计相结合，研究加纳低碳基础设施投资中的空间公平。结果显示，改善水电服务分配需要同步考虑粮食生产、生态和排放目标；增加可再生能源及输电投资有助于避免在改善公平时反而提高排放或供电削减。
+
+**遗忘筛查：** 未见直接相关。所读题目与摘要未见定向撤回已训练模型中的数据、客户端或概念影响；本判断不等于逐页全文排除。
+
+**核验：** 出版社原始页面：题目、日期、摘要已核对。日期口径：首次在线发表日期；卷期年份：2025。
+
+**备注：** 第二轮补检新增。
+
+[论文与来源](https://www.nature.com/articles/s41467-025-59738-7) · [DOI](https://doi.org/10.1038/s41467-025-59738-7)
+
+<a id="P149"></a>
+### P149 · Green energy and steel imports reduce Europe’s net-zero infrastructure needs
+
+**期刊：** Nature Communications ｜ **年份：** 2025 ｜ **日期：** 2025-06-12 ｜ **类型：** Article
+
+**归类：** 核心期刊电网文献 ｜ **电网关联：** 系统级相关
+
+**摘要（中文概述）：** 把全球能源供应链与欧洲能源系统模型耦合，比较进口电力、氢能及绿色衍生产品对净零基础设施的影响。进口可以降低成本和本土建设压力，但收益随规模增加而递减；保留部分国内电转化生产有助于消纳波动性新能源，提示进口政策应与电力基础设施规划协同。
+
+**遗忘筛查：** 未见直接相关。所读题目与摘要未见定向撤回已训练模型中的数据、客户端或概念影响；本判断不等于逐页全文排除。
+
+**核验：** 出版社原始页面：题目、日期、摘要已核对。日期口径：首次在线发表日期；卷期年份：2025。
+
+**备注：** 第二轮补检新增。
+
+[论文与来源](https://www.nature.com/articles/s41467-025-60652-1) · [DOI](https://doi.org/10.1038/s41467-025-60652-1)
+
+<a id="P150"></a>
+### P150 · Droughts worsen air quality and health by shifting power generation
+
+**期刊：** Nature Communications ｜ **年份：** 2025 ｜ **日期：** 2025-05-22 ｜ **类型：** Article
+
+**归类：** 背景补充 ｜ **电网关联：** 背景相关
+
+**摘要（中文概述）：** 以拉美及加勒比地区二十年的电厂级月度数据，分析干旱导致水电减少、燃烧型电厂增发后对细颗粒物和健康的影响。结果表明，这种发电替代会恶化附近空气质量，并可能产生持续健康负担。论文提供电源结构适应气候风险的环境背景，不直接研究电网控制。
+
+**遗忘筛查：** 未见直接相关。所读题目与摘要未见定向撤回已训练模型中的数据、客户端或概念影响；本判断不等于逐页全文排除。
+
+**核验：** 出版社原始页面：题目、日期、摘要已核对。日期口径：首次在线发表日期；卷期年份：2025。
+
+**备注：** 第二轮补检新增。
+
+[论文与来源](https://www.nature.com/articles/s41467-025-60090-z) · [DOI](https://doi.org/10.1038/s41467-025-60090-z)
+
+<a id="P151"></a>
+### P151 · A Method to estimate the economy-wide consequences of widespread, long duration electric power interruptions
+
+**期刊：** Nature Communications ｜ **年份：** 2025 ｜ **日期：** 2025-04-08 ｜ **类型：** Article
+
+**归类：** 核心期刊电网文献 ｜ **电网关联：** 直接电网
+
+**摘要（中文概述）：** 结合美国伊利诺伊州公用事业客户调查与可计算一般均衡模型，估算大范围、长时间停电对区域经济的影响。方法同时考虑迁移、备用发电等用户响应，发现损失远超单纯电价信号能反映的范围；增加备用供电可缓解部分损失，为电力韧性投资评价提供依据。
+
+**遗忘筛查：** 未见直接相关。所读题目与摘要未见定向撤回已训练模型中的数据、客户端或概念影响；本判断不等于逐页全文排除。
+
+**核验：** 出版社原始页面：题目、日期、摘要已核对。日期口径：首次在线发表日期；卷期年份：2025。
+
+**备注：** 第二轮补检新增。
+
+[论文与来源](https://www.nature.com/articles/s41467-025-58537-4) · [DOI](https://doi.org/10.1038/s41467-025-58537-4)
+
+<a id="P152"></a>
+### P152 · A machine learning model for hub-height short-term wind speed prediction
+
+**期刊：** Nature Communications ｜ **年份：** 2025 ｜ **日期：** 2025-04-03 ｜ **类型：** Article
+
+**归类：** 核心期刊电网文献 ｜ **电网关联：** 直接电网
+
+**摘要（中文概述）：** 提出融合多种气象变量的短期风速预测网络，以东北地区为例开展轮毂高度、细网格风矢量预测。模型在前六小时预测中优于所比较的数值天气基准，并通过异地迁移和计算效率实验。成果可用于区域风电中心的超短期及短期部署决策，属于电源预测相关方法。
+
+**遗忘筛查：** 邻近但非遗忘。涉及预测、智能建模或优化，但所读摘要未定义遗忘对象、删除已学习影响的目标及有效性验证。
+
+**核验：** 出版社原始页面：题目、日期、摘要已核对。日期口径：首次在线发表日期；卷期年份：2025。
+
+**备注：** 第二轮补检新增。
+
+[论文与来源](https://www.nature.com/articles/s41467-025-58456-4) · [DOI](https://doi.org/10.1038/s41467-025-58456-4)
+
+<a id="P153"></a>
+### P153 · Quantifying cascading power outages during climate extremes considering renewable energy integration
+
+**期刊：** Nature Communications ｜ **年份：** 2025 ｜ **日期：** 2025-03-16 ｜ **类型：** Article
+
+**归类：** 核心期刊电网文献 ｜ **电网关联：** 直接电网
+
+**摘要（中文概述）：** 构建气候—能源耦合模型，描述极端天气对新能源发电及输配电网络的共同冲击，并用2022年飓风Fiona引发的波多黎各全网停电验证。分析揭示部分关键部件的早期失效可能改变级联过程；高比例表后光伏若缺乏储能配套，也可能提高灾难性停电概率。
+
+**遗忘筛查：** 未见直接相关。所读题目与摘要未见定向撤回已训练模型中的数据、客户端或概念影响；本判断不等于逐页全文排除。
+
+**核验：** 出版社原始页面：题目、日期、摘要已核对。日期口径：首次在线发表日期；卷期年份：2025。
+
+**备注：** 第二轮补检新增。
+
+[论文与来源](https://www.nature.com/articles/s41467-025-57565-4) · [DOI](https://doi.org/10.1038/s41467-025-57565-4)
+
+<a id="P154"></a>
+### P154 · Repositioning coal power to accelerate net-zero transition of China’s power system
+
+**期刊：** Nature Communications ｜ **年份：** 2025 ｜ **日期：** 2025-03-08 ｜ **类型：** Article
+
+**归类：** 核心期刊电网文献 ｜ **电网关联：** 系统级相关
+
+**摘要（中文概述）：** 基于中国省级逐小时调度模型，同时考虑煤电提前退役和碳捕集改造，研究煤电由基荷电源转向灵活性资源的作用。在相同减排目标下，这种定位能够缓解资产搁浅、促进更多风光接入并降低系统转型成本，提出配套的灵活调度、退役与改造激励需求。
+
+**遗忘筛查：** 未见直接相关。所读题目与摘要未见定向撤回已训练模型中的数据、客户端或概念影响；本判断不等于逐页全文排除。
+
+**核验：** 出版社原始页面：题目、日期、摘要已核对。日期口径：首次在线发表日期；卷期年份：2025。
+
+**备注：** 第二轮补检新增。
+
+[论文与来源](https://www.nature.com/articles/s41467-025-57559-2) · [DOI](https://doi.org/10.1038/s41467-025-57559-2)
+
+<a id="P155"></a>
+### P155 · Electricity- and hydrogen-driven energy system sector-coupling in net-zero CO2 emission pathways
+
+**期刊：** Nature Communications ｜ **年份：** 2025 ｜ **日期：** 2025-02-04 ｜ **类型：** Article
+
+**归类：** 核心期刊电网文献 ｜ **电网关联：** 直接电网/电力系统相关
+
+**摘要（中文概述）：** 利用多种能源系统和综合评估模型，在统一深度脱碳情景下比较欧洲电力与氢能部门耦合路径。模型显示，2050年终端能源中电力和直接用氢的平均占比可分别达到约60%和6%，需要大规模扩张风光发电。电气化在各部门具有成本优势，氢能贡献较小但必要；模型间差异反映路径及氢能作用的不确定性。
+
+**遗忘筛查：** 未见直接相关。电网成本、市场或部门耦合分析，不涉及模型遗忘。
+
+**核验：** 期刊官网摘要、类型、日期与DOI已核验。日期口径：在线发表日期；卷期年份：2025。
+
+[论文与来源](https://www.nature.com/articles/s41467-025-56365-0) · [DOI](https://doi.org/10.1038/s41467-025-56365-0)
+
+<a id="P156"></a>
+### P156 · A blockchain consensus mechanism for real-time regulation of renewable energy power systems
+
+**期刊：** Nature Communications ｜ **年份：** 2024 ｜ **日期：** 2024-12-05 ｜ **类型：** Article
+
+**归类：** 核心期刊电网文献 ｜ **电网关联：** 直接电网
+
+**摘要（中文概述）：** 提出面向可再生能源电力系统实时调控的区块链共识机制Proof of Task，把计算任务直接关联于系统稳定和控制性能。通过新的验证机制改善传统区块链响应慢的问题，在三个电力系统中展示安全控制与可信计算能力，讨论其用于复杂动态系统的可能性。
+
+**遗忘筛查：** 邻近但非遗忘。区块链共识服务于实时安全控制与可信计算；不等于删除训练数据影响。
+
+**核验：** 出版社原始页面：题目、日期、摘要已核对。日期口径：首次在线发表日期；卷期年份：2024。
+
+**备注：** 第二轮补检新增。
+
+[论文与来源](https://www.nature.com/articles/s41467-024-54626-y) · [DOI](https://doi.org/10.1038/s41467-024-54626-y)
+
+<a id="P157"></a>
+### P157 · How grid reinforcement costs differ by the income of electric vehicle users
+
+**期刊：** Nature Communications ｜ **年份：** 2024 ｜ **日期：** 2024-11-08 ｜ **类型：** Article
+
+**归类：** 核心期刊电网文献 ｜ **电网关联：** 直接电网/电力系统相关
+
+**摘要（中文概述）：** 根据真实出行数据开展配电潮流仿真，研究收入差异如何通过电动车保有量、车型和充电偏好影响电网扩容成本。部分情景下高收入社区的投资需求可达低收入社区的33倍，统一电价分摊可能产生不公平负担。文章讨论动态电价、差异化补贴与充电设施可及性等对策，强调规划中的社会经济异质性。
+
+**遗忘筛查：** 未见直接相关。电网成本、市场或部门耦合分析，不涉及模型遗忘。
+
+**核验：** 期刊官网摘要、类型、日期与DOI已核验。日期口径：在线发表日期；卷期年份：2024。
+
+[论文与来源](https://www.nature.com/articles/s41467-024-53644-0) · [DOI](https://doi.org/10.1038/s41467-024-53644-0)
+
+<a id="P158"></a>
+### P158 · The key role of sufficiency for low demand-based carbon neutrality and energy security across Europe
+
+**期刊：** Nature Communications ｜ **年份：** 2024 ｜ **日期：** 2024-10-19 ｜ **类型：** Article
+
+**归类：** 背景补充 ｜ **电网关联：** 背景相关
+
+**摘要（中文概述）：** 从欧洲各国的自下而上需求模型出发，研究减少能源服务过度消费等充足性措施对低需求净零路径的贡献。情景显示，大幅降低终端需求可减轻可再生能源供给、进口与碳移除技术压力，并改善国别公平。该文属于能源需求转型背景，未明确建模电网投资和运行约束。
+
+**遗忘筛查：** 未见直接相关。所读题目与摘要未见定向撤回已训练模型中的数据、客户端或概念影响；本判断不等于逐页全文排除。
+
+**核验：** 出版社原始页面：题目、日期、摘要已核对。日期口径：首次在线发表日期；卷期年份：2024。
+
+**备注：** 第二轮补检新增。
+
+[论文与来源](https://www.nature.com/articles/s41467-024-53393-0) · [DOI](https://doi.org/10.1038/s41467-024-53393-0)
+
+<a id="P159"></a>
+### P159 · Introducing edge intelligence to smart meters via federated split learning
+
+**期刊：** Nature Communications ｜ **年份：** 2024 ｜ **日期：** 2024-10-19 ｜ **类型：** Article
+
+**归类：** 核心期刊电网文献 ｜ **电网关联：** 直接电网
+
+**摘要（中文概述）：** 针对智能电表计算、存储及通信资源不足，同时面临用户用电数据隐私约束的问题，提出端—边—云联邦拆分学习框架。在仅有192 KB静态内存的硬件上开展建筑和家庭负荷预测，明显降低训练内存、耗时及通信开销，并保持与高配置服务器方案相当的预测性能。
+
+**遗忘筛查：** 邻近但非遗忘。联邦拆分学习解决端侧资源与隐私问题；所读摘要未提出撤回客户端历史贡献或训练数据影响的机制。
+
+**核验：** 出版社原始页面：题目、日期、摘要已核对。日期口径：首次在线发表日期；卷期年份：2024。
+
+**备注：** 第二轮补检新增。
+
+[论文与来源](https://www.nature.com/articles/s41467-024-53352-9) · [DOI](https://doi.org/10.1038/s41467-024-53352-9)
+
+<a id="P160"></a>
+### P160 · Quantifying benefits of renewable investments for German residential Prosumers in times of volatile energy markets
+
+**期刊：** Nature Communications ｜ **年份：** 2024 ｜ **日期：** 2024-09-18 ｜ **类型：** Article
+
+**归类：** 核心期刊电网文献 ｜ **电网关联：** 直接电网
+
+**摘要（中文概述）：** 在能源价格剧烈波动背景下，对德国不同独栋住宅的光伏、家用储能、热泵及电动车投资进行经济和环境评估，并考虑补贴和价格干预。结果显示，光伏具有较稳健的成本与减排收益，其他设备的组合价值取决于用能条件，为居民侧综合能源投资提供参考。
+
+**遗忘筛查：** 未见直接相关。所读题目与摘要未见定向撤回已训练模型中的数据、客户端或概念影响；本判断不等于逐页全文排除。
+
+**核验：** 出版社原始页面：题目、日期、摘要已核对。日期口径：首次在线发表日期；卷期年份：2024。
+
+**备注：** 第二轮补检新增。
+
+[论文与来源](https://www.nature.com/articles/s41467-024-51967-6) · [DOI](https://doi.org/10.1038/s41467-024-51967-6)
+
+<a id="P161"></a>
+### P161 · Diverse decarbonization pathways under near cost-optimal futures
+
+**期刊：** Nature Communications ｜ **年份：** 2024 ｜ **日期：** 2024-09-17 ｜ **类型：** Article
+
+**归类：** 核心期刊电网文献 ｜ **电网关联：** 系统级相关
+
+**摘要（中文概述）：** 利用能源系统优化探索美国多条接近最低成本的净零路径，避免把单一最优解当作唯一可行未来。不同路径普遍需要快速扩张风光发电、减少煤油使用并推进终端电气化，但天然气、氢能和负排放技术配置差异明显，揭示技术组合与相近总成本之间的替代关系。
+
+**遗忘筛查：** 未见直接相关。所读题目与摘要未见定向撤回已训练模型中的数据、客户端或概念影响；本判断不等于逐页全文排除。
+
+**核验：** 出版社原始页面：题目、日期、摘要已核对。日期口径：首次在线发表日期；卷期年份：2024。
+
+**备注：** 第二轮补检新增。
+
+[论文与来源](https://www.nature.com/articles/s41467-024-52433-z) · [DOI](https://doi.org/10.1038/s41467-024-52433-z)
+
+<a id="P162"></a>
+### P162 · The social factors shaping community microgrid operation
+
+**期刊：** Nature Communications ｜ **年份：** 2024 ｜ **日期：** 2024-07-31 ｜ **类型：** Article
+
+**归类：** 核心期刊电网文献 ｜ **电网关联：** 系统级相关
+
+**摘要（中文概述）：** 调查1021名美国居民对社区微电网在长时间停电期间分配有限电量的偏好。多数受访者接受按支付水平提供差异化配额，个人备用电源拥有者也愿意出售部分储能。研究分析公平感、保障自身需求与补偿之间的关系，为社区微电网运营机制提供社会接受度证据。
+
+**遗忘筛查：** 未见直接相关。所读题目与摘要未见定向撤回已训练模型中的数据、客户端或概念影响；本判断不等于逐页全文排除。
+
+**核验：** 出版社原始页面：题目、日期、摘要已核对。日期口径：首次在线发表日期；卷期年份：2024。
+
+**备注：** 第二轮补检新增。
+
+[论文与来源](https://www.nature.com/articles/s41467-024-50736-9) · [DOI](https://doi.org/10.1038/s41467-024-50736-9)
+
+<a id="P163"></a>
+### P163 · Power supply disruptions deter electric vehicle adoption in cities in China
+
+**期刊：** Nature Communications ｜ **年份：** 2024 ｜ **日期：** 2024-07-18 ｜ **类型：** Article
+
+**归类：** 核心期刊电网文献 ｜ **电网关联：** 系统级相关
+
+**摘要（中文概述）：** 利用中国全国停电和电动车采用数据，检验供电基础设施故障对终端电气化的反馈。研究发现，停电增加会降低新增电动车采用，持续性供电恶化还可能形成较长期的抑制效应，削弱交通减排收益。结果强调推进电气化时需要同步提升电网可靠性。
+
+**遗忘筛查：** 未见直接相关。所读题目与摘要未见定向撤回已训练模型中的数据、客户端或概念影响；本判断不等于逐页全文排除。
+
+**核验：** 出版社原始页面：题目、日期、摘要已核对。日期口径：首次在线发表日期；卷期年份：2024。
+
+**备注：** 第二轮补检新增。
+
+[论文与来源](https://www.nature.com/articles/s41467-024-50447-1) · [DOI](https://doi.org/10.1038/s41467-024-50447-1)
+
+<a id="P164"></a>
+### P164 · Enhancing smart charging in electric vehicles by addressing paused and delayed charging problems
+
+**期刊：** Nature Communications ｜ **年份：** 2024 ｜ **日期：** 2024-06-25 ｜ **类型：** Article
+
+**归类：** 核心期刊电网文献 ｜ **电网关联：** 直接电网
+
+**摘要（中文概述）：** 通过实际充电测试发现，部分电动车在暂停或延迟充电后进入休眠，难以按智能调度恢复，因而需要持续最低功率充电。模型分析表明，消除这一设备限制能够明显扩大削峰、电价响应等智能充电潜力。论文进一步提出面向制造商和政策制定者的技术及制度改进建议。
+
+**遗忘筛查：** 未见直接相关。所读题目与摘要未见定向撤回已训练模型中的数据、客户端或概念影响；本判断不等于逐页全文排除。
+
+**核验：** 出版社原始页面：题目、日期、摘要已核对。日期口径：首次在线发表日期；卷期年份：2024。
+
+**备注：** 第二轮补检新增。
+
+[论文与来源](https://www.nature.com/articles/s41467-024-48477-w) · [DOI](https://doi.org/10.1038/s41467-024-48477-w)
+
+<a id="P165"></a>
+### P165 · The transition to synchronization of networked systems
+
+**期刊：** Nature Communications ｜ **年份：** 2024 ｜ **日期：** 2024-06-10 ｜ **类型：** Article
+
+**归类：** 背景补充 ｜ **电网关联：** 背景相关
+
+**摘要（中文概述）：** 研究一般网络动态系统的同步转变，用图拉普拉斯矩阵的特征值和特征向量近似预测同步簇出现的顺序与耦合阈值。在合成及真实拓扑网络上进行仿真验证，正文包含电网拓扑案例；该案例使用通用振子动力学，应视为方法背景而非真实电网调度模型。
+
+**遗忘筛查：** 未见直接相关。所读题目与摘要未见定向撤回已训练模型中的数据、客户端或概念影响；本判断不等于逐页全文排除。
+
+**核验：** 出版社原始页面：题目、日期、摘要已核对。日期口径：首次在线发表日期；卷期年份：2024。
+
+**备注：** 第二轮补检新增。
+
+[论文与来源](https://www.nature.com/articles/s41467-024-48203-6) · [DOI](https://doi.org/10.1038/s41467-024-48203-6)
+
+<a id="P166"></a>
+### P166 · Real-time outage management in active distribution networks using reinforcement learning over graphs
+
+**期刊：** Nature Communications ｜ **年份：** 2024 ｜ **日期：** 2024-06-04 ｜ **类型：** Article
+
+**归类：** 核心期刊电网文献 ｜ **电网关联：** 直接电网
+
+**摘要（中文概述）：** 将配电网停电后的开关重构和紧急减载建模为图强化学习问题，通过胶囊式图神经网络同时表示网络拓扑变化及节点、边状态的相互依赖。IEEE 13、34和123节点改造系统的验证显示，方法能快速生成接近最优的恢复策略，并对不同停电场景保持泛化能力。
+
+**遗忘筛查：** 邻近但非遗忘。图强化学习用于停电恢复；切换线路或改变网络拓扑是物理控制，不是模型遗忘。
+
+**核验：** 出版社原始页面：题目、日期、摘要已核对。日期口径：首次在线发表日期；卷期年份：2024。
+
+**备注：** 第二轮补检新增。
+
+[论文与来源](https://www.nature.com/articles/s41467-024-49207-y) · [DOI](https://doi.org/10.1038/s41467-024-49207-y)
+
+<a id="P167"></a>
+### P167 · Carbon pricing and system reliability impacts on pathways to universal electricity access in Africa
+
+**期刊：** Nature Communications ｜ **年份：** 2024 ｜ **日期：** 2024-05-16 ｜ **类型：** Article
+
+**归类：** 核心期刊电网文献 ｜ **电网关联：** 系统级相关
+
+**摘要（中文概述）：** 通过高分辨率地理空间分析，比较撒哈拉以南非洲实现居民普遍电力接入的低成本路径，并显式纳入供电可靠性和碳价。惩罚未满足需求或引入碳价会提高离网光伏方案的份额；不同国家的最优干预程度差异明显，说明并网扩展与离网供电应结合需求等级评估。
+
+**遗忘筛查：** 未见直接相关。所读题目与摘要未见定向撤回已训练模型中的数据、客户端或概念影响；本判断不等于逐页全文排除。
+
+**核验：** 出版社原始页面：题目、日期、摘要已核对。日期口径：首次在线发表日期；卷期年份：2024。
+
+**备注：** 第二轮补检新增。
+
+[论文与来源](https://www.nature.com/articles/s41467-024-48450-7) · [DOI](https://doi.org/10.1038/s41467-024-48450-7)
+
+<a id="P168"></a>
+### P168 · Limited impact of hydrogen co-firing on prolonging fossil-based power generation under low emissions scenarios
+
+**期刊：** Nature Communications ｜ **年份：** 2024 ｜ **日期：** 2024-03-04 ｜ **类型：** Article
+
+**归类：** 核心期刊电网文献 ｜ **电网关联：** 系统级相关
+
+**摘要（中文概述）：** 利用全球能源系统模型评估氢或氨混烧对现有化石电源退役的影响。在严格减排情景下，部分煤气机组可通过混烧改造提供后备平衡能力，但受燃料成本和低利用小时约束，其发电占比仍很小。研究认为这一灵活性选项不太可能显著推迟化石电源退出。
+
+**遗忘筛查：** 未见直接相关。所读题目与摘要未见定向撤回已训练模型中的数据、客户端或概念影响；本判断不等于逐页全文排除。
+
+**核验：** 出版社原始页面：题目、日期、摘要已核对。日期口径：首次在线发表日期；卷期年份：2024。
+
+**备注：** 第二轮补检新增。
+
+[论文与来源](https://www.nature.com/articles/s41467-024-46101-5) · [DOI](https://doi.org/10.1038/s41467-024-46101-5)
+
+<a id="P169"></a>
+### P169 · The impact of financing cost differences on global energy and industry decarbonization
+
+**期刊：** Nature Climate Change ｜ **年份：** 2026 ｜ **日期：** 2026-09-24 ｜ **类型：** Article
+
+**归类：** 核心期刊电网文献 ｜ **电网关联：** 系统级：显式评估融资风险对电网投资、电源结构与能源转型的影响
+
+**摘要（中文概述）：** 研究将动态、分国家和分行业的资本成本纳入IMAGE综合评估模型，覆盖八类能源与工业部门。相较统一低风险融资假设，发展中国家的投资风险使全球控温减排成本增加约9%，并使减排行动偏向低风险地区。细化融资条件还会减少发展中国家的电网投资、提高绿氢成本并延缓电解制氢发展，显示电网扩建和脱碳路径对金融条件的敏感性。
+
+**遗忘筛查：** 未见直接相关。融资成本情景与综合评估模型分析，未提出模型知识或训练数据撤回。
+
+**核验：** 已核对出版社题名、公开摘要和在线日期；摘要级遗忘筛查。日期口径：出版社在线发表日期；卷期年份：2026。
+
+[论文与来源](https://www.nature.com/articles/s41558-026-02756-0) · [DOI](https://doi.org/10.1038/s41558-026-02756-0)
+
+<a id="P170"></a>
+### P170 · Trade risks to energy security in net-zero emissions energy scenarios
+
+**期刊：** Nature Climate Change ｜ **年份：** 2025 ｜ **日期：** 2025-04-09 ｜ **类型：** Article
+
+**归类：** 背景补充 ｜ **电网关联：** 背景：低碳电力设备关键矿产及供应链安全；非电网运行安全
+
+**摘要（中文概述）：** 研究分析净零情景中燃料与关键矿产贸易如何改变能源安全。多数国家因减少化石燃料进口而降低总体贸易风险，但在更依赖进口材料的国家中，约82%的电力或交通系统贸易风险会上升。研究进一步检验贸易网络、能源结构、材料强度和回收率的影响，揭示低碳电力转型需要同时关注上游矿产供应链，而不能仅以燃料进口依赖度衡量安全性。
+
+**遗忘筛查：** 未见直接相关。能源供应链与材料贸易情景分析，与机器遗忘或数据撤回无直接关系。
+
+**核验：** 已核对出版社题名、公开摘要和在线日期；摘要级遗忘筛查。日期口径：出版社在线发表日期；卷期年份：2025。
+
+[论文与来源](https://www.nature.com/articles/s41558-025-02305-1) · [DOI](https://doi.org/10.1038/s41558-025-02305-1)
+
+<a id="P171"></a>
+### P171 · Carbon dioxide emissions from global overseas coal-fired power plants
+
+**期刊：** Nature Climate Change ｜ **年份：** 2024 ｜ **日期：** 2024-09-19 ｜ **类型：** Article
+
+**归类：** 背景补充 ｜ **电网关联：** 背景：煤电资产投资与排放锁定；未研究网络运行或可靠性
+
+**摘要（中文概述）：** 研究汇总全球908座海外投资煤电厂的投资资料，估算其当前年排放约5.3亿吨二氧化碳，历史累计排放约260亿吨。若政策与技术不变，至2060年还可能直接增加150亿至300亿吨累计排放，并通过刺激当地煤电扩张产生额外影响。结果表明，国际资本对新兴经济体电力部门的碳锁定有持续作用，低碳政策干预十分关键。
+
+**遗忘筛查：** 未见直接相关。电源投资与排放核算研究；未见机器学习模型的定向遗忘。
+
+**核验：** 已核对出版社题名、公开摘要和在线日期；摘要级遗忘筛查。日期口径：出版社在线发表日期；卷期年份：2024。
+
+[论文与来源](https://www.nature.com/articles/s41558-024-02114-y) · [DOI](https://doi.org/10.1038/s41558-024-02114-y)
+
+<a id="P172"></a>
+### P172 · Just Energy Transition Partnerships and the future of coal
+
+**期刊：** Nature Climate Change ｜ **年份：** 2024 ｜ **日期：** 2024-07-31 ｜ **类型：** Brief Communication
+
+**归类：** 核心期刊电网文献 ｜ **电网关联：** 系统级：煤电退出、清洁电源转型与国际电力部门融资政策
+
+**摘要（中文概述）：** 研究利用全球能源模型评估南非、印度尼西亚与越南的公正能源转型伙伴关系，比较既有政策、伙伴关系承诺及全球1.5摄氏度路径下的能源与排放结果。这些国际融资安排聚焦煤电依赖经济体的电力转型，其目标使相关国家更接近1.5摄氏度所要求的轨迹。结果支持以国际协作促进煤电退出与清洁电源扩张，同时强调落实能源和减排承诺。
+
+**遗忘筛查：** 未见直接相关。煤电退出与能源政策的撤回或调整不同于机器遗忘；公开摘要未涉及后者。
+
+**核验：** 已核对出版社题名、公开摘要和在线日期；摘要级遗忘筛查。日期口径：出版社在线发表日期；卷期年份：2024。
+
+[论文与来源](https://www.nature.com/articles/s41558-024-02086-z) · [DOI](https://doi.org/10.1038/s41558-024-02086-z)
+
+<a id="P173"></a>
+### P173 · Climate change will impact the value and optimal adoption of residential rooftop solar
+
+**期刊：** Nature Climate Change ｜ **年份：** 2024 ｜ **日期：** 2024-04-19 ｜ **类型：** Article
+
+**归类：** 核心期刊电网文献 ｜ **电网关联：** 直接：居民用电需求、分布式光伏容量优化与零售电价
+
+**摘要（中文概述）：** 研究结合美国17座城市逾2000户家庭的用电数据、家庭级仿真优化与降尺度气象资料，分析气候变化如何同时改变屋顶光伏发电和制冷需求。在RCP4.5情景下，至世纪末家庭屋顶光伏价值最多增加19%，技术经济最优容量最多增加25%。这一效应在不同城市、家庭和零售电价结构下较稳健，提示分布式光伏规划需纳入未来气候。
+
+**遗忘筛查：** 未见直接相关。家庭负荷与光伏价值优化研究，未见对模型中指定训练数据或概念的撤回。
+
+**核验：** 已核对出版社题名、公开摘要和在线日期；摘要级遗忘筛查。日期口径：出版社在线发表日期；卷期年份：2024。
+
+[论文与来源](https://www.nature.com/articles/s41558-024-01978-4) · [DOI](https://doi.org/10.1038/s41558-024-01978-4)
+
+<a id="P174"></a>
+### P174 · Divergent humidity-driven growth in urban air-conditioning energy demand under climate change
+
+**期刊：** Nature Cities ｜ **年份：** 2026 ｜ **日期：** 2026-07-24 ｜ **类型：** Article
+
+**归类：** 交叉与扩展期刊 ｜ **电网关联：** 系统级需求侧：城市空调负荷峰值、气候敏感性与电力基础设施规划
+
+**摘要（中文概述）：** 研究将改进的城市建筑能源模型与全球地球系统模型耦合，区分空调制冷与除湿负荷，分析温度和湿度共同变化对城市需求的影响。在高排放情景下，全球城市除湿用能增加47%，但其在总空调负荷中的占比呈区域分化。相近温度下，潮湿日的需求可达到非潮湿日的两至三倍，提示只依据气温预测负荷可能漏判峰值，电力基础设施规划应纳入湿度。
+
+**遗忘筛查：** 未见直接相关。物理气候—建筑用能建模；未见机器遗忘或指定概念撤回任务。
+
+**核验：** 已核对出版社公开摘要、题名和在线日期；摘要级遗忘筛查。日期口径：出版社在线发表日期；卷期年份：2026。
+
+[论文与来源](https://www.nature.com/articles/s44284-026-00474-4) · [DOI](https://doi.org/10.1038/s44284-026-00474-4)
+
+<a id="P175"></a>
+### P175 · Intercity inequality in carbon emission reductions from vehicle electrification in China
+
+**期刊：** Nature Cities ｜ **年份：** 2026 ｜ **日期：** 2026-06-24 ｜ **类型：** Article
+
+**归类：** 交叉与扩展期刊 ｜ **电网关联：** 系统级：将车辆充电与电网调度、跨城电力交换及电源排放连接
+
+**摘要（中文概述）：** 研究结合逾2.45亿条车辆登记记录与电网运行系统，追踪中国285座城市电动汽车用电引起的跨城碳转移。2020年，经济较发达城市将41.8%的相关排放转移至较欠发达城市，后者承担更高的减排成本。预计2030年前城市间差异仍较突出，之后随电网脱碳而减弱。结果强调评估电动汽车减排需考虑电力调度、跨城交换与发电地责任。
+
+**遗忘筛查：** 未见直接相关。车辆登记与电网系统排放建模，公开摘要和所读正文未涉及数据影响撤回或概念遗忘。
+
+**核验：** 已核对出版社公开摘要、题名和在线日期；摘要级遗忘筛查。日期口径：出版社在线发表日期；卷期年份：2026。
+
+[论文与来源](https://www.nature.com/articles/s44284-026-00465-5) · [DOI](https://doi.org/10.1038/s44284-026-00465-5)
+
+<a id="P176"></a>
+### P176 · Grid connections and inequitable access to electricity in African cities
+
+**期刊：** Nature Cities ｜ **年份：** 2025 ｜ **日期：** 2025-04-08 ｜ **类型：** Article
+
+**归类：** 交叉与扩展期刊 ｜ **电网关联：** 直接：城市电网接入、电压质量与供电可靠性实测
+
+**摘要（中文概述）：** 研究在乌干达坎帕拉25个非正规住区结合问卷、访谈与远程电能质量监测，追踪电力公司、中间供电者和用户之间的电流与资金流，识别29类供电服务安排。这些安排在可负担性、可靠性、电压稳定性、使用自主性和安全性方面差异显著，整体水平仍有限。结果说明“已接入电网”不能充分代表获得可靠、安全且公平的现代电力服务。
+
+**遗忘筛查：** 未见直接相关。电网接入的混合方法实证研究；数据去标识化不等于模型遗忘，未见定向删除训练影响目标。
+
+**核验：** 已核对出版社公开摘要、题名和在线日期；摘要级遗忘筛查。日期口径：出版社在线发表日期；卷期年份：2025。
+
+[论文与来源](https://www.nature.com/articles/s44284-025-00221-1) · [DOI](https://doi.org/10.1038/s44284-025-00221-1)
+
+<a id="P177"></a>
+### P177 · A minimal methanol backstop for high-electrification scenarios
+
+**期刊：** Joule ｜ **年份：** 2026 ｜ **日期：** 2026-09-16 ｜ **类型：** Article
+
+**归类：** 核心期刊电网文献 ｜ **电网关联：** 直接电网/电力系统相关
+
+**摘要（中文概述）：** 针对高度电气化系统仍需航空、航运、备用发电和化工燃料的情况，提出以少量甲醇作为剩余需求的后备。利用欧洲碳中和能源系统模型比较甲醇与氢路径，发现甲醇方案仅小幅增加系统成本，却可减少气体运输储存及基础设施协调的复杂度。结果为电力系统与难电气化部门之间的能源载体、备用能力和基础设施选择提供比较。
+
+**遗忘筛查：** 未见直接相关。题目及可获取摘要研究电力系统问题，未见删除指定训练数据、客户端或知识/概念影响的目标与验证；未完成所有付费全文筛查。
+
+**核验：** 作者机构完整摘要与出版社书目信息核验。日期口径：卷期日期；在线首发具体日期待核验，同属2026年；卷期年份：2026。
+
+[论文与来源](https://doi.org/10.1016/j.joule.2026.102464) · [DOI](https://doi.org/10.1016/j.joule.2026.102464) · [补充来源1](https://zenodo.org/records/21278032) · [补充来源2](https://www.sciencedirect.com/science/article/pii/S2542435126001480?trk=public_post_comment-text)
+
+<a id="P178"></a>
+### P178 · Governing AI infrastructure on decarbonizing grids
+
+**期刊：** Joule ｜ **年份：** 2026 ｜ **日期：** 2026-09-10 ｜ **类型：** Commentary
+
+**归类：** 核心期刊电网文献 ｜ **电网关联：** 直接电网/电力系统相关
+
+**内容概述（作者机构说明）：** 基于人工智能与能源转型跨学科研讨，讨论数据中心快速扩张带来的电网容量、脱碳及地方利益分配问题。文章提出把接网条件与灵活性提供、运行透明度和社区收益相联系，强调公开适当的用电信息、协调基础设施规划及成本承担。该治理思路旨在使人工智能基础设施扩张与供电系统能力、环境目标及地方需求相协调。
+
+**遗忘筛查：** 未见直接相关。AI是用电负荷与基础设施治理对象，未见模型删除训练数据或概念影响的目标；不据AI一词认定为机器遗忘。
+
+**核验：** 出版社/作者机构日期与作者机构内容说明核验（Commentary，无结构化研究摘要）。日期口径：在线发表日期；卷期年份：2026。
+
+[论文与来源](https://doi.org/10.1016/j.joule.2026.102647) · [DOI](https://doi.org/10.1016/j.joule.2026.102647) · [补充来源1](https://www.sciencedirect.com/science/article/pii/S2542435126003314) · [补充来源2](https://spiral.imperial.ac.uk/entities/publication/b88a9a0c-916e-4696-a6d6-48587548d556) · [补充来源3](https://www.jus.uio.no/nifs/english/research/publications/latest-100.html)
+
+<a id="P179"></a>
+### P179 · Revisiting the relationship between demand growth and electricity prices
+
+**期刊：** Joule ｜ **年份：** 2026 ｜ **日期：** 2026-07-15 ｜ **类型：** Commentary
+
+**归类：** 核心期刊电网文献 ｜ **电网关联：** 直接电网/电力系统相关
+
+**摘要（中文概述）：** 针对数据中心等工商业负荷增长必然推高电价的常见判断，重新梳理需求与电价的短期及长期关系。文章从系统容量利用率、扩建成本和电价设计中的成本分配三个维度展开，解释历史需求增长为何常伴随电价下降，也分析未来增长可能推升费用的条件。研究强调新增需求的价格影响取决于电网约束、投资及费用分摊机制。
+
+**遗忘筛查：** 未见直接相关。题目及可获取摘要研究电力系统问题，未见删除指定训练数据、客户端或知识/概念影响的目标与验证；未完成所有付费全文筛查。
+
+**核验：** 作者机构完整摘要与出版社书目信息核验。日期口径：卷期日期；作者机构确认2026年6月已发表，在线具体日待核验；卷期年份：2026。
+
+[论文与来源](https://doi.org/10.1016/j.joule.2026.102528) · [DOI](https://doi.org/10.1016/j.joule.2026.102528) · [补充来源1](https://eta.lbl.gov/publications/revisiting-relationship-between) · [补充来源2](https://www.sciencedirect.com/science/article/pii/S2542435126002126)
+
+<a id="P180"></a>
+### P180 · Rethinking the green power grid for stability, not just for climate
+
+**期刊：** Joule ｜ **年份：** 2026 ｜ **日期：** 2026-06-15 ｜ **类型：** Commentary
+
+**归类：** 核心期刊电网文献 ｜ **电网关联：** 直接电网/电力系统相关
+
+**摘要（中文概述）：** 以2025年伊比利亚半岛大停电引发的讨论为背景，分析高比例可再生能源电网的稳定性问题。文章认为，通过合成惯量、先进逆变器控制以及协调输电规划，可再生能源不仅能够减少排放，也有潜力增强电网稳定性。储能和电力电子的进展为此提供条件，关键在于将系统动态和韧性要求纳入新能源并网与基础设施决策。
+
+**遗忘筛查：** 未见直接相关。题目及可获取摘要研究电力系统问题，未见删除指定训练数据、客户端或知识/概念影响的目标与验证；未完成所有付费全文筛查。
+
+**核验：** 出版社在线日期与作者预印本摘要核验。日期口径：在线发表日期；卷期年份：2026。
+
+[论文与来源](https://doi.org/10.1016/j.joule.2026.102522) · [DOI](https://doi.org/10.1016/j.joule.2026.102522) · [补充来源1](https://www.sciencedirect.com/science/article/abs/pii/S2542435126002060) · [补充来源2](https://arxiv.org/abs/2606.23805)
+
+<a id="P181"></a>
+### P181 · Near-optimal energy planning strategies with modeling to generate alternatives to flexibly explore practically desirable options
+
+**期刊：** Joule ｜ **年份：** 2025 ｜ **日期：** 2025-11-19 ｜ **类型：** Perspective
+
+**归类：** 核心期刊电网文献 ｜ **电网关联：** 直接电网/电力系统相关
+
+**摘要（中文概述）：** 讨论仅寻找最低成本能源规划方案可能带来的确定性错觉，指出成本相近的替代方案可能更符合社会接受度、韧性等难以量化的要求。论文梳理生成替代方案建模的计算与解释进展，提出五个逐步深入的应用层次，支持系统探索近最优解及其权衡。即使采用较简单的层次，也可改善能源及电力基础设施规划建议的实用性。
+
+**遗忘筛查：** 未见直接相关。题目及可获取摘要研究电力系统问题，未见删除指定训练数据、客户端或知识/概念影响的目标与验证；未完成所有付费全文筛查。
+
+**核验：** 作者机构完整摘要与出版社书目信息核验。日期口径：卷期日期；作者机构确认2025年10月已发表，在线具体日待核验；卷期年份：2025。
+
+[论文与来源](https://doi.org/10.1016/j.joule.2025.102144) · [DOI](https://doi.org/10.1016/j.joule.2025.102144) · [补充来源1](https://research.tudelft.nl/en/publications/near-optimal-energy-planning-strategies-with-modeling-to-generate/) · [补充来源2](https://www.sciencedirect.com/science/article/pii/S2542435125003253) · [补充来源3](https://www.tu.berlin/en/ensys/publications)
+
+<a id="P182"></a>
+### P182 · Pathways to national-scale adoption of enhanced geothermal power through experience-driven cost reductions
+
+**期刊：** Joule ｜ **年份：** 2025 ｜ **日期：** 2025-06-04 ｜ **类型：** Article
+
+**归类：** 核心期刊电网文献 ｜ **电网关联：** 直接电网/电力系统相关
+
+**摘要（中文概述）：** 把有实证基础的增强型地热成本估计与经验曲线结合，模拟截至2050年的美国电力系统部署路径。研究发现，先利用西部高质量资源实现商业化和成本下降，可能使该技术扩展到更广地区，提供可观比例的稳定无碳电力并降低脱碳成本。初始成本偏高会限制增长，支持政策能够缓解这一障碍；文中学习指技术经验带来的成本下降。
+
+**遗忘筛查：** 未见直接相关。文中经验曲线和learning-by-doing指部署积累带来的技术成本下降，不是机器学习，更不是删除训练样本、知识或概念影响。
+
+**核验：** 作者机构完整摘要与出版社书目信息核验。日期口径：在线发表日期；卷期年份：2025。
+
+[论文与来源](https://doi.org/10.1016/j.joule.2025.101971) · [DOI](https://doi.org/10.1016/j.joule.2025.101971) · [补充来源1](https://collaborate.princeton.edu/en/publications/pathways-to-national-scale-adoption-of-enhanced-geothermal-power-/) · [补充来源2](https://www.eurekalert.org/news-releases/1090140)
+
+<a id="P183"></a>
+### P183 · Cross-sector energy system resilience and interdependence in a changing climate
+
+**期刊：** Joule ｜ **年份：** 2025 ｜ **日期：** 2025-06-02 ｜ **类型：** Commentary
+
+**归类：** 核心期刊电网文献 ｜ **电网关联：** 直接电网/电力系统相关
+
+**摘要（中文概述）：** 分析电气化如何加深发电、输电与终端消费部门之间的依赖关系，并形成灵活性收益与级联故障风险并存的韧性问题。结合全球电气化趋势、得克萨斯案例及极端气候预测，识别部门耦合中的关键脆弱点和调节潜力。文章主张采取面向整体系统的韧性规划与运行策略，以降低跨部门故障传播并发挥电气化协同优势。
+
+**遗忘筛查：** 未见直接相关。题目及可获取摘要研究电力系统问题，未见删除指定训练数据、客户端或知识/概念影响的目标与验证；未完成所有付费全文筛查。
+
+**核验：** 作者机构完整摘要与出版社书目信息核验。日期口径：在线发表日期；卷期年份：2025。
+
+[论文与来源](https://doi.org/10.1016/j.joule.2025.101967) · [DOI](https://doi.org/10.1016/j.joule.2025.101967) · [补充来源1](https://oppenheimer.scholar.princeton.edu/publications/cross-sector-energy-system-resilience-and-interdependence-changing-climate) · [补充来源2](https://luo-xu.com/) · [补充来源3](https://www.sciencedirect.com/science/article/pii/S2542435125001485)
+
+<a id="P184"></a>
+### P184 · System impacts of wind energy developments: Key research challenges and opportunities
+
+**期刊：** Joule ｜ **年份：** 2025 ｜ **日期：** 2025-01-13 ｜ **类型：** Review
+
+**归类：** 核心期刊电网文献 ｜ **电网关联：** 直接电网/电力系统相关
+
+**摘要（中文概述）：** 综述风电扩大部署与技术、经济、社会及自然环境的相互影响，梳理已有解决方案和研究空白。电网及市场整合虽常被视为主要障碍，实际已存在多种技术方案；规划许可仍是许多地区的近期瓶颈。野生动物影响、叶片回收及高比例风电系统运行等问题仍需研究，为大规模风电接入和跨部门协同提供系统性框架。
+
+**遗忘筛查：** 未见直接相关。题目及可获取摘要研究电力系统问题，未见删除指定训练数据、客户端或知识/概念影响的目标与验证；未完成所有付费全文筛查。
+
+**核验：** 作者机构完整摘要与出版社书目信息核验。日期口径：在线发表日期；卷期年份：2025。
+
+[论文与来源](https://doi.org/10.1016/j.joule.2024.11.016) · [DOI](https://doi.org/10.1016/j.joule.2024.11.016) · [补充来源1](https://spiral.imperial.ac.uk/entities/publication/8b5efdb9-8305-4ab3-a907-25fb838a43a7) · [补充来源2](https://discovery.ucl.ac.uk/id/eprint/10205338/)
+
+<a id="P185"></a>
+### P185 · Why renewables should be at the center of rebuilding the Ukrainian electricity system
+
+**期刊：** Joule ｜ **年份：** 2024 ｜ **日期：** 2024-09-18 ｜ **类型：** Commentary
+
+**归类：** 核心期刊电网文献 ｜ **电网关联：** 直接电网/电力系统相关
+
+**摘要（中文概述）：** 对乌克兰电力系统及战争造成的破坏进行地理空间梳理，发现集中式电源、输电线路和变电站广泛受损，削弱供电能力。论文提出重建应兼顾速度、韧性、燃料进口依赖与污染减排，并依据风光资源潜力主张将可再生能源作为未来系统的重要基础。讨论乌克兰及国际政策如何引导投资，以支持更分散且更具韧性的电力体系。
+
+**遗忘筛查：** 未见直接相关。题目及可获取摘要研究电力系统问题，未见删除指定训练数据、客户端或知识/概念影响的目标与验证；未完成所有付费全文筛查。
+
+**核验：** 作者机构完整摘要与出版社书目信息核验。日期口径：在线发表日期；卷期年份：2024。
+
+[论文与来源](https://doi.org/10.1016/j.joule.2024.08.014) · [DOI](https://doi.org/10.1016/j.joule.2024.08.014) · [补充来源1](https://www.sciencedirect.com/science/article/pii/S2542435124003933) · [补充来源2](https://www.isrenergy.uni-bayreuth.de/en/news/index.php) · [补充来源3](https://portal.fis.tum.de/en/publications/why-renewables-should-be-at-the-center-of-rebuilding-the-ukrainia/)
+
+<a id="P186"></a>
+### P186 · Making resource adequacy a private good: The good, the bad, and the ugly
+
+**期刊：** Joule ｜ **年份：** 2024 ｜ **日期：** 2024-05-15 ｜ **类型：** Commentary
+
+**归类：** 核心期刊电网文献 ｜ **电网关联：** 直接电网/电力系统相关
+
+**摘要（中文概述）：** 讨论把资源充裕性从统一提供的公共保障转变为按用户偏好定制的服务，同时为医院等必要负荷保持保障。该思路可能改善容量采购效率，降低用户费用，激励分布式资源和非必要用电灵活调整。论文同时指出，必要负荷的社会定义、能源获取公平以及实施中的伦理和技术难题，需要在市场设计中妥善处理。
+
+**遗忘筛查：** 未见直接相关。题目及可获取摘要研究电力系统问题，未见删除指定训练数据、客户端或知识/概念影响的目标与验证；未完成所有付费全文筛查。
+
+**核验：** 作者机构完整摘要与出版社书目信息核验。日期口径：卷期日期；在线首发日期待核验，同属2024年；卷期年份：2024。
+
+[论文与来源](https://doi.org/10.1016/j.joule.2024.04.001) · [DOI](https://doi.org/10.1016/j.joule.2024.04.001) · [补充来源1](https://www.inet.ox.ac.uk/publications/making-resource-adequacy-a-private-good-the-good-the-bad-and-the-ugly) · [补充来源2](https://www.sciencedirect.com/science/article/pii/S2542435124001570)
+
+<a id="P187"></a>
+### P187 · Opportunities for quantum computing within net-zero power system optimization
+
+**期刊：** Joule ｜ **年份：** 2024 ｜ **日期：** 2024-04-22 ｜ **类型：** Review
+
+**归类：** 核心期刊电网文献 ｜ **电网关联：** 直接电网/电力系统相关
+
+**摘要（中文概述）：** 综述量子计算在净零电力系统规划和运行优化中的机会，覆盖机组组合、网侧灵活性协调、网络扩张、仿真、凸优化及机器学习辅助优化。论文讨论潜在计算加速与规模提升，也强调行业级应用仍面临算法、硬件噪声和扩展性限制。提出建立问题基准和性能标准，开发面向具体场景的算法，并将量子与经典计算纳入统一技术路线。
+
+**遗忘筛查：** 未见直接相关。题目及可获取摘要研究电力系统问题，未见删除指定训练数据、客户端或知识/概念影响的目标与验证；未完成所有付费全文筛查。
+
+**核验：** 出版社Summary/Context & scale与作者机构发表日期核验。日期口径：在线发表日期；卷期年份：2024。
+
+[论文与来源](https://doi.org/10.1016/j.joule.2024.03.020) · [DOI](https://doi.org/10.1016/j.joule.2024.03.020) · [补充来源1](https://www.sciencedirect.com/science/article/pii/S2542435124001557) · [补充来源2](https://ie.web.ox.ac.uk/node/4032561)
+
+<a id="P188"></a>
+### P188 · System-level impacts of voluntary carbon-free electricity procurement strategies
+
+**期刊：** Joule ｜ **年份：** 2024 ｜ **日期：** 2024-01-11 ｜ **类型：** Article
+
+**归类：** 核心期刊电网文献 ｜ **电网关联：** 直接电网/电力系统相关
+
+**摘要（中文概述）：** 通过美国西部电力系统容量扩张与运行分析，比较自愿无碳电力采购机制的长期系统影响。在研究政策条件下，年度电量匹配及按短期边际排放抵消的减排效果有限；逐小时匹配可明显降低系统排放，并带动清洁稳定电源和长时储能部署，但参与者成本更高。清洁电力标准等公共政策能进一步提高自愿采购的有效性。
+
+**遗忘筛查：** 未见直接相关。题目及可获取摘要研究电力系统问题，未见删除指定训练数据、客户端或知识/概念影响的目标与验证；未完成所有付费全文筛查。
+
+**核验：** 作者机构完整摘要与出版社书目信息核验。日期口径：在线发表日期；卷期年份：2024。
+
+[论文与来源](https://doi.org/10.1016/j.joule.2023.12.007) · [DOI](https://doi.org/10.1016/j.joule.2023.12.007) · [补充来源1](https://collaborate.princeton.edu/en/publications/system-level-impacts-of-voluntary-carbon-free-electricity-procure/) · [补充来源2](https://www.eurekalert.org/news-releases/1032400)
+
+<a id="P189"></a>
+### P189 · Synapse-inspired energy networks: a neuromorphic approach to microgrid protection without communication links
+
+**期刊：** Communications Engineering ｜ **年份：** 2026 ｜ **日期：** 2026-03-23 ｜ **类型：** Article
+
+**归类：** 交叉与扩展期刊 ｜ **电网关联：** 直接电网/电力系统相关
+
+**摘要（中文概述）：** 针对分布式微电网中传统保护依赖高故障电流和通信链路的问题，提出仿神经脉冲的保护架构。分布式电源依据本地电压、电流形成反映扰动程度的脉冲，利用电力线路实现协同，以首次脉冲触发断路及故障定位。文中测试报告快速跳闸和较高检测、空间选择准确率，减少对外部通信与同步的依赖。
+
+**遗忘筛查：** 邻近但非遗忘。神经形态脉冲用于故障检测和保护，不以删除已训练模型中的数据或概念为目标。
+
+**核验：** 期刊官网摘要、类型与日期已核验。日期口径：在线发表日期；卷期年份：2026。
+
+[论文与来源](https://www.nature.com/articles/s44172-026-00643-2) · [DOI](https://doi.org/10.1038/s44172-026-00643-2)
+
+<a id="P190"></a>
+### P190 · Adaptive hierarchical learning for uncertainty-aware distributed energy resource planning
+
+**期刊：** Communications Engineering ｜ **年份：** 2026 ｜ **日期：** 2026-01-23 ｜ **类型：** Article
+
+**归类：** 交叉与扩展期刊 ｜ **电网关联：** 直接电网/电力系统相关
+
+**摘要（中文概述）：** 针对分布式能源规划中不确定性及第三方无法完整获知电网安全约束的问题，提出自适应分层学习框架，联合决定选址、容量和运行策略。上层采用蒙特卡洛树搜索开展规划，下层以多智能体强化学习处理部分可观测运行。基准系统与实际配电网算例用于评估投资、计算效率和电压稳定性。
+
+**遗忘筛查：** 邻近但非遗忘。自适应与强化学习用于规划运行，没有指定遗忘集、删除机制或遗忘验证。
+
+**核验：** 期刊官网摘要、类型与日期已核验。日期口径：在线发表日期；卷期年份：2026。
+
+[论文与来源](https://www.nature.com/articles/s44172-026-00591-x) · [DOI](https://doi.org/10.1038/s44172-026-00591-x)
+
+<a id="P191"></a>
+### P191 · Transforming offshore wind farms into synergistic aggregators to enhance renewable integration and grid flexibility—an Eastern China example
+
+**期刊：** Communications Engineering ｜ **年份：** 2025 ｜ **日期：** 2025-12-08 ｜ **类型：** Article
+
+**归类：** 交叉与扩展期刊 ｜ **电网关联：** 直接电网/电力系统相关
+
+**摘要（中文概述）：** 以中国东部为例，将海上风电场与沿海电厂、储能和海洋牧场组织为协同聚合体，联合优化建设及运行，提升新能源消纳和电网灵活性。研究比较不同储能与柔性负荷配置，评估成本、风电利用及调频收益，说明海洋产业用能与发电协同的潜力，同时指出区域政策和生物物理条件对推广的限制。
+
+**遗忘筛查：** 未见直接相关。研究风电消纳与多主体能源协同，不涉及模型遗忘。
+
+**核验：** 期刊官网摘要、类型与日期已核验。日期口径：在线发表日期；卷期年份：2026。
+
+**备注：** 在线首发年份为2025，卷期年份为2026；按在线首发年统计。
+
+[论文与来源](https://www.nature.com/articles/s44172-025-00563-7) · [DOI](https://doi.org/10.1038/s44172-025-00563-7)
+
+<a id="P192"></a>
+### P192 · Voltage regulation in PV-rich distribution networks: an edge pipelined intelligent computing approach
+
+**期刊：** Communications Engineering ｜ **年份：** 2025 ｜ **日期：** 2025-11-26 ｜ **类型：** Article
+
+**归类：** 交叉与扩展期刊 ｜ **电网关联：** 直接电网/电力系统相关
+
+**摘要（中文概述）：** 面向高比例光伏配电网的电压调节，提出部署于数字化边缘站的智能计算框架。通过共享权重神经网络表示不同控制动作，并以流水线并行组织多层计算，降低模型存储和计算开销。研究评估电压越限抑制与执行效率，也考察通信故障和部分观测下的适用性，为分布式电压控制提供实现途径。
+
+**遗忘筛查：** 邻近但非遗忘。神经网络压缩和边缘推理降低资源需求，并非删除训练数据影响。
+
+**核验：** 期刊官网摘要、类型与日期已核验。日期口径：在线发表日期；卷期年份：2025。
+
+[论文与来源](https://www.nature.com/articles/s44172-025-00535-x) · [DOI](https://doi.org/10.1038/s44172-025-00535-x)
+
+<a id="P193"></a>
+### P193 · Lifecycle carbon intensity with embodied emissions of battery and hydrogen-driven integrative low-carbon systems
+
+**期刊：** Communications Engineering ｜ **年份：** 2025 ｜ **日期：** 2025-05-07 ｜ **类型：** Article
+
+**归类：** 背景补充 ｜ **电网关联：** 背景补充：电网相关的部门耦合与生命周期研究
+
+**摘要（中文概述）：** 研究未来清洁电网情景如何影响电池和氢能循环体系的全生命周期碳足迹，建立覆盖原材料到回收阶段的数据库，并绘制中国不同气候区域的碳强度分布。结合零能耗系统方案分析经济可行性，说明电网低碳化、储能路径及隐含排放之间的联系，为技术选择和政策评估提供依据。
+
+**遗忘筛查：** 未见直接相关。研究生命周期碳排放与储能，不涉及模型或知识撤回。
+
+**核验：** 期刊官网摘要、类型与日期已核验。日期口径：在线发表日期；卷期年份：2025。
+
+[论文与来源](https://www.nature.com/articles/s44172-025-00411-8) · [DOI](https://doi.org/10.1038/s44172-025-00411-8)
+
+<a id="P194"></a>
+### P194 · Decentralized dynamic system for optimal power dispatch in wind farms based on node-dependence nature
+
+**期刊：** Communications Engineering ｜ **年份：** 2024 ｜ **日期：** 2024-08-18 ｜ **类型：** Article
+
+**归类：** 交叉与扩展期刊 ｜ **电网关联：** 直接电网/电力系统相关
+
+**摘要（中文概述）：** 针对风电场功率分配中全局功率约束与分散电压控制难以兼顾的问题，利用节点依赖关系及功率灵敏度构造完全分散的动态调度方法。各控制器依据本地测量执行梯度投影迭代，在满足总功率需求的同时优化电压。论文分析收敛性质，并通过仿真检验接近全局最优解的能力。
+
+**遗忘筛查：** 未见直接相关。分散优化与动态控制，不涉及机器遗忘。
+
+**核验：** 期刊官网摘要、类型与日期已核验。日期口径：在线发表日期；卷期年份：2024。
+
+[论文与来源](https://www.nature.com/articles/s44172-024-00258-5) · [DOI](https://doi.org/10.1038/s44172-024-00258-5)
 

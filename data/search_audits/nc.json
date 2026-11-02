@@ -1,0 +1,89 @@
+{
+  "audit_date": "2026-11-02",
+  "journal": "Nature Communications",
+  "baseline_count": 28,
+  "added_count": 53,
+  "queries": [
+    "site:nature.com/articles/s41467-026 \"power grid\" September October 2026",
+    "site:nature.com/articles/s41467-026 \"power system\" \"October\"",
+    "site:nature.com/articles/s41467-025 \"electricity\" \"transmission\"",
+    "site:nature.com/articles/s41467-024 \"grid\" \"stability\"",
+    "site:nature.com/articles/s41467-024 \"power system\" -battery -materials",
+    "site:nature.com/articles/s41467-026 \"electricity\" \"September\"",
+    "site:nature.com/articles/s41467-025 \"electricity market\"",
+    "site:nature.com/articles/s41467-024 \"electricity\" \"storage\" system",
+    "site:nature.com/articles \"Introducing edge intelligence to smart meters\"",
+    "site:nature.com/articles \"Real-time outage management in active\"",
+    "site:nature.com/articles \"A blockchain consensus mechanism\"",
+    "site:nature.com/articles \"Coordinating train operations\"",
+    "site:nature.com/articles/ \"Nature Communications\" \"2026\" \"power grid\" \"October\"",
+    "site:nature.com/articles/ \"Nature Communications\" \"2026\" \"charging\" \"lightweight\"",
+    "site:nature.com/articles/ \"Nature Communications\" \"2024\" \"power system\"",
+    "site:nature.com/articles/ \"Nature Communications\" \"2024\" \"grid\" \"restoration\"",
+    "site:nature.com/articles/ \"Nature Communications\" \"Extreme typhoon events trigger long-lasting power outages\"",
+    "site:nature.com/articles/ \"Nature Communications\" \"Rising worldwide challenges\"",
+    "site:nature.com/articles/ \"Nature Communications\" \"2026\" \"power systems\" \"unlearning\"",
+    "site:nature.com/articles/ \"Nature Communications\" \"2024\" \"grid\" \"synchronization\"",
+    "site:nature.com/articles/ \"Nature Communications\" \"2024\" \"demand response\" electricity",
+    "site:nature.com/articles/ \"Nature Communications\" \"2025\" \"smart grid\"",
+    "site:nature.com/articles/ \"Nature Communications\" \"2026\" \"optimal power flow\"",
+    "\"Extreme typhoon events trigger long-lasting power outages\""
+  ],
+  "methods": [
+    "官方energy-grids-and-networks、energy-supply-and-demand、energy-infrastructure、energy-storage与energy-science-and-technology主题页人工筛选",
+    "2024/2025/2026分年和跨年关键词检索、标题与DOI追查",
+    "新候选逐条打开原始摘要，DOI去重；首次在线日期优先于卷期年"
+  ],
+  "topic_pages": [
+    "https://www.nature.com/subjects/energy-grids-and-networks/ncomms",
+    "https://www.nature.com/subjects/energy-supply-and-demand/ncomms",
+    "https://www.nature.com/subjects/energy-infrastructure/ncomms",
+    "https://www.nature.com/subjects/energy-storage/ncomms",
+    "https://www.nature.com/subjects/energy-science-and-technology/ncomms"
+  ],
+  "per_journal_year_coverage": [
+    {
+      "journal": "Nature Communications",
+      "year": 2024,
+      "added_count": 12,
+      "coverage": "主题目录与分年/跨年定向网页检索；不是逐期全量枚举"
+    },
+    {
+      "journal": "Nature Communications",
+      "year": 2025,
+      "added_count": 24,
+      "coverage": "主题目录与分年/跨年定向网页检索；不是逐期全量枚举"
+    },
+    {
+      "journal": "Nature Communications",
+      "year": 2026,
+      "added_count": 17,
+      "coverage": "主题目录与分年/跨年定向网页检索；不是逐期全量枚举"
+    }
+  ],
+  "boundary_exclusions": [
+    {
+      "doi": "10.1038/s41467-024-51373-y",
+      "reason": "声子/光子非互易散射，非电力网络研究"
+    },
+    {
+      "doi": "10.1038/s41467-025-59729-8",
+      "reason": "一般振子同步理论，当前可读摘要不足以确认具体电网应用"
+    },
+    {
+      "title": "Global transcontinental power pools for low-carbon electricity",
+      "date": "2023-12-15",
+      "reason": "三个日历年窗口之外"
+    },
+    {
+      "title": "Extreme typhoon events trigger long-lasting power outages and require demand-side solutions to enhance energy resiliency",
+      "doi": "10.1038/s43247-025-02126-2",
+      "reason": "Communications Earth & Environment；本轮明确期刊边界之外，保留进一步扩展线索"
+    }
+  ],
+  "limitations": [
+    "网页索引、官方主题标签与页面更新存在滞后；没有完成Scopus/WoS/Crossref/OpenAlex全量下载比对",
+    "原85条保留既有核验结果；新增条目核查原始摘要，未逐页通读所有全文",
+    "未宣称已收齐全部相关文献；2026截止11月2日"
+  ]
+}

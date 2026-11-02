@@ -1,0 +1,1483 @@
+{
+  "round": 2,
+  "date": "2026-11-02",
+  "queries": [
+    {
+      "query": "site:nature.com/articles/s41467-026 \"power grid\" September October 2026",
+      "search_date": "2026-11-02",
+      "audit_group": "nc"
+    },
+    {
+      "query": "site:nature.com/articles/s41467-026 \"power system\" \"October\"",
+      "search_date": "2026-11-02",
+      "audit_group": "nc"
+    },
+    {
+      "query": "site:nature.com/articles/s41467-025 \"electricity\" \"transmission\"",
+      "search_date": "2026-11-02",
+      "audit_group": "nc"
+    },
+    {
+      "query": "site:nature.com/articles/s41467-024 \"grid\" \"stability\"",
+      "search_date": "2026-11-02",
+      "audit_group": "nc"
+    },
+    {
+      "query": "site:nature.com/articles/s41467-024 \"power system\" -battery -materials",
+      "search_date": "2026-11-02",
+      "audit_group": "nc"
+    },
+    {
+      "query": "site:nature.com/articles/s41467-026 \"electricity\" \"September\"",
+      "search_date": "2026-11-02",
+      "audit_group": "nc"
+    },
+    {
+      "query": "site:nature.com/articles/s41467-025 \"electricity market\"",
+      "search_date": "2026-11-02",
+      "audit_group": "nc"
+    },
+    {
+      "query": "site:nature.com/articles/s41467-024 \"electricity\" \"storage\" system",
+      "search_date": "2026-11-02",
+      "audit_group": "nc"
+    },
+    {
+      "query": "site:nature.com/articles \"Introducing edge intelligence to smart meters\"",
+      "search_date": "2026-11-02",
+      "audit_group": "nc"
+    },
+    {
+      "query": "site:nature.com/articles \"Real-time outage management in active\"",
+      "search_date": "2026-11-02",
+      "audit_group": "nc"
+    },
+    {
+      "query": "site:nature.com/articles \"A blockchain consensus mechanism\"",
+      "search_date": "2026-11-02",
+      "audit_group": "nc"
+    },
+    {
+      "query": "site:nature.com/articles \"Coordinating train operations\"",
+      "search_date": "2026-11-02",
+      "audit_group": "nc"
+    },
+    {
+      "query": "site:nature.com/articles/ \"Nature Communications\" \"2026\" \"power grid\" \"October\"",
+      "search_date": "2026-11-02",
+      "audit_group": "nc"
+    },
+    {
+      "query": "site:nature.com/articles/ \"Nature Communications\" \"2026\" \"charging\" \"lightweight\"",
+      "search_date": "2026-11-02",
+      "audit_group": "nc"
+    },
+    {
+      "query": "site:nature.com/articles/ \"Nature Communications\" \"2024\" \"power system\"",
+      "search_date": "2026-11-02",
+      "audit_group": "nc"
+    },
+    {
+      "query": "site:nature.com/articles/ \"Nature Communications\" \"2024\" \"grid\" \"restoration\"",
+      "search_date": "2026-11-02",
+      "audit_group": "nc"
+    },
+    {
+      "query": "site:nature.com/articles/ \"Nature Communications\" \"Extreme typhoon events trigger long-lasting power outages\"",
+      "search_date": "2026-11-02",
+      "audit_group": "nc"
+    },
+    {
+      "query": "site:nature.com/articles/ \"Nature Communications\" \"Rising worldwide challenges\"",
+      "search_date": "2026-11-02",
+      "audit_group": "nc"
+    },
+    {
+      "query": "site:nature.com/articles/ \"Nature Communications\" \"2026\" \"power systems\" \"unlearning\"",
+      "search_date": "2026-11-02",
+      "audit_group": "nc"
+    },
+    {
+      "query": "site:nature.com/articles/ \"Nature Communications\" \"2024\" \"grid\" \"synchronization\"",
+      "search_date": "2026-11-02",
+      "audit_group": "nc"
+    },
+    {
+      "query": "site:nature.com/articles/ \"Nature Communications\" \"2024\" \"demand response\" electricity",
+      "search_date": "2026-11-02",
+      "audit_group": "nc"
+    },
+    {
+      "query": "site:nature.com/articles/ \"Nature Communications\" \"2025\" \"smart grid\"",
+      "search_date": "2026-11-02",
+      "audit_group": "nc"
+    },
+    {
+      "query": "site:nature.com/articles/ \"Nature Communications\" \"2026\" \"optimal power flow\"",
+      "search_date": "2026-11-02",
+      "audit_group": "nc"
+    },
+    {
+      "query": "\"Extreme typhoon events trigger long-lasting power outages\"",
+      "search_date": "2026-11-02",
+      "audit_group": "nc"
+    },
+    {
+      "query_id": "EJ2-001",
+      "query": "site:nature.com/articles/s41560-026 electricity grid transmission",
+      "engine": "web search",
+      "queried_date": "2026-11-02",
+      "search_date": "2026-11-02",
+      "audit_group": "energy_joule"
+    },
+    {
+      "query_id": "EJ2-002",
+      "query": "site:nature.com/articles/s41560-025 grid power electricity",
+      "engine": "web search",
+      "queried_date": "2026-11-02",
+      "search_date": "2026-11-02",
+      "audit_group": "energy_joule"
+    },
+    {
+      "query_id": "EJ2-003",
+      "query": "site:cell.com/joule \"2026\" \"grid\"",
+      "engine": "web search",
+      "queried_date": "2026-11-02",
+      "search_date": "2026-11-02",
+      "audit_group": "energy_joule"
+    },
+    {
+      "query_id": "EJ2-004",
+      "query": "\"Joule\" \"2025\" \"electricity\" \"transmission\"",
+      "engine": "web search",
+      "queried_date": "2026-11-02",
+      "search_date": "2026-11-02",
+      "audit_group": "energy_joule"
+    },
+    {
+      "query_id": "EJ2-005",
+      "query": "site:nature.com/articles/s41560-026 \"grid\" -\"batteries\" -\"electrolyte\"",
+      "engine": "web search",
+      "queried_date": "2026-11-02",
+      "search_date": "2026-11-02",
+      "audit_group": "energy_joule"
+    },
+    {
+      "query_id": "EJ2-006",
+      "query": "site:nature.com/articles/s41560-025 \"electricity\" \"data\"",
+      "engine": "web search",
+      "queried_date": "2026-11-02",
+      "search_date": "2026-11-02",
+      "audit_group": "energy_joule"
+    },
+    {
+      "query_id": "EJ2-007",
+      "query": "site:nature.com/articles/s41560-024 \"power\" \"grid\" -electrode -catalyst",
+      "engine": "web search",
+      "queried_date": "2026-11-02",
+      "search_date": "2026-11-02",
+      "audit_group": "energy_joule"
+    },
+    {
+      "query_id": "EJ2-008",
+      "query": "site:sciencedirect.com/science/article/pii/S25424351 \"2026\" \"grid\"",
+      "engine": "web search",
+      "queried_date": "2026-11-02",
+      "search_date": "2026-11-02",
+      "audit_group": "energy_joule"
+    },
+    {
+      "query_id": "EJ2-009",
+      "query": "\"Joule\" \"2026\" \"power system\" -site:reddit.com",
+      "engine": "web search",
+      "queried_date": "2026-11-02",
+      "search_date": "2026-11-02",
+      "audit_group": "energy_joule"
+    },
+    {
+      "query_id": "EJ2-010",
+      "query": "\"Joule\" \"2025\" \"storage\" \"system\" transmission",
+      "engine": "web search",
+      "queried_date": "2026-11-02",
+      "search_date": "2026-11-02",
+      "audit_group": "energy_joule"
+    },
+    {
+      "query_id": "EJ2-011",
+      "query": "\"Joule\" \"2024\" \"electricity\" \"demand\"",
+      "engine": "web search",
+      "queried_date": "2026-11-02",
+      "search_date": "2026-11-02",
+      "audit_group": "energy_joule"
+    },
+    {
+      "query_id": "EJ2-012",
+      "query": "\"System impacts of wind energy developments\" \"December\"",
+      "engine": "web search",
+      "queried_date": "2026-11-02",
+      "search_date": "2026-11-02",
+      "audit_group": "energy_joule"
+    },
+    {
+      "query_id": "EJ2-013",
+      "query": "site:nature.com/articles/s41560-024 \"cascading\"",
+      "engine": "web search",
+      "queried_date": "2026-11-02",
+      "search_date": "2026-11-02",
+      "audit_group": "energy_joule"
+    },
+    {
+      "query_id": "EJ2-014",
+      "query": "site:nature.com/articles/s41560-024 \"electricity\" \"storage\" -electrolyte -electrode",
+      "engine": "web search",
+      "queried_date": "2026-11-02",
+      "search_date": "2026-11-02",
+      "audit_group": "energy_joule"
+    },
+    {
+      "query_id": "EJ2-015",
+      "query": "site:nature.com/articles/s41560-025 \"power systems\" -Correction",
+      "engine": "web search",
+      "queried_date": "2026-11-02",
+      "search_date": "2026-11-02",
+      "audit_group": "energy_joule"
+    },
+    {
+      "query_id": "EJ2-016",
+      "query": "site:nature.com/articles/s41560-026 \"electricity\" \"October\"",
+      "engine": "web search",
+      "queried_date": "2026-11-02",
+      "search_date": "2026-11-02",
+      "audit_group": "energy_joule"
+    },
+    {
+      "query_id": "EJ2-017",
+      "query": "site:cell.com/joule \"2025\" \"grid\" \"storage\"",
+      "engine": "web search",
+      "queried_date": "2026-11-02",
+      "search_date": "2026-11-02",
+      "audit_group": "energy_joule"
+    },
+    {
+      "query_id": "EJ2-018",
+      "query": "site:cell.com/joule \"2026\" \"electricity\"",
+      "engine": "web search",
+      "queried_date": "2026-11-02",
+      "search_date": "2026-11-02",
+      "audit_group": "energy_joule"
+    },
+    {
+      "query_id": "EJ2-019",
+      "query": "site:nature.com/articles/s41560-025 \"demand\" \"electricity\"",
+      "engine": "web search",
+      "queried_date": "2026-11-02",
+      "search_date": "2026-11-02",
+      "audit_group": "energy_joule"
+    },
+    {
+      "query_id": "EJ2-020",
+      "query": "\"Governing AI infrastructure on decarbonizing grids\"",
+      "engine": "web search",
+      "queried_date": "2026-11-02",
+      "search_date": "2026-11-02",
+      "audit_group": "energy_joule"
+    },
+    {
+      "query_id": "EJ2-021",
+      "query": "\"Capturing the distribution of costs and benefits in electricity system planning and operations\"",
+      "engine": "web search",
+      "queried_date": "2026-11-02",
+      "search_date": "2026-11-02",
+      "audit_group": "energy_joule"
+    },
+    {
+      "query_id": "EJ2-022",
+      "query": "\"Revisiting the relationship between demand growth and electricity prices\"",
+      "engine": "web search",
+      "queried_date": "2026-11-02",
+      "search_date": "2026-11-02",
+      "audit_group": "energy_joule"
+    },
+    {
+      "query_id": "EJ2-023",
+      "query": "\"System-level impacts of voluntary carbon-free electricity procurement strategies\"",
+      "engine": "web search",
+      "queried_date": "2026-11-02",
+      "search_date": "2026-11-02",
+      "audit_group": "energy_joule"
+    },
+    {
+      "query_id": "EJ2-024",
+      "query": "\"System impacts of wind energy developments\" \"Published\"",
+      "engine": "web search",
+      "queried_date": "2026-11-02",
+      "search_date": "2026-11-02",
+      "audit_group": "energy_joule"
+    },
+    {
+      "query_id": "EJ2-025",
+      "query": "site:sciencedirect.com/science/article/pii/S2542435126000711 \"Date\"",
+      "engine": "web search",
+      "queried_date": "2026-11-02",
+      "search_date": "2026-11-02",
+      "audit_group": "energy_joule"
+    },
+    {
+      "query_id": "EJ2-026",
+      "query": "site:sciencedirect.com/science/article/pii/S2542435126002126 \"Available online\"",
+      "engine": "web search",
+      "queried_date": "2026-11-02",
+      "search_date": "2026-11-02",
+      "audit_group": "energy_joule"
+    },
+    {
+      "query_id": "EJ2-027",
+      "query": "site:sciencedirect.com/science/article/pii/S2542435123004993 \"Available online\"",
+      "engine": "web search",
+      "queried_date": "2026-11-02",
+      "search_date": "2026-11-02",
+      "audit_group": "energy_joule"
+    },
+    {
+      "query_id": "EJ2-028",
+      "query": "site:sciencedirect.com/science/article/pii/S2542435124005130 \"Available online\"",
+      "engine": "web search",
+      "queried_date": "2026-11-02",
+      "search_date": "2026-11-02",
+      "audit_group": "energy_joule"
+    },
+    {
+      "query_id": "EJ2-029",
+      "query": "\"Joule\" \"2025\" \"transmission\" \"storage\"",
+      "engine": "web search",
+      "queried_date": "2026-11-02",
+      "search_date": "2026-11-02",
+      "audit_group": "energy_joule"
+    },
+    {
+      "query_id": "EJ2-030",
+      "query": "\"Joule\" \"2026\" \"electricity system\"",
+      "engine": "web search",
+      "queried_date": "2026-11-02",
+      "search_date": "2026-11-02",
+      "audit_group": "energy_joule"
+    },
+    {
+      "query_id": "EJ2-031",
+      "query": "\"Joule\" \"2024\" \"demand response\"",
+      "engine": "web search",
+      "queried_date": "2026-11-02",
+      "search_date": "2026-11-02",
+      "audit_group": "energy_joule"
+    },
+    {
+      "query_id": "EJ2-032",
+      "query": "\"Joule\" \"2025\" \"vehicle-to-grid\"",
+      "engine": "web search",
+      "queried_date": "2026-11-02",
+      "search_date": "2026-11-02",
+      "audit_group": "energy_joule"
+    },
+    {
+      "query_id": "EJ2-033",
+      "query": "\"10.1016/j.joule.2025.102144\"",
+      "engine": "web search",
+      "queried_date": "2026-11-02",
+      "search_date": "2026-11-02",
+      "audit_group": "energy_joule"
+    },
+    {
+      "query_id": "EJ2-034",
+      "query": "\"10.1016/j.joule.2024.08.014\"",
+      "engine": "web search",
+      "queried_date": "2026-11-02",
+      "search_date": "2026-11-02",
+      "audit_group": "energy_joule"
+    },
+    {
+      "query_id": "EJ2-035",
+      "query": "\"10.1016/j.joule.2026.102464\"",
+      "engine": "web search",
+      "queried_date": "2026-11-02",
+      "search_date": "2026-11-02",
+      "audit_group": "energy_joule"
+    },
+    {
+      "query_id": "EJ2-036",
+      "query": "\"System impacts of wind energy developments\" \"online\"",
+      "engine": "web search",
+      "queried_date": "2026-11-02",
+      "search_date": "2026-11-02",
+      "audit_group": "energy_joule"
+    },
+    {
+      "query_id": "EJ2-037",
+      "query": "\"Capturing the distribution of costs and benefits\" \"Published\"",
+      "engine": "web search",
+      "queried_date": "2026-11-02",
+      "search_date": "2026-11-02",
+      "audit_group": "energy_joule"
+    },
+    {
+      "query_id": "EJ2-038",
+      "query": "\"Revisiting the relationship\" \"Joule\" \"July\"",
+      "engine": "web search",
+      "queried_date": "2026-11-02",
+      "search_date": "2026-11-02",
+      "audit_group": "energy_joule"
+    },
+    {
+      "query_id": "EJ2-039",
+      "query": "\"System-level impacts of voluntary\" \"Published online\"",
+      "engine": "web search",
+      "queried_date": "2026-11-02",
+      "search_date": "2026-11-02",
+      "audit_group": "energy_joule"
+    },
+    {
+      "query_id": "EJ2-040",
+      "query": "\"Making resource adequacy a private good\"",
+      "engine": "web search",
+      "queried_date": "2026-11-02",
+      "search_date": "2026-11-02",
+      "audit_group": "energy_joule"
+    },
+    {
+      "query_id": "EJ2-041",
+      "query": "\"Capturing the distribution of costs and benefits in electricity system planning and operations\" Joule March",
+      "engine": "web search",
+      "queried_date": "2026-11-02",
+      "search_date": "2026-11-02",
+      "audit_group": "energy_joule"
+    },
+    {
+      "query_id": "EJ2-042",
+      "query": "\"Revisiting the relationship between demand growth and electricity prices\" Joule June",
+      "engine": "web search",
+      "queried_date": "2026-11-02",
+      "search_date": "2026-11-02",
+      "audit_group": "energy_joule"
+    },
+    {
+      "query_id": "EJ2-043",
+      "query": "\"System-level impacts of voluntary carbon-free electricity procurement strategies\" Joule January",
+      "engine": "web search",
+      "queried_date": "2026-11-02",
+      "search_date": "2026-11-02",
+      "audit_group": "energy_joule"
+    },
+    {
+      "query_id": "EJ2-044",
+      "query": "\"Near-optimal energy planning strategies\" \"Published online\"",
+      "engine": "web search",
+      "queried_date": "2026-11-02",
+      "search_date": "2026-11-02",
+      "audit_group": "energy_joule"
+    },
+    {
+      "query_id": "EJ2-045",
+      "query": "\"10.1016/j.joule.2026.102387\" \"Published\"",
+      "engine": "web search",
+      "queried_date": "2026-11-02",
+      "search_date": "2026-11-02",
+      "audit_group": "energy_joule"
+    },
+    {
+      "query_id": "EJ2-046",
+      "query": "\"10.1016/j.joule.2026.102528\" \"Published\"",
+      "engine": "web search",
+      "queried_date": "2026-11-02",
+      "search_date": "2026-11-02",
+      "audit_group": "energy_joule"
+    },
+    {
+      "query_id": "EJ2-047",
+      "query": "\"10.1016/j.joule.2025.102144\" \"Published\"",
+      "engine": "web search",
+      "queried_date": "2026-11-02",
+      "search_date": "2026-11-02",
+      "audit_group": "energy_joule"
+    },
+    {
+      "query_id": "EJ2-048",
+      "query": "\"10.1016/j.joule.2026.102464\" \"Published\"",
+      "engine": "web search",
+      "queried_date": "2026-11-02",
+      "search_date": "2026-11-02",
+      "audit_group": "energy_joule"
+    },
+    {
+      "query_id": "EJ2-049",
+      "query": "\"System-level impacts of voluntary carbon-free electricity procurement strategies\" \"January 11\"",
+      "engine": "web search",
+      "queried_date": "2026-11-02",
+      "search_date": "2026-11-02",
+      "audit_group": "energy_joule"
+    },
+    {
+      "query_id": "EJ2-050",
+      "query": "\"Making resource adequacy a private good\" \"May\"",
+      "engine": "web search",
+      "queried_date": "2026-11-02",
+      "search_date": "2026-11-02",
+      "audit_group": "energy_joule"
+    },
+    {
+      "query_id": "EJ2-051",
+      "query": "\"Capturing the distribution of costs and benefits in electricity system planning and operations\" \"Summary\"",
+      "engine": "web search",
+      "queried_date": "2026-11-02",
+      "search_date": "2026-11-02",
+      "audit_group": "energy_joule"
+    },
+    {
+      "query_id": "EJ2-052",
+      "query": "\"Revisiting the relationship between demand growth and electricity prices\" \"2026\" \"June 25\"",
+      "engine": "web search",
+      "queried_date": "2026-11-02",
+      "search_date": "2026-11-02",
+      "audit_group": "energy_joule"
+    },
+    {
+      "query_id": "EJ2-053",
+      "query": "\"Joule\" \"2024\" \"power system\" \"Article\"",
+      "engine": "web search",
+      "queried_date": "2026-11-02",
+      "search_date": "2026-11-02",
+      "audit_group": "energy_joule"
+    },
+    {
+      "query_id": "EJ2-054",
+      "query": "\"Joule\" \"2025\" \"power system\" \"Article\"",
+      "engine": "web search",
+      "queried_date": "2026-11-02",
+      "search_date": "2026-11-02",
+      "audit_group": "energy_joule"
+    },
+    {
+      "query_id": "EJ2-055",
+      "query": "\"Joule\" \"2026\" \"grid\" \"Article\" -case -patent -site:reddit.com",
+      "engine": "web search",
+      "queried_date": "2026-11-02",
+      "search_date": "2026-11-02",
+      "audit_group": "energy_joule"
+    },
+    {
+      "query_id": "EJ2-056",
+      "query": "\"Joule\" \"2025\" \"electricity market\"",
+      "engine": "web search",
+      "queried_date": "2026-11-02",
+      "search_date": "2026-11-02",
+      "audit_group": "energy_joule"
+    },
+    {
+      "query_id": "EJ2-057",
+      "query": "\"Opportunities for quantum computing within net-zero power system optimization\"",
+      "engine": "web search",
+      "queried_date": "2026-11-02",
+      "search_date": "2026-11-02",
+      "audit_group": "energy_joule"
+    },
+    {
+      "query_id": "EJ2-058",
+      "query": "\"Cross-sector energy system resilience and interdependence in a changing climate\"",
+      "engine": "web search",
+      "queried_date": "2026-11-02",
+      "search_date": "2026-11-02",
+      "audit_group": "energy_joule"
+    },
+    {
+      "query_id": "EJ2-059",
+      "query": "\"Pathways to national-scale adoption of enhanced geothermal power through experience-driven cost reductions\"",
+      "engine": "web search",
+      "queried_date": "2026-11-02",
+      "search_date": "2026-11-02",
+      "audit_group": "energy_joule"
+    },
+    {
+      "query_id": "EJ2-060",
+      "query": "\"Impacts of Inter-annual Wind and Solar Variations on the European Power System\"",
+      "engine": "web search",
+      "queried_date": "2026-11-02",
+      "search_date": "2026-11-02",
+      "audit_group": "energy_joule"
+    },
+    {
+      "query_id": "EJ2-061",
+      "query": "\"Rethinking the green power grid for stability, not just for climate\"",
+      "engine": "web search",
+      "queried_date": "2026-11-02",
+      "search_date": "2026-11-02",
+      "audit_group": "energy_joule"
+    },
+    {
+      "query_id": "EJ2-062",
+      "query": "\"10.1016/j.joule.2023.12.007\" \"Published\"",
+      "engine": "web search",
+      "queried_date": "2026-11-02",
+      "search_date": "2026-11-02",
+      "audit_group": "energy_joule"
+    },
+    {
+      "query_id": "EJ2-063",
+      "query": "\"Near-optimal energy planning strategies\" \"October 16\"",
+      "engine": "web search",
+      "queried_date": "2026-11-02",
+      "search_date": "2026-11-02",
+      "audit_group": "energy_joule"
+    },
+    {
+      "query_id": "EJ2-064",
+      "query": "\"Why renewables should be at the center\" \"Published\"",
+      "engine": "web search",
+      "queried_date": "2026-11-02",
+      "search_date": "2026-11-02",
+      "audit_group": "energy_joule"
+    },
+    {
+      "query_id": "EJ2-065",
+      "query": "\"Opportunities for quantum computing within net-zero power system optimization\" \"Summary\"",
+      "engine": "web search",
+      "queried_date": "2026-11-02",
+      "search_date": "2026-11-02",
+      "audit_group": "energy_joule"
+    },
+    {
+      "query_id": "EJ2-066",
+      "query": "\"Cross-sector energy system resilience and interdependence\" \"May\"",
+      "engine": "web search",
+      "queried_date": "2026-11-02",
+      "search_date": "2026-11-02",
+      "audit_group": "energy_joule"
+    },
+    {
+      "query_id": "EJ2-067",
+      "query": "\"A minimal methanol backstop\" \"May 14\"",
+      "engine": "web search",
+      "queried_date": "2026-11-02",
+      "search_date": "2026-11-02",
+      "audit_group": "energy_joule"
+    },
+    {
+      "query_id": "EJ2-068",
+      "query": "\"Near-optimal energy planning strategies\" \"October\"",
+      "engine": "web search",
+      "queried_date": "2026-11-02",
+      "search_date": "2026-11-02",
+      "audit_group": "energy_joule"
+    },
+    {
+      "query_id": "EJ2-069",
+      "query": "\"10.1016/j.joule.2026.102528\" \"June\" \"17\"",
+      "engine": "web search",
+      "queried_date": "2026-11-02",
+      "search_date": "2026-11-02",
+      "audit_group": "energy_joule"
+    },
+    {
+      "query_id": "EJ2-070",
+      "query": "\"10.1016/j.joule.2026.102387\" \"March\"",
+      "engine": "web search",
+      "queried_date": "2026-11-02",
+      "search_date": "2026-11-02",
+      "audit_group": "energy_joule"
+    },
+    {
+      "query_id": "EJ2-071",
+      "query": "\"10.1016/j.joule.2025.102144\" \"October\" \"2\"",
+      "engine": "web search",
+      "queried_date": "2026-11-02",
+      "search_date": "2026-11-02",
+      "audit_group": "energy_joule"
+    },
+    {
+      "query_id": "EJ2-072",
+      "query": "\"10.1016/j.joule.2024.03.020\" \"April\"",
+      "engine": "web search",
+      "queried_date": "2026-11-02",
+      "search_date": "2026-11-02",
+      "audit_group": "energy_joule"
+    },
+    {
+      "query_id": "EJ2-073",
+      "query": "\"Revisiting the relationship between demand growth and electricity prices\" \"Volume\"",
+      "engine": "web search",
+      "queried_date": "2026-11-02",
+      "search_date": "2026-11-02",
+      "audit_group": "energy_joule"
+    },
+    {
+      "query_id": "EJ2-074",
+      "query": "\"Cross-sector energy system resilience and interdependence in a changing climate\" \"Date\"",
+      "engine": "web search",
+      "queried_date": "2026-11-02",
+      "search_date": "2026-11-02",
+      "audit_group": "energy_joule"
+    },
+    {
+      "query_id": "EJ2-075",
+      "query": "\"Opportunities for quantum computing within net-zero power system optimization\" \"Published online\"",
+      "engine": "web search",
+      "queried_date": "2026-11-02",
+      "search_date": "2026-11-02",
+      "audit_group": "energy_joule"
+    },
+    {
+      "query_id": "EJ2-076",
+      "query": "\"Why renewables should be at the center of rebuilding the Ukrainian electricity system\" \"September 18\"",
+      "engine": "web search",
+      "queried_date": "2026-11-02",
+      "search_date": "2026-11-02",
+      "audit_group": "energy_joule"
+    },
+    {
+      "query_id": "EJ2-077",
+      "query": "\"machine unlearning\" \"Nature Energy\"",
+      "engine": "web search",
+      "queried_date": "2026-11-02",
+      "search_date": "2026-11-02",
+      "audit_group": "energy_joule"
+    },
+    {
+      "query_id": "EJ2-078",
+      "query": "\"machine unlearning\" \"Joule\"",
+      "engine": "web search",
+      "queried_date": "2026-11-02",
+      "search_date": "2026-11-02",
+      "audit_group": "energy_joule"
+    },
+    {
+      "query_id": "EJ2-079",
+      "query": "\"unlearning\" \"power\" \"s41560\"",
+      "engine": "web search",
+      "queried_date": "2026-11-02",
+      "search_date": "2026-11-02",
+      "audit_group": "energy_joule"
+    },
+    {
+      "query_id": "EJ2-080",
+      "query": "\"concept erasure\" \"Joule\"",
+      "engine": "web search",
+      "queried_date": "2026-11-02",
+      "search_date": "2026-11-02",
+      "audit_group": "energy_joule"
+    },
+    {
+      "batch": 1,
+      "query": "site:science.org/doi/10.1126/sciadv \"grid\" \"2026\" electricity",
+      "run_date": "2026-11-02",
+      "search_date": "2026-11-02",
+      "audit_group": "science_climate"
+    },
+    {
+      "batch": 1,
+      "query": "site:science.org/doi/10.1126/sciadv \"power\" \"2025\" transmission",
+      "run_date": "2026-11-02",
+      "search_date": "2026-11-02",
+      "audit_group": "science_climate"
+    },
+    {
+      "batch": 1,
+      "query": "site:nature.com/articles/s41893-026 electricity grid",
+      "run_date": "2026-11-02",
+      "search_date": "2026-11-02",
+      "audit_group": "science_climate"
+    },
+    {
+      "batch": 1,
+      "query": "site:nature.com/articles/s41558-026 electricity power",
+      "run_date": "2026-11-02",
+      "search_date": "2026-11-02",
+      "audit_group": "science_climate"
+    },
+    {
+      "batch": 2,
+      "query": "\"Science Advances\" \"power grid\" 2024 2025 2026",
+      "run_date": "2026-11-02",
+      "search_date": "2026-11-02",
+      "audit_group": "science_climate"
+    },
+    {
+      "batch": 2,
+      "query": "\"Science Advances\" \"electricity\" \"2026\"",
+      "run_date": "2026-11-02",
+      "search_date": "2026-11-02",
+      "audit_group": "science_climate"
+    },
+    {
+      "batch": 2,
+      "query": "\"Science Advances\" \"transmission\" \"energy\" 2024 2025",
+      "run_date": "2026-11-02",
+      "search_date": "2026-11-02",
+      "audit_group": "science_climate"
+    },
+    {
+      "batch": 2,
+      "query": "\"Nature Sustainability\" \"electricity trade\" 2026",
+      "run_date": "2026-11-02",
+      "search_date": "2026-11-02",
+      "audit_group": "science_climate"
+    },
+    {
+      "batch": 3,
+      "query": "\"Science Advances\" \"electricity\" \"2024\" -thermoelectric -catalyst -membrane -electrode",
+      "run_date": "2026-11-02",
+      "search_date": "2026-11-02",
+      "audit_group": "science_climate"
+    },
+    {
+      "batch": 3,
+      "query": "\"Science Advances\" \"power system\" \"2025\" \"2026\"",
+      "run_date": "2026-11-02",
+      "search_date": "2026-11-02",
+      "audit_group": "science_climate"
+    },
+    {
+      "batch": 3,
+      "query": "\"Nature Sustainability\" \"power\" \"2024\" \"transmission\"",
+      "run_date": "2026-11-02",
+      "search_date": "2026-11-02",
+      "audit_group": "science_climate"
+    },
+    {
+      "batch": 3,
+      "query": "\"Nature Climate Change\" \"electricity\" \"2025\" \"2026\" -site:link.springer.com",
+      "run_date": "2026-11-02",
+      "search_date": "2026-11-02",
+      "audit_group": "science_climate"
+    },
+    {
+      "batch": 4,
+      "query": "\"Sustainable urban transformations based on integrated microgrid designs\"",
+      "run_date": "2026-11-02",
+      "search_date": "2026-11-02",
+      "audit_group": "science_climate"
+    },
+    {
+      "batch": 4,
+      "query": "\"Science Advances\" \"electricity\" \"2025\" emissions market",
+      "run_date": "2026-11-02",
+      "search_date": "2026-11-02",
+      "audit_group": "science_climate"
+    },
+    {
+      "batch": 4,
+      "query": "\"Science Advances\" \"2026\" \"renewable\" grid systems",
+      "run_date": "2026-11-02",
+      "search_date": "2026-11-02",
+      "audit_group": "science_climate"
+    },
+    {
+      "batch": 4,
+      "query": "\"Nature Sustainability\" \"2025\" \"grid\" -coal -ownership -servers",
+      "run_date": "2026-11-02",
+      "search_date": "2026-11-02",
+      "audit_group": "science_climate"
+    },
+    {
+      "batch": 5,
+      "query": "\"Repositioning coal power to accelerate net-zero transition of China’s power system\"",
+      "run_date": "2026-11-02",
+      "search_date": "2026-11-02",
+      "audit_group": "science_climate"
+    },
+    {
+      "batch": 5,
+      "query": "\"Cross-border electricity tariffs undermine power system efficiency\"",
+      "run_date": "2026-11-02",
+      "search_date": "2026-11-02",
+      "audit_group": "science_climate"
+    },
+    {
+      "batch": 5,
+      "query": "\"concentrations of energy poverty\" \"Science Advances\"",
+      "run_date": "2026-11-02",
+      "search_date": "2026-11-02",
+      "audit_group": "science_climate"
+    },
+    {
+      "batch": 5,
+      "query": "\"Sustainable urban transformations based on integrated microgrid designs\"",
+      "run_date": "2026-11-02",
+      "search_date": "2026-11-02",
+      "audit_group": "science_climate"
+    },
+    {
+      "batch": 6,
+      "query": "\"Science Advances\" \"2026\" electricity -catalyst -electrode -thermoelectric -harvesting -membrane",
+      "run_date": "2026-11-02",
+      "search_date": "2026-11-02",
+      "audit_group": "science_climate"
+    },
+    {
+      "batch": 6,
+      "query": "\"Science Advances\" \"2025\" grid electricity reliability",
+      "run_date": "2026-11-02",
+      "search_date": "2026-11-02",
+      "audit_group": "science_climate"
+    },
+    {
+      "batch": 6,
+      "query": "\"Nature Climate Change\" \"2024\" grid electricity power system",
+      "run_date": "2026-11-02",
+      "search_date": "2026-11-02",
+      "audit_group": "science_climate"
+    },
+    {
+      "batch": 6,
+      "query": "\"Nature Climate Change\" \"2026\" power system transmission demand",
+      "run_date": "2026-11-02",
+      "search_date": "2026-11-02",
+      "audit_group": "science_climate"
+    },
+    {
+      "batch": 7,
+      "query": "site:science.org/doi/10.1126/sciadv \"power grid\" after:2023-12-31",
+      "run_date": "2026-11-02",
+      "search_date": "2026-11-02",
+      "audit_group": "science_climate"
+    },
+    {
+      "batch": 7,
+      "query": "site:science.org/doi/10.1126/sciadv \"electricity market\" after:2023-12-31",
+      "run_date": "2026-11-02",
+      "search_date": "2026-11-02",
+      "audit_group": "science_climate"
+    },
+    {
+      "batch": 7,
+      "query": "site:science.org/doi/10.1126/sciadv \"power systems\" after:2023-12-31",
+      "run_date": "2026-11-02",
+      "search_date": "2026-11-02",
+      "audit_group": "science_climate"
+    },
+    {
+      "batch": 7,
+      "query": "\"Science Advances\" \"energy\" \"aea1569\"",
+      "run_date": "2026-11-02",
+      "search_date": "2026-11-02",
+      "audit_group": "science_climate"
+    },
+    {
+      "batch": 8,
+      "query": "\"Science Advances\" \"electricity\" \"2024\" system -site:spj.science.org",
+      "run_date": "2026-11-02",
+      "search_date": "2026-11-02",
+      "audit_group": "science_climate"
+    },
+    {
+      "batch": 8,
+      "query": "\"Science Advances\" \"grid\" \"2025\" -site:spj.science.org -catalyst -battery",
+      "run_date": "2026-11-02",
+      "search_date": "2026-11-02",
+      "audit_group": "science_climate"
+    },
+    {
+      "batch": 8,
+      "query": "\"Science Advances\" \"power\" \"2026\" \"energy system\" -site:spj.science.org",
+      "run_date": "2026-11-02",
+      "search_date": "2026-11-02",
+      "audit_group": "science_climate"
+    },
+    {
+      "batch": 8,
+      "query": "\"Climate change will impact the value and optimal adoption of residential rooftop solar\"",
+      "run_date": "2026-11-02",
+      "search_date": "2026-11-02",
+      "audit_group": "science_climate"
+    },
+    {
+      "batch": 9,
+      "query": "\"Science Advances\" electricity \"2025\" \"power grid\"",
+      "run_date": "2026-11-02",
+      "search_date": "2026-11-02",
+      "audit_group": "science_climate"
+    },
+    {
+      "batch": 9,
+      "query": "\"Science Advances\" electricity \"2024\" \"power grid\"",
+      "run_date": "2026-11-02",
+      "search_date": "2026-11-02",
+      "audit_group": "science_climate"
+    },
+    {
+      "batch": 9,
+      "query": "\"Science Advances\" electricity \"2026\" transmission distribution",
+      "run_date": "2026-11-02",
+      "search_date": "2026-11-02",
+      "audit_group": "science_climate"
+    },
+    {
+      "batch": 9,
+      "query": "\"Science Advances\" \"aea1569\"",
+      "run_date": "2026-11-02",
+      "search_date": "2026-11-02",
+      "audit_group": "science_climate"
+    },
+    {
+      "batch": 10,
+      "query": "\"US federal resource allocations are inconsistent\" abstract",
+      "run_date": "2026-11-02",
+      "search_date": "2026-11-02",
+      "audit_group": "science_climate"
+    },
+    {
+      "batch": 10,
+      "query": "\"Trading off regional and overall energy system design flexibility in the net-zero transition\"",
+      "run_date": "2026-11-02",
+      "search_date": "2026-11-02",
+      "audit_group": "science_climate"
+    },
+    {
+      "batch": 10,
+      "query": "\"Science Advances\" \"transmission grid\" 2024 2025 2026",
+      "run_date": "2026-11-02",
+      "search_date": "2026-11-02",
+      "audit_group": "science_climate"
+    },
+    {
+      "batch": 10,
+      "query": "\"Science Advances\" \"electricity\" \"blackout\" 2024 2025 2026",
+      "run_date": "2026-11-02",
+      "search_date": "2026-11-02",
+      "audit_group": "science_climate"
+    },
+    {
+      "batch": 11,
+      "query": "\"Science Advances\" \"renewable energy\" \"storage\" \"2025\" -battery -electrode",
+      "run_date": "2026-11-02",
+      "search_date": "2026-11-02",
+      "audit_group": "science_climate"
+    },
+    {
+      "batch": 11,
+      "query": "\"Science Advances\" \"renewable energy\" \"storage\" \"2024\" -battery -electrode",
+      "run_date": "2026-11-02",
+      "search_date": "2026-11-02",
+      "audit_group": "science_climate"
+    },
+    {
+      "batch": 11,
+      "query": "\"Science Advances\" \"power grid\" \"2026\" -wood -veneer -insulation",
+      "run_date": "2026-11-02",
+      "search_date": "2026-11-02",
+      "audit_group": "science_climate"
+    },
+    {
+      "batch": 11,
+      "query": "\"Science Advances\" \"power\" \"synchronization\" 2024 2025 2026",
+      "run_date": "2026-11-02",
+      "search_date": "2026-11-02",
+      "audit_group": "science_climate"
+    },
+    {
+      "batch": 12,
+      "query": "\"Frequency Synchronization Induced by Frequency Detuning\" power grid",
+      "run_date": "2026-11-02",
+      "search_date": "2026-11-02",
+      "audit_group": "science_climate"
+    },
+    {
+      "batch": 12,
+      "query": "\"Noise-enhanced stability in synchronized systems\" \"power\"",
+      "run_date": "2026-11-02",
+      "search_date": "2026-11-02",
+      "audit_group": "science_climate"
+    },
+    {
+      "batch": 12,
+      "query": "\"Integrated planning of net-zero power systems for all\" journal",
+      "run_date": "2026-11-02",
+      "search_date": "2026-11-02",
+      "audit_group": "science_climate"
+    },
+    {
+      "batch": 12,
+      "query": "\"Science Advances\" \"power grids\" \"2024\" \"2025\" \"2026\" -wood -veneer -2022",
+      "run_date": "2026-11-02",
+      "search_date": "2026-11-02",
+      "audit_group": "science_climate"
+    },
+    {
+      "batch": 13,
+      "query": "\"Nature Climate Change\" \"electricity\" \"2025\" -rooftop -facade -façade -wildfire -wind -battery",
+      "run_date": "2026-11-02",
+      "search_date": "2026-11-02",
+      "audit_group": "science_climate"
+    },
+    {
+      "batch": 13,
+      "query": "\"Nature Climate Change\" \"power\" \"2024\" -solar -photovoltaic -grid -author -carbon",
+      "run_date": "2026-11-02",
+      "search_date": "2026-11-02",
+      "audit_group": "science_climate"
+    },
+    {
+      "batch": 13,
+      "query": "\"Nature Sustainability\" \"2025\" \"electricity\" -decarbonization -price -server",
+      "run_date": "2026-11-02",
+      "search_date": "2026-11-02",
+      "audit_group": "science_climate"
+    },
+    {
+      "batch": 13,
+      "query": "\"Nature Sustainability\" \"2026\" \"transmission\" -land",
+      "run_date": "2026-11-02",
+      "search_date": "2026-11-02",
+      "audit_group": "science_climate"
+    },
+    {
+      "batch": 14,
+      "query": "\"Nature Sustainability\" (\"unlearning\" OR \"data deletion\" OR \"machine forgetting\") electricity",
+      "run_date": "2026-11-02",
+      "search_date": "2026-11-02",
+      "audit_group": "science_climate"
+    },
+    {
+      "batch": 14,
+      "query": "\"Nature Climate Change\" (\"unlearning\" OR \"concept erasure\" OR \"machine forgetting\") electricity",
+      "run_date": "2026-11-02",
+      "search_date": "2026-11-02",
+      "audit_group": "science_climate"
+    },
+    {
+      "batch": 14,
+      "query": "\"Science Advances\" (\"unlearning\" OR \"data deletion\" OR \"machine forgetting\") \"grid\"",
+      "run_date": "2026-11-02",
+      "search_date": "2026-11-02",
+      "audit_group": "science_climate"
+    },
+    {
+      "batch": 14,
+      "query": "\"Science Advances\" (\"unlearning\" OR \"forgetting\") \"power\"",
+      "run_date": "2026-11-02",
+      "search_date": "2026-11-02",
+      "audit_group": "science_climate"
+    },
+    {
+      "batch": 15,
+      "query": "\"Nature Cities\" \"2026\" \"08 October\" \"grid\"",
+      "run_date": "2026-11-02",
+      "search_date": "2026-11-02",
+      "audit_group": "science_climate"
+    },
+    {
+      "batch": 15,
+      "query": "\"Nature Cities\" \"power grid\" \"topology\"",
+      "run_date": "2026-11-02",
+      "search_date": "2026-11-02",
+      "audit_group": "science_climate"
+    },
+    {
+      "batch": 15,
+      "query": "\"Nature Cities\" \"electricity\" 2026",
+      "run_date": "2026-11-02",
+      "search_date": "2026-11-02",
+      "audit_group": "science_climate"
+    },
+    {
+      "batch": 15,
+      "query": "\"Nature Cities\" \"power\" \"network\" \"2026\"",
+      "run_date": "2026-11-02",
+      "search_date": "2026-11-02",
+      "audit_group": "science_climate"
+    },
+    {
+      "batch": 16,
+      "query": "\"Nature Cities\" \"electricity in African cities\"",
+      "run_date": "2026-11-02",
+      "search_date": "2026-11-02",
+      "audit_group": "science_climate"
+    },
+    {
+      "batch": 16,
+      "query": "\"Nature Cities\" \"power quality\" 2025",
+      "run_date": "2026-11-02",
+      "search_date": "2026-11-02",
+      "audit_group": "science_climate"
+    },
+    {
+      "batch": 16,
+      "query": "\"Nature Cities\" \"power outages\" 2024 2025 2026",
+      "run_date": "2026-11-02",
+      "search_date": "2026-11-02",
+      "audit_group": "science_climate"
+    },
+    {
+      "batch": 16,
+      "query": "\"Nature Cities\" \"microgrid\" 2024 2025 2026",
+      "run_date": "2026-11-02",
+      "search_date": "2026-11-02",
+      "audit_group": "science_climate"
+    },
+    {
+      "batch": 17,
+      "query": "\"Divergent humidity-driven growth in urban air-conditioning energy demand under climate change\"",
+      "run_date": "2026-11-02",
+      "search_date": "2026-11-02",
+      "audit_group": "science_climate"
+    },
+    {
+      "query": "site:nature.com/articles/s42256 \"power\" \"2026\" grid",
+      "search_date": "2026-11-02",
+      "audit_group": "extensions"
+    },
+    {
+      "query": "site:nature.com/articles/s43588 \"electricity\" 2024 2025 2026",
+      "search_date": "2026-11-02",
+      "audit_group": "extensions"
+    },
+    {
+      "query": "site:nature.com/articles/s44172 \"grid\" \"2026\"",
+      "search_date": "2026-11-02",
+      "audit_group": "extensions"
+    },
+    {
+      "query": "\"Learning and Unlearning to Operate Profitable Secure Electric Vehicle Charging\"",
+      "search_date": "2026-11-02",
+      "audit_group": "extensions"
+    },
+    {
+      "query": "site:nature.com/articles/s42256 (\"electric grid\" OR \"power grid\" OR \"power systems\") after:2024-01-01 before:2026-11-03",
+      "search_date": "2026-11-02",
+      "audit_group": "extensions"
+    },
+    {
+      "query": "site:nature.com/articles/s43588 (\"power grid\" OR \"power systems\" OR \"electricity\") after:2024-01-01 before:2026-11-03",
+      "search_date": "2026-11-02",
+      "audit_group": "extensions"
+    },
+    {
+      "query": "site:nature.com/articles/s41928 (\"power grid\" OR \"microgrid\" OR \"electricity grid\") after:2024-01-01 before:2026-11-03",
+      "search_date": "2026-11-02",
+      "audit_group": "extensions"
+    },
+    {
+      "query": "site:nature.com/articles/s41567 (\"power grid\" OR \"power grids\" OR \"electricity\") after:2024-01-01 before:2026-11-03",
+      "search_date": "2026-11-02",
+      "audit_group": "extensions"
+    },
+    {
+      "query": "site:nature.com/articles/s44172 \"power\" \"2024\" grid",
+      "search_date": "2026-11-02",
+      "audit_group": "extensions"
+    },
+    {
+      "query": "site:nature.com/articles/s44172 \"grid\" \"2025\"",
+      "search_date": "2026-11-02",
+      "audit_group": "extensions"
+    },
+    {
+      "query": "site:nature.com/articles/s44287 \"power\" \"2026\"",
+      "search_date": "2026-11-02",
+      "audit_group": "extensions"
+    },
+    {
+      "query": "site:nature.com/articles/s44287 \"grid\" \"2024\" \"2025\"",
+      "search_date": "2026-11-02",
+      "audit_group": "extensions"
+    },
+    {
+      "query": "site:nature.com/articles/s44287-026 \"buildings\" grid",
+      "search_date": "2026-11-02",
+      "audit_group": "extensions"
+    },
+    {
+      "query": "site:nature.com/articles/s44287-024 \"power\" electricity grid",
+      "search_date": "2026-11-02",
+      "audit_group": "extensions"
+    },
+    {
+      "query": "site:nature.com/articles/s44287-025 \"power\" grid review -quantum -sensors",
+      "search_date": "2026-11-02",
+      "audit_group": "extensions"
+    },
+    {
+      "query": "site:ieeexplore.ieee.org \"10541863\" \"Stage\"",
+      "search_date": "2026-11-02",
+      "audit_group": "extensions"
+    },
+    {
+      "query": "\"machine unlearning\" \"power\" 2026",
+      "search_date": "2026-11-02",
+      "audit_group": "extensions"
+    },
+    {
+      "query": "\"federated unlearning\" (\"grid\" OR \"load forecasting\") 2025 2026",
+      "search_date": "2026-11-02",
+      "audit_group": "extensions"
+    },
+    {
+      "query": "(\"concept erasure\" OR \"selective forgetting\" OR \"knowledge removal\") (\"power grid\" OR \"electricity\")",
+      "search_date": "2026-11-02",
+      "audit_group": "extensions"
+    },
+    {
+      "query": "\"Learning and Unlearning to Operate Profitable Secure Electric Vehicle Charging\" abstract",
+      "search_date": "2026-11-02",
+      "audit_group": "extensions"
+    },
+    {
+      "query": "site:nature.com/articles/s42256 (unlearning OR forgetting OR erasure) 2026",
+      "search_date": "2026-11-02",
+      "audit_group": "extensions"
+    },
+    {
+      "query": "site:nature.com (unlearning OR \"concept erasure\" OR \"knowledge removal\") (\"electricity\" OR \"power grid\" OR \"load forecasting\")",
+      "search_date": "2026-11-02",
+      "audit_group": "extensions"
+    },
+    {
+      "query": "\"Sequential Federated Unlearning for Distributed Electricity Load Forecasting\" paper",
+      "search_date": "2026-11-02",
+      "audit_group": "extensions"
+    },
+    {
+      "query": "\"3396524\" abstract Choi",
+      "search_date": "2026-11-02",
+      "audit_group": "extensions"
+    },
+    {
+      "query": "site:ieeexplore.ieee.org/document/10541863 \"charging\"",
+      "search_date": "2026-11-02",
+      "audit_group": "extensions"
+    },
+    {
+      "query": "\"10.1109/TII.2024.3396524\"",
+      "search_date": "2026-11-02",
+      "audit_group": "extensions"
+    },
+    {
+      "query": "\"unlearning\" \"Nature Computational Science\"",
+      "search_date": "2026-11-02",
+      "audit_group": "extensions"
+    },
+    {
+      "query": "\"unlearning\" \"Nature Machine Intelligence\" 2026 2024",
+      "search_date": "2026-11-02",
+      "audit_group": "extensions"
+    },
+    {
+      "query": "\"Nature Physics\" (\"power grid\" OR \"power grids\") (\"2024\" OR \"2025\" OR \"2026\")",
+      "search_date": "2026-11-02",
+      "audit_group": "extensions"
+    },
+    {
+      "query": "\"Nature Electronics\" (\"electricity grid\" OR \"power grid\" OR \"microgrid\") (\"2024\" OR \"2025\" OR \"2026\")",
+      "search_date": "2026-11-02",
+      "audit_group": "extensions"
+    },
+    {
+      "query": "\"Nature Computational Science\" (\"power system\" OR \"electricity\" OR \"smart grid\") (\"2024\" OR \"2025\" OR \"2026\")",
+      "search_date": "2026-11-02",
+      "audit_group": "extensions"
+    },
+    {
+      "query": "\"Nature Machine Intelligence\" (\"power grid\" OR \"load forecasting\" OR \"energy systems\") (\"2024\" OR \"2025\" OR \"2026\")",
+      "search_date": "2026-11-02",
+      "audit_group": "extensions"
+    },
+    {
+      "query": "site:nature.com/articles/s41928-026 \"data\" \"power\"",
+      "search_date": "2026-11-02",
+      "audit_group": "extensions"
+    },
+    {
+      "query": "site:nature.com/articles/s41928-025 \"grid\"",
+      "search_date": "2026-11-02",
+      "audit_group": "extensions"
+    },
+    {
+      "query": "site:nature.com/articles/s41567-024 \"grid\"",
+      "search_date": "2026-11-02",
+      "audit_group": "extensions"
+    },
+    {
+      "query": "site:nature.com/articles/s43588 \"electricity\"",
+      "search_date": "2026-11-02",
+      "audit_group": "extensions"
+    },
+    {
+      "query": "\"Nature Electronics\" \"07 October 2026\" data",
+      "search_date": "2026-11-02",
+      "audit_group": "extensions"
+    },
+    {
+      "query": "\"Software-defined electric vehicle chargers enabling more connective and flexible micro-grids\"",
+      "search_date": "2026-11-02",
+      "audit_group": "extensions"
+    },
+    {
+      "query": "site:nature.com/articles/s43588 \"power system\"",
+      "search_date": "2026-11-02",
+      "audit_group": "extensions"
+    },
+    {
+      "query": "site:nature.com/articles/s42256 \"load forecasting\"",
+      "search_date": "2026-11-02",
+      "audit_group": "extensions"
+    },
+    {
+      "query": "\"Learning and Unlearning\" \"Choi\" pdf",
+      "search_date": "2026-11-02",
+      "audit_group": "extensions"
+    },
+    {
+      "query": "\"Learning and Unlearning to Operate\" site:cau.ac.kr",
+      "search_date": "2026-11-02",
+      "audit_group": "extensions"
+    },
+    {
+      "query": "\"Learning and Unlearning to Operate\" site:ieeexplore.ieee.org/abstract",
+      "search_date": "2026-11-02",
+      "audit_group": "extensions"
+    },
+    {
+      "query": "\"machine unlearning\" \"load forecasting\" 2026 site:ieeexplore.ieee.org",
+      "search_date": "2026-11-02",
+      "audit_group": "extensions"
+    },
+    {
+      "query": "site:nature.com/articles/s41467-024 \"demand response\"",
+      "search_date": "2026-11-02",
+      "audit_group": "nc_supplement"
+    },
+    {
+      "query": "site:nature.com/articles/s41467-025 \"demand response\"",
+      "search_date": "2026-11-02",
+      "audit_group": "nc_supplement"
+    },
+    {
+      "query": "site:nature.com/articles/s41467-026 \"electricity market\"",
+      "search_date": "2026-11-02",
+      "audit_group": "nc_supplement"
+    },
+    {
+      "query": "site:nature.com/articles/s41467-024 \"microgrid\"",
+      "search_date": "2026-11-02",
+      "audit_group": "nc_supplement"
+    },
+    {
+      "query": "site:nature.com/articles/s41467-024 \"electricity\" \"tariff\"",
+      "search_date": "2026-11-02",
+      "audit_group": "nc_supplement"
+    },
+    {
+      "query": "site:nature.com/articles/s41467-024 \"demand-side\"",
+      "search_date": "2026-11-02",
+      "audit_group": "nc_supplement"
+    },
+    {
+      "query": "site:nature.com/articles/s41467-024 \"power\" \"market\" -materials -catalyst",
+      "search_date": "2026-11-02",
+      "audit_group": "nc_supplement"
+    },
+    {
+      "query": "site:nature.com/articles/s41467-025 \"demand flexibility\"",
+      "search_date": "2026-11-02",
+      "audit_group": "nc_supplement"
+    }
+  ],
+  "query_entry_count": 221,
+  "note": "实际网页查询记录；跨组可有重复，不代表独立数据库检索次数。打开原文和主题页的链接另见search_audits。"
+}

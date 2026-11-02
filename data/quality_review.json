@@ -1,357 +1,361 @@
 {
-  "review_date": "2026-11-02",
-  "reviewer": "science_sustainability independent agent",
-  "files_reviewed": [
-    "work/nature_communications.json",
-    "work/nc_evidence.json"
-  ],
-  "n_records": 28,
-  "all_titles_in_evidence": true,
-  "all_dates_match": true,
-  "outcome": "通过实质核查；未发现标题/日期错误、数字夸大或直接遗忘假阳性。仅有两项措辞改善建议。",
-  "checks": [
-    {
-      "index": 1,
-      "doi": "10.1038/s41467-024-48860-7",
-      "title_present_in_publisher_evidence": true,
-      "recorded_date": "2024-05-27",
-      "publisher_date": "2024-05-27",
-      "date_matches": true,
-      "abstract_review": "人工逐篇比对保存证据中的原始摘要；概述实质一致",
-      "grid_relevance": "符合已标注的直接/系统级/算例边界",
-      "unlearning_review": "未发现把邻近机器学习、隐私保护或物理控制误判为直接遗忘"
-    },
-    {
-      "index": 2,
-      "doi": "10.1038/s41467-024-48862-5",
-      "title_present_in_publisher_evidence": true,
-      "recorded_date": "2024-05-29",
-      "publisher_date": "2024-05-29",
-      "date_matches": true,
-      "abstract_review": "人工逐篇比对保存证据中的原始摘要；概述实质一致",
-      "grid_relevance": "符合已标注的直接/系统级/算例边界",
-      "unlearning_review": "未发现把邻近机器学习、隐私保护或物理控制误判为直接遗忘"
-    },
-    {
-      "index": 3,
-      "doi": "10.1038/s41467-024-53274-6",
-      "title_present_in_publisher_evidence": true,
-      "recorded_date": "2024-11-03",
-      "publisher_date": "2024-11-03",
-      "date_matches": true,
-      "abstract_review": "人工逐篇比对保存证据中的原始摘要；概述实质一致",
-      "grid_relevance": "符合已标注的直接/系统级/算例边界",
-      "unlearning_review": "未发现把邻近机器学习、隐私保护或物理控制误判为直接遗忘"
-    },
-    {
-      "index": 4,
-      "doi": "10.1038/s41467-024-48554-0",
-      "title_present_in_publisher_evidence": true,
-      "recorded_date": "2024-05-16",
-      "publisher_date": "2024-05-16",
-      "date_matches": true,
-      "abstract_review": "人工逐篇比对保存证据中的原始摘要；概述实质一致",
-      "grid_relevance": "符合已标注的直接/系统级/算例边界",
-      "unlearning_review": "未发现把邻近机器学习、隐私保护或物理控制误判为直接遗忘"
-    },
-    {
-      "index": 5,
-      "doi": "10.1038/s41467-024-54162-9",
-      "title_present_in_publisher_evidence": true,
-      "recorded_date": "2024-11-25",
-      "publisher_date": "2024-11-25",
-      "date_matches": true,
-      "abstract_review": "人工逐篇比对保存证据中的原始摘要；概述实质一致",
-      "grid_relevance": "符合已标注的直接/系统级/算例边界",
-      "unlearning_review": "未发现把邻近机器学习、隐私保护或物理控制误判为直接遗忘"
-    },
-    {
-      "index": 6,
-      "doi": "10.1038/s41467-025-59749-4",
-      "title_present_in_publisher_evidence": true,
-      "recorded_date": "2025-06-02",
-      "publisher_date": "2025-06-02",
-      "date_matches": true,
-      "abstract_review": "人工逐篇比对保存证据中的原始摘要；概述实质一致",
-      "grid_relevance": "符合已标注的直接/系统级/算例边界",
-      "unlearning_review": "未发现把邻近机器学习、隐私保护或物理控制误判为直接遗忘"
-    },
-    {
-      "index": 7,
-      "doi": "10.1038/s41467-026-72681-5",
-      "title_present_in_publisher_evidence": true,
-      "recorded_date": "2026-05-09",
-      "publisher_date": "2026-05-09",
-      "date_matches": true,
-      "abstract_review": "人工逐篇比对保存证据中的原始摘要；概述实质一致",
-      "grid_relevance": "符合已标注的直接/系统级/算例边界",
-      "unlearning_review": "未发现把邻近机器学习、隐私保护或物理控制误判为直接遗忘"
-    },
-    {
-      "index": 8,
-      "doi": "10.1038/s41467-026-71123-6",
-      "title_present_in_publisher_evidence": true,
-      "recorded_date": "2026-04-07",
-      "publisher_date": "2026-04-07",
-      "date_matches": true,
-      "abstract_review": "人工逐篇比对保存证据中的原始摘要；概述实质一致",
-      "grid_relevance": "符合已标注的直接/系统级/算例边界",
-      "unlearning_review": "未发现把邻近机器学习、隐私保护或物理控制误判为直接遗忘"
-    },
-    {
-      "index": 9,
-      "doi": "10.1038/s41467-025-59879-9",
-      "title_present_in_publisher_evidence": true,
-      "recorded_date": "2025-05-15",
-      "publisher_date": "2025-05-15",
-      "date_matches": true,
-      "abstract_review": "人工逐篇比对保存证据中的原始摘要；概述实质一致",
-      "grid_relevance": "符合已标注的直接/系统级/算例边界",
-      "unlearning_review": "未发现把邻近机器学习、隐私保护或物理控制误判为直接遗忘"
-    },
-    {
-      "index": 10,
-      "doi": "10.1038/s41467-025-59126-1",
-      "title_present_in_publisher_evidence": true,
-      "recorded_date": "2025-04-22",
-      "publisher_date": "2025-04-22",
-      "date_matches": true,
-      "abstract_review": "人工逐篇比对保存证据中的原始摘要；概述实质一致",
-      "grid_relevance": "符合已标注的直接/系统级/算例边界",
-      "unlearning_review": "未发现把邻近机器学习、隐私保护或物理控制误判为直接遗忘"
-    },
-    {
-      "index": 11,
-      "doi": "10.1038/s41467-025-57292-w",
-      "title_present_in_publisher_evidence": true,
-      "recorded_date": "2025-03-03",
-      "publisher_date": "2025-03-03",
-      "date_matches": true,
-      "abstract_review": "人工逐篇比对保存证据中的原始摘要；概述实质一致",
-      "grid_relevance": "符合已标注的直接/系统级/算例边界",
-      "unlearning_review": "未发现把邻近机器学习、隐私保护或物理控制误判为直接遗忘"
-    },
-    {
-      "index": 12,
-      "doi": "10.1038/s41467-026-76799-4",
-      "title_present_in_publisher_evidence": true,
-      "recorded_date": "2026-08-17",
-      "publisher_date": "2026-08-17",
-      "date_matches": true,
-      "abstract_review": "人工逐篇比对保存证据中的原始摘要；概述实质一致",
-      "grid_relevance": "符合已标注的直接/系统级/算例边界",
-      "unlearning_review": "未发现把邻近机器学习、隐私保护或物理控制误判为直接遗忘"
-    },
-    {
-      "index": 13,
-      "doi": "10.1038/s41467-024-54853-3",
-      "title_present_in_publisher_evidence": true,
-      "recorded_date": "2024-12-16",
-      "publisher_date": "2024-12-16",
-      "date_matches": true,
-      "abstract_review": "人工逐篇比对保存证据中的原始摘要；概述实质一致",
-      "grid_relevance": "符合已标注的直接/系统级/算例边界",
-      "unlearning_review": "未发现把邻近机器学习、隐私保护或物理控制误判为直接遗忘"
-    },
-    {
-      "index": 14,
-      "doi": "10.1038/s41467-026-76692-0",
-      "title_present_in_publisher_evidence": true,
-      "recorded_date": "2026-08-17",
-      "publisher_date": "2026-08-17",
-      "date_matches": true,
-      "abstract_review": "人工逐篇比对保存证据中的原始摘要；概述实质一致",
-      "grid_relevance": "符合已标注的直接/系统级/算例边界",
-      "unlearning_review": "未发现把邻近机器学习、隐私保护或物理控制误判为直接遗忘"
-    },
-    {
-      "index": 15,
-      "doi": "10.1038/s41467-026-69015-w",
-      "title_present_in_publisher_evidence": true,
-      "recorded_date": "2026-02-28",
-      "publisher_date": "2026-02-28",
-      "date_matches": true,
-      "abstract_review": "人工逐篇比对保存证据中的原始摘要；概述实质一致",
-      "grid_relevance": "符合已标注的直接/系统级/算例边界",
-      "unlearning_review": "未发现把邻近机器学习、隐私保护或物理控制误判为直接遗忘"
-    },
-    {
-      "index": 16,
-      "doi": "10.1038/s41467-025-63143-5",
-      "title_present_in_publisher_evidence": true,
-      "recorded_date": "2025-08-28",
-      "publisher_date": "2025-08-28",
-      "date_matches": true,
-      "abstract_review": "人工逐篇比对保存证据中的原始摘要；概述实质一致",
-      "grid_relevance": "符合已标注的直接/系统级/算例边界",
-      "unlearning_review": "未发现把邻近机器学习、隐私保护或物理控制误判为直接遗忘"
-    },
-    {
-      "index": 17,
-      "doi": "10.1038/s41467-024-45313-z",
-      "title_present_in_publisher_evidence": true,
-      "recorded_date": "2024-02-05",
-      "publisher_date": "2024-02-05",
-      "date_matches": true,
-      "abstract_review": "人工逐篇比对保存证据中的原始摘要；概述实质一致",
-      "grid_relevance": "符合已标注的直接/系统级/算例边界",
-      "unlearning_review": "未发现把邻近机器学习、隐私保护或物理控制误判为直接遗忘"
-    },
-    {
-      "index": 18,
-      "doi": "10.1038/s41467-024-48966-y",
-      "title_present_in_publisher_evidence": true,
-      "recorded_date": "2024-06-18",
-      "publisher_date": "2024-06-18",
-      "date_matches": true,
-      "abstract_review": "人工逐篇比对保存证据中的原始摘要；概述实质一致",
-      "grid_relevance": "符合已标注的直接/系统级/算例边界",
-      "unlearning_review": "未发现把邻近机器学习、隐私保护或物理控制误判为直接遗忘"
-    },
-    {
-      "index": 19,
-      "doi": "10.1038/s41467-024-50040-6",
-      "title_present_in_publisher_evidence": true,
-      "recorded_date": "2024-08-09",
-      "publisher_date": "2024-08-09",
-      "date_matches": true,
-      "abstract_review": "人工逐篇比对保存证据中的原始摘要；概述实质一致",
-      "grid_relevance": "符合已标注的直接/系统级/算例边界",
-      "unlearning_review": "未发现把邻近机器学习、隐私保护或物理控制误判为直接遗忘"
-    },
-    {
-      "index": 20,
-      "doi": "10.1038/s41467-024-50762-7",
-      "title_present_in_publisher_evidence": true,
-      "recorded_date": "2024-08-06",
-      "publisher_date": "2024-08-06",
-      "date_matches": true,
-      "abstract_review": "人工逐篇比对保存证据中的原始摘要；概述实质一致",
-      "grid_relevance": "符合已标注的直接/系统级/算例边界",
-      "unlearning_review": "未发现把邻近机器学习、隐私保护或物理控制误判为直接遗忘"
-    },
-    {
-      "index": 21,
-      "doi": "10.1038/s41467-026-75879-9",
-      "title_present_in_publisher_evidence": true,
-      "recorded_date": "2026-07-24",
-      "publisher_date": "2026-07-24",
-      "date_matches": true,
-      "abstract_review": "人工逐篇比对保存证据中的原始摘要；概述实质一致",
-      "grid_relevance": "符合已标注的直接/系统级/算例边界",
-      "unlearning_review": "未发现把邻近机器学习、隐私保护或物理控制误判为直接遗忘"
-    },
-    {
-      "index": 22,
-      "doi": "10.1038/s41467-026-73427-z",
-      "title_present_in_publisher_evidence": true,
-      "recorded_date": "2026-05-26",
-      "publisher_date": "2026-05-26",
-      "date_matches": true,
-      "abstract_review": "人工逐篇比对保存证据中的原始摘要；概述实质一致",
-      "grid_relevance": "符合已标注的直接/系统级/算例边界",
-      "unlearning_review": "未发现把邻近机器学习、隐私保护或物理控制误判为直接遗忘"
-    },
-    {
-      "index": 23,
-      "doi": "10.1038/s41467-025-65970-y",
-      "title_present_in_publisher_evidence": true,
-      "recorded_date": "2025-12-05",
-      "publisher_date": "2025-12-05",
-      "date_matches": true,
-      "abstract_review": "人工逐篇比对保存证据中的原始摘要；概述实质一致",
-      "grid_relevance": "符合已标注的直接/系统级/算例边界",
-      "unlearning_review": "未发现把邻近机器学习、隐私保护或物理控制误判为直接遗忘"
-    },
-    {
-      "index": 24,
-      "doi": "10.1038/s41467-024-46852-1",
-      "title_present_in_publisher_evidence": true,
-      "recorded_date": "2024-03-20",
-      "publisher_date": "2024-03-20",
-      "date_matches": true,
-      "abstract_review": "人工逐篇比对保存证据中的原始摘要；概述实质一致",
-      "grid_relevance": "符合已标注的直接/系统级/算例边界",
-      "unlearning_review": "未发现把邻近机器学习、隐私保护或物理控制误判为直接遗忘"
-    },
-    {
-      "index": 25,
-      "doi": "10.1038/s41467-025-66604-z",
-      "title_present_in_publisher_evidence": true,
-      "recorded_date": "2025-11-28",
-      "publisher_date": "2025-11-28",
-      "date_matches": true,
-      "abstract_review": "人工逐篇比对保存证据中的原始摘要；概述实质一致",
-      "grid_relevance": "符合已标注的直接/系统级/算例边界",
-      "unlearning_review": "未发现把邻近机器学习、隐私保护或物理控制误判为直接遗忘"
-    },
-    {
-      "index": 26,
-      "doi": "10.1038/s41467-025-68241-y",
-      "title_present_in_publisher_evidence": true,
-      "recorded_date": "2026-01-05",
-      "publisher_date": "2026-01-05",
-      "date_matches": true,
-      "abstract_review": "人工逐篇比对保存证据中的原始摘要；概述实质一致",
-      "grid_relevance": "符合已标注的直接/系统级/算例边界",
-      "unlearning_review": "未发现把邻近机器学习、隐私保护或物理控制误判为直接遗忘"
-    },
-    {
-      "index": 27,
-      "doi": "10.1038/s41467-026-77014-0",
-      "title_present_in_publisher_evidence": true,
-      "recorded_date": "2026-08-21",
-      "publisher_date": "2026-08-21",
-      "date_matches": true,
-      "abstract_review": "人工逐篇比对保存证据中的原始摘要；概述实质一致",
-      "grid_relevance": "符合已标注的直接/系统级/算例边界",
-      "unlearning_review": "未发现把邻近机器学习、隐私保护或物理控制误判为直接遗忘"
-    },
-    {
-      "index": 28,
-      "doi": "10.1038/s41467-024-48964-0",
-      "title_present_in_publisher_evidence": true,
-      "recorded_date": "2024-06-03",
-      "publisher_date": "2024-06-03",
-      "date_matches": true,
-      "abstract_review": "人工逐篇比对保存证据中的原始摘要；概述实质一致",
-      "grid_relevance": "符合已标注的直接/系统级/算例边界",
-      "unlearning_review": "未发现把邻近机器学习、隐私保护或物理控制误判为直接遗忘"
+  "revision": 1,
+  "scope_note": "Historical first-round Nature Communications review only. See quality_review_v2.json for v2.",
+  "review": {
+    "review_date": "2026-11-02",
+    "reviewer": "science_sustainability independent agent",
+    "files_reviewed": [
+      "work/nature_communications.json",
+      "work/nc_evidence.json"
+    ],
+    "n_records": 28,
+    "all_titles_in_evidence": true,
+    "all_dates_match": true,
+    "outcome": "通过实质核查；未发现标题/日期错误、数字夸大或直接遗忘假阳性。仅有两项措辞改善建议。",
+    "checks": [
+      {
+        "index": 1,
+        "doi": "10.1038/s41467-024-48860-7",
+        "title_present_in_publisher_evidence": true,
+        "recorded_date": "2024-05-27",
+        "publisher_date": "2024-05-27",
+        "date_matches": true,
+        "abstract_review": "人工逐篇比对保存证据中的原始摘要；概述实质一致",
+        "grid_relevance": "符合已标注的直接/系统级/算例边界",
+        "unlearning_review": "未发现把邻近机器学习、隐私保护或物理控制误判为直接遗忘"
+      },
+      {
+        "index": 2,
+        "doi": "10.1038/s41467-024-48862-5",
+        "title_present_in_publisher_evidence": true,
+        "recorded_date": "2024-05-29",
+        "publisher_date": "2024-05-29",
+        "date_matches": true,
+        "abstract_review": "人工逐篇比对保存证据中的原始摘要；概述实质一致",
+        "grid_relevance": "符合已标注的直接/系统级/算例边界",
+        "unlearning_review": "未发现把邻近机器学习、隐私保护或物理控制误判为直接遗忘"
+      },
+      {
+        "index": 3,
+        "doi": "10.1038/s41467-024-53274-6",
+        "title_present_in_publisher_evidence": true,
+        "recorded_date": "2024-11-03",
+        "publisher_date": "2024-11-03",
+        "date_matches": true,
+        "abstract_review": "人工逐篇比对保存证据中的原始摘要；概述实质一致",
+        "grid_relevance": "符合已标注的直接/系统级/算例边界",
+        "unlearning_review": "未发现把邻近机器学习、隐私保护或物理控制误判为直接遗忘"
+      },
+      {
+        "index": 4,
+        "doi": "10.1038/s41467-024-48554-0",
+        "title_present_in_publisher_evidence": true,
+        "recorded_date": "2024-05-16",
+        "publisher_date": "2024-05-16",
+        "date_matches": true,
+        "abstract_review": "人工逐篇比对保存证据中的原始摘要；概述实质一致",
+        "grid_relevance": "符合已标注的直接/系统级/算例边界",
+        "unlearning_review": "未发现把邻近机器学习、隐私保护或物理控制误判为直接遗忘"
+      },
+      {
+        "index": 5,
+        "doi": "10.1038/s41467-024-54162-9",
+        "title_present_in_publisher_evidence": true,
+        "recorded_date": "2024-11-25",
+        "publisher_date": "2024-11-25",
+        "date_matches": true,
+        "abstract_review": "人工逐篇比对保存证据中的原始摘要；概述实质一致",
+        "grid_relevance": "符合已标注的直接/系统级/算例边界",
+        "unlearning_review": "未发现把邻近机器学习、隐私保护或物理控制误判为直接遗忘"
+      },
+      {
+        "index": 6,
+        "doi": "10.1038/s41467-025-59749-4",
+        "title_present_in_publisher_evidence": true,
+        "recorded_date": "2025-06-02",
+        "publisher_date": "2025-06-02",
+        "date_matches": true,
+        "abstract_review": "人工逐篇比对保存证据中的原始摘要；概述实质一致",
+        "grid_relevance": "符合已标注的直接/系统级/算例边界",
+        "unlearning_review": "未发现把邻近机器学习、隐私保护或物理控制误判为直接遗忘"
+      },
+      {
+        "index": 7,
+        "doi": "10.1038/s41467-026-72681-5",
+        "title_present_in_publisher_evidence": true,
+        "recorded_date": "2026-05-09",
+        "publisher_date": "2026-05-09",
+        "date_matches": true,
+        "abstract_review": "人工逐篇比对保存证据中的原始摘要；概述实质一致",
+        "grid_relevance": "符合已标注的直接/系统级/算例边界",
+        "unlearning_review": "未发现把邻近机器学习、隐私保护或物理控制误判为直接遗忘"
+      },
+      {
+        "index": 8,
+        "doi": "10.1038/s41467-026-71123-6",
+        "title_present_in_publisher_evidence": true,
+        "recorded_date": "2026-04-07",
+        "publisher_date": "2026-04-07",
+        "date_matches": true,
+        "abstract_review": "人工逐篇比对保存证据中的原始摘要；概述实质一致",
+        "grid_relevance": "符合已标注的直接/系统级/算例边界",
+        "unlearning_review": "未发现把邻近机器学习、隐私保护或物理控制误判为直接遗忘"
+      },
+      {
+        "index": 9,
+        "doi": "10.1038/s41467-025-59879-9",
+        "title_present_in_publisher_evidence": true,
+        "recorded_date": "2025-05-15",
+        "publisher_date": "2025-05-15",
+        "date_matches": true,
+        "abstract_review": "人工逐篇比对保存证据中的原始摘要；概述实质一致",
+        "grid_relevance": "符合已标注的直接/系统级/算例边界",
+        "unlearning_review": "未发现把邻近机器学习、隐私保护或物理控制误判为直接遗忘"
+      },
+      {
+        "index": 10,
+        "doi": "10.1038/s41467-025-59126-1",
+        "title_present_in_publisher_evidence": true,
+        "recorded_date": "2025-04-22",
+        "publisher_date": "2025-04-22",
+        "date_matches": true,
+        "abstract_review": "人工逐篇比对保存证据中的原始摘要；概述实质一致",
+        "grid_relevance": "符合已标注的直接/系统级/算例边界",
+        "unlearning_review": "未发现把邻近机器学习、隐私保护或物理控制误判为直接遗忘"
+      },
+      {
+        "index": 11,
+        "doi": "10.1038/s41467-025-57292-w",
+        "title_present_in_publisher_evidence": true,
+        "recorded_date": "2025-03-03",
+        "publisher_date": "2025-03-03",
+        "date_matches": true,
+        "abstract_review": "人工逐篇比对保存证据中的原始摘要；概述实质一致",
+        "grid_relevance": "符合已标注的直接/系统级/算例边界",
+        "unlearning_review": "未发现把邻近机器学习、隐私保护或物理控制误判为直接遗忘"
+      },
+      {
+        "index": 12,
+        "doi": "10.1038/s41467-026-76799-4",
+        "title_present_in_publisher_evidence": true,
+        "recorded_date": "2026-08-17",
+        "publisher_date": "2026-08-17",
+        "date_matches": true,
+        "abstract_review": "人工逐篇比对保存证据中的原始摘要；概述实质一致",
+        "grid_relevance": "符合已标注的直接/系统级/算例边界",
+        "unlearning_review": "未发现把邻近机器学习、隐私保护或物理控制误判为直接遗忘"
+      },
+      {
+        "index": 13,
+        "doi": "10.1038/s41467-024-54853-3",
+        "title_present_in_publisher_evidence": true,
+        "recorded_date": "2024-12-16",
+        "publisher_date": "2024-12-16",
+        "date_matches": true,
+        "abstract_review": "人工逐篇比对保存证据中的原始摘要；概述实质一致",
+        "grid_relevance": "符合已标注的直接/系统级/算例边界",
+        "unlearning_review": "未发现把邻近机器学习、隐私保护或物理控制误判为直接遗忘"
+      },
+      {
+        "index": 14,
+        "doi": "10.1038/s41467-026-76692-0",
+        "title_present_in_publisher_evidence": true,
+        "recorded_date": "2026-08-17",
+        "publisher_date": "2026-08-17",
+        "date_matches": true,
+        "abstract_review": "人工逐篇比对保存证据中的原始摘要；概述实质一致",
+        "grid_relevance": "符合已标注的直接/系统级/算例边界",
+        "unlearning_review": "未发现把邻近机器学习、隐私保护或物理控制误判为直接遗忘"
+      },
+      {
+        "index": 15,
+        "doi": "10.1038/s41467-026-69015-w",
+        "title_present_in_publisher_evidence": true,
+        "recorded_date": "2026-02-28",
+        "publisher_date": "2026-02-28",
+        "date_matches": true,
+        "abstract_review": "人工逐篇比对保存证据中的原始摘要；概述实质一致",
+        "grid_relevance": "符合已标注的直接/系统级/算例边界",
+        "unlearning_review": "未发现把邻近机器学习、隐私保护或物理控制误判为直接遗忘"
+      },
+      {
+        "index": 16,
+        "doi": "10.1038/s41467-025-63143-5",
+        "title_present_in_publisher_evidence": true,
+        "recorded_date": "2025-08-28",
+        "publisher_date": "2025-08-28",
+        "date_matches": true,
+        "abstract_review": "人工逐篇比对保存证据中的原始摘要；概述实质一致",
+        "grid_relevance": "符合已标注的直接/系统级/算例边界",
+        "unlearning_review": "未发现把邻近机器学习、隐私保护或物理控制误判为直接遗忘"
+      },
+      {
+        "index": 17,
+        "doi": "10.1038/s41467-024-45313-z",
+        "title_present_in_publisher_evidence": true,
+        "recorded_date": "2024-02-05",
+        "publisher_date": "2024-02-05",
+        "date_matches": true,
+        "abstract_review": "人工逐篇比对保存证据中的原始摘要；概述实质一致",
+        "grid_relevance": "符合已标注的直接/系统级/算例边界",
+        "unlearning_review": "未发现把邻近机器学习、隐私保护或物理控制误判为直接遗忘"
+      },
+      {
+        "index": 18,
+        "doi": "10.1038/s41467-024-48966-y",
+        "title_present_in_publisher_evidence": true,
+        "recorded_date": "2024-06-18",
+        "publisher_date": "2024-06-18",
+        "date_matches": true,
+        "abstract_review": "人工逐篇比对保存证据中的原始摘要；概述实质一致",
+        "grid_relevance": "符合已标注的直接/系统级/算例边界",
+        "unlearning_review": "未发现把邻近机器学习、隐私保护或物理控制误判为直接遗忘"
+      },
+      {
+        "index": 19,
+        "doi": "10.1038/s41467-024-50040-6",
+        "title_present_in_publisher_evidence": true,
+        "recorded_date": "2024-08-09",
+        "publisher_date": "2024-08-09",
+        "date_matches": true,
+        "abstract_review": "人工逐篇比对保存证据中的原始摘要；概述实质一致",
+        "grid_relevance": "符合已标注的直接/系统级/算例边界",
+        "unlearning_review": "未发现把邻近机器学习、隐私保护或物理控制误判为直接遗忘"
+      },
+      {
+        "index": 20,
+        "doi": "10.1038/s41467-024-50762-7",
+        "title_present_in_publisher_evidence": true,
+        "recorded_date": "2024-08-06",
+        "publisher_date": "2024-08-06",
+        "date_matches": true,
+        "abstract_review": "人工逐篇比对保存证据中的原始摘要；概述实质一致",
+        "grid_relevance": "符合已标注的直接/系统级/算例边界",
+        "unlearning_review": "未发现把邻近机器学习、隐私保护或物理控制误判为直接遗忘"
+      },
+      {
+        "index": 21,
+        "doi": "10.1038/s41467-026-75879-9",
+        "title_present_in_publisher_evidence": true,
+        "recorded_date": "2026-07-24",
+        "publisher_date": "2026-07-24",
+        "date_matches": true,
+        "abstract_review": "人工逐篇比对保存证据中的原始摘要；概述实质一致",
+        "grid_relevance": "符合已标注的直接/系统级/算例边界",
+        "unlearning_review": "未发现把邻近机器学习、隐私保护或物理控制误判为直接遗忘"
+      },
+      {
+        "index": 22,
+        "doi": "10.1038/s41467-026-73427-z",
+        "title_present_in_publisher_evidence": true,
+        "recorded_date": "2026-05-26",
+        "publisher_date": "2026-05-26",
+        "date_matches": true,
+        "abstract_review": "人工逐篇比对保存证据中的原始摘要；概述实质一致",
+        "grid_relevance": "符合已标注的直接/系统级/算例边界",
+        "unlearning_review": "未发现把邻近机器学习、隐私保护或物理控制误判为直接遗忘"
+      },
+      {
+        "index": 23,
+        "doi": "10.1038/s41467-025-65970-y",
+        "title_present_in_publisher_evidence": true,
+        "recorded_date": "2025-12-05",
+        "publisher_date": "2025-12-05",
+        "date_matches": true,
+        "abstract_review": "人工逐篇比对保存证据中的原始摘要；概述实质一致",
+        "grid_relevance": "符合已标注的直接/系统级/算例边界",
+        "unlearning_review": "未发现把邻近机器学习、隐私保护或物理控制误判为直接遗忘"
+      },
+      {
+        "index": 24,
+        "doi": "10.1038/s41467-024-46852-1",
+        "title_present_in_publisher_evidence": true,
+        "recorded_date": "2024-03-20",
+        "publisher_date": "2024-03-20",
+        "date_matches": true,
+        "abstract_review": "人工逐篇比对保存证据中的原始摘要；概述实质一致",
+        "grid_relevance": "符合已标注的直接/系统级/算例边界",
+        "unlearning_review": "未发现把邻近机器学习、隐私保护或物理控制误判为直接遗忘"
+      },
+      {
+        "index": 25,
+        "doi": "10.1038/s41467-025-66604-z",
+        "title_present_in_publisher_evidence": true,
+        "recorded_date": "2025-11-28",
+        "publisher_date": "2025-11-28",
+        "date_matches": true,
+        "abstract_review": "人工逐篇比对保存证据中的原始摘要；概述实质一致",
+        "grid_relevance": "符合已标注的直接/系统级/算例边界",
+        "unlearning_review": "未发现把邻近机器学习、隐私保护或物理控制误判为直接遗忘"
+      },
+      {
+        "index": 26,
+        "doi": "10.1038/s41467-025-68241-y",
+        "title_present_in_publisher_evidence": true,
+        "recorded_date": "2026-01-05",
+        "publisher_date": "2026-01-05",
+        "date_matches": true,
+        "abstract_review": "人工逐篇比对保存证据中的原始摘要；概述实质一致",
+        "grid_relevance": "符合已标注的直接/系统级/算例边界",
+        "unlearning_review": "未发现把邻近机器学习、隐私保护或物理控制误判为直接遗忘"
+      },
+      {
+        "index": 27,
+        "doi": "10.1038/s41467-026-77014-0",
+        "title_present_in_publisher_evidence": true,
+        "recorded_date": "2026-08-21",
+        "publisher_date": "2026-08-21",
+        "date_matches": true,
+        "abstract_review": "人工逐篇比对保存证据中的原始摘要；概述实质一致",
+        "grid_relevance": "符合已标注的直接/系统级/算例边界",
+        "unlearning_review": "未发现把邻近机器学习、隐私保护或物理控制误判为直接遗忘"
+      },
+      {
+        "index": 28,
+        "doi": "10.1038/s41467-024-48964-0",
+        "title_present_in_publisher_evidence": true,
+        "recorded_date": "2024-06-03",
+        "publisher_date": "2024-06-03",
+        "date_matches": true,
+        "abstract_review": "人工逐篇比对保存证据中的原始摘要；概述实质一致",
+        "grid_relevance": "符合已标注的直接/系统级/算例边界",
+        "unlearning_review": "未发现把邻近机器学习、隐私保护或物理控制误判为直接遗忘"
+      }
+    ],
+    "minor_suggestions": [
+      {
+        "index": 1,
+        "doi": "10.1038/s41467-024-48860-7",
+        "field": "topic",
+        "current": "隐私与可信AI",
+        "suggested": "隐私保护与分布式优化",
+        "reason": "原文摘要主要方法是区块链和并行数学优化，并没有机器学习训练；保留邻近但非遗忘分类可以，但不宜暗示论文提出了可信AI模型。"
+      },
+      {
+        "index": 1,
+        "doi": "10.1038/s41467-024-48860-7",
+        "field": "abstract_zh",
+        "current_fragment": "未提出删除已训练模型中数据影响的机制",
+        "suggested_fragment": "所读摘要未显示删除已训练模型中数据影响的机制",
+        "reason": "证据范围为题名/公开摘要，采用与证据层级相符的否定表述。"
+      }
+    ],
+    "important_confirmations": [
+      "第14条为Review Article，原记录已标Review；其摘要提到学习辅助代理，但不是遗忘学习研究。",
+      "第13条标题写60 years，摘要实际采用62个天气年；中文写62符合原始摘要，不是笔误。",
+      "第24条HoGRC仅以英国电网为验证场景之一，记录明确标注电网算例验证，避免误称真实部署。",
+      "第26条数据为21k+ bus，中文两万余节点准确；22倍加速没有被夸大。",
+      "第27条原文80个数据集、六个区域与中文一致；合成/筛选样本不构成模型遗忘。",
+      "28篇中没有任何直接相关标签；不能把此结果解释成已全文证明此领域没有相关论文。"
+    ],
+    "own_dataset_check": {
+      "n_records": 20,
+      "all_article_types_present": true,
+      "scope_sources_available": [
+        "Nature Sustainability官网Aims",
+        "Nature Climate Change官网Aims",
+        "Science Advances官方AAAS About简介（2022，公开；当前mission页403）"
+      ]
     }
-  ],
-  "minor_suggestions": [
-    {
-      "index": 1,
-      "doi": "10.1038/s41467-024-48860-7",
-      "field": "topic",
-      "current": "隐私与可信AI",
-      "suggested": "隐私保护与分布式优化",
-      "reason": "原文摘要主要方法是区块链和并行数学优化，并没有机器学习训练；保留邻近但非遗忘分类可以，但不宜暗示论文提出了可信AI模型。"
-    },
-    {
-      "index": 1,
-      "doi": "10.1038/s41467-024-48860-7",
-      "field": "abstract_zh",
-      "current_fragment": "未提出删除已训练模型中数据影响的机制",
-      "suggested_fragment": "所读摘要未显示删除已训练模型中数据影响的机制",
-      "reason": "证据范围为题名/公开摘要，采用与证据层级相符的否定表述。"
-    }
-  ],
-  "important_confirmations": [
-    "第14条为Review Article，原记录已标Review；其摘要提到学习辅助代理，但不是遗忘学习研究。",
-    "第13条标题写60 years，摘要实际采用62个天气年；中文写62符合原始摘要，不是笔误。",
-    "第24条HoGRC仅以英国电网为验证场景之一，记录明确标注电网算例验证，避免误称真实部署。",
-    "第26条数据为21k+ bus，中文两万余节点准确；22倍加速没有被夸大。",
-    "第27条原文80个数据集、六个区域与中文一致；合成/筛选样本不构成模型遗忘。",
-    "28篇中没有任何直接相关标签；不能把此结果解释成已全文证明此领域没有相关论文。"
-  ],
-  "own_dataset_check": {
-    "n_records": 20,
-    "all_article_types_present": true,
-    "scope_sources_available": [
-      "Nature Sustainability官网Aims",
-      "Nature Climate Change官网Aims",
-      "Science Advances官方AAAS About简介（2022，公开；当前mission页403）"
-    ]
   }
 }

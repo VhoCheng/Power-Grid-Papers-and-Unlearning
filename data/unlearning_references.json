@@ -165,5 +165,32 @@
     "accessed_date": "2026-11-02",
     "abstract_type": "中文摘要概述（根据原文改写）",
     "date_basis": "在线发表日期"
+  },
+  {
+    "title": "Towards principled knowledge editing methods for large language model reasoning",
+    "journal": "Nature Machine Intelligence",
+    "year": 2026,
+    "date": "2026-08-14",
+    "issue_year": 2026,
+    "doi": "10.1038/s42256-026-01276-y",
+    "url": "https://www.nature.com/articles/s42256-026-01276-y",
+    "article_type": "Perspective",
+    "abstract_zh": "讨论无需完整重训的大语言模型知识更新，指出把事实视为可独立编辑的模块会忽视知识之间的依赖关系，破坏多步推理与因果一致性。文章提出围绕演绎闭包回路、模型信念和置信度、情境化复杂知识开展编辑的研究方向，为持续知识适应提供原则性框架，但并不专门解决电网应用或可验证的数据遗忘。",
+    "unlearning_class": "邻近但非遗忘",
+    "unlearning_reason": "知识编辑可与知识撤回交叉，但本文主要研究推理一致的知识更新；不能等同于机器遗忘，也未涉及电网。",
+    "reason": "知识编辑邻近方向；非电网、非直接遗忘证据。",
+    "scope": "范围内期刊的非电网邻近方法参照",
+    "catalog_group": "非电网邻近方法参照",
+    "topic": "知识编辑；推理一致性；概念撤回邻近",
+    "relevance": "非电网邻近方法参照",
+    "scope_group": "遗忘专题参照",
+    "date_basis": "在线发表日期",
+    "accessed_date": "2026-11-02",
+    "abstract_type": "中文摘要概述（根据原文改写）",
+    "evidence_level": "期刊官网摘要、类型、日期与DOI已核验",
+    "source_urls": [
+      "https://www.nature.com/articles/s42256-026-01276-y"
+    ],
+    "id": "U07"
   }
 ]

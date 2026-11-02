@@ -1,0 +1,68 @@
+[
+  {
+    "journal": "Nature Energy",
+    "role": "核心",
+    "description": "能源系统、供需灵活性、电网市场与低碳转型",
+    "url": "https://www.nature.com/nenergy/aims"
+  },
+  {
+    "journal": "Nature Communications",
+    "role": "核心",
+    "description": "电网控制、预测、规划、安全、储能与气候风险",
+    "url": "https://www.nature.com/ncomms/aims"
+  },
+  {
+    "journal": "Science Advances",
+    "role": "核心",
+    "description": "具有广泛科学或工程意义的电力系统研究",
+    "url": "https://www.science.org/journal/sciadv"
+  },
+  {
+    "journal": "Joule",
+    "role": "核心",
+    "description": "Cell Press能源期刊；能源系统、储能、电网融合及政策",
+    "url": "https://www.cell.com/joule/aims"
+  },
+  {
+    "journal": "Nature Sustainability",
+    "role": "核心",
+    "description": "电力转型、资源约束、环境影响、公平与可持续规划",
+    "url": "https://www.nature.com/natsustain/aims"
+  },
+  {
+    "journal": "Nature Climate Change",
+    "role": "核心",
+    "description": "气候对电力供需、极端事件、适应和减缓的影响",
+    "url": "https://www.nature.com/nclimate/aims"
+  },
+  {
+    "journal": "Nature Machine Intelligence",
+    "role": "交叉方向",
+    "description": "通用AI与遗忘方法；本次主目录未确认电网研究",
+    "url": "https://www.nature.com/natmachintell/aims"
+  },
+  {
+    "journal": "Nature Computational Science",
+    "role": "交叉方向",
+    "description": "计算方法、复杂动力系统及电网验证案例",
+    "url": "https://www.nature.com/natcomputsci/aims"
+  },
+  {
+    "journal": "Nature Reviews Electrical Engineering",
+    "role": "综述扩展",
+    "description": "电力系统与电气工程综述、观点及评论",
+    "url": "https://www.nature.com/natrevelectreng/aims"
+  },
+  {
+    "journal": "Communications Engineering",
+    "role": "工程扩展",
+    "description": "微电网、控制、保护、配电规划与工程AI",
+    "url": "https://www.nature.com/commseng/aims"
+  },
+  {
+    "journal": "Nature Cities",
+    "role": "城市交叉扩展",
+    "description": "城市供电质量、负荷与跨城电力影响；本轮定向补充",
+    "url": "https://www.nature.com/natcities/aims"
+  }
+]

@@ -1,22 +1,17 @@
 # 字段说明
 
-- `id`：编号。
-- `title`：题目。
-- `abstract_zh`：摘要_中文概述。
-- `journal`：期刊。
-- `year`：年份。
-- `date`：发表日期。
-- `date_basis`：日期依据。
-- `issue_year`：卷期年份。
-- `article_type`：文章类型。
-- `catalog_group`：收录分组。
-- `category`：主题分类。
-- `relevance`：电网关联。
-- `unlearning_class`：遗忘相关性。
-- `unlearning_reason`：筛查依据。
-- `doi`：DOI。
-- `url`：原文链接。
-- `evidence_level`：核验层级。
-- `accessed_date`：检索日期。
+|字段|含义|
+|---|---|
+|id|稳定ID；P为主目录，U为独立遗忘专题参照|
+|title / journal / year|原始题名、期刊和主统计年份|
+|abstract_zh / abstract_type|中文摘要概述及其来源类型；Comment可能为导语概述|
+|date / date_basis / issue_year|可核验日期、日期口径和卷期年；允许YYYY-MM或空值，不补造具体日|
+|doi / url / source_urls|唯一DOI、原文及核验来源|
+|category / topic|人工整理主题|
+|catalog_group / scope_group / relevance|核心电网、交叉扩展、背景补充及关联边界|
+|article_type|出版社文献类型，区分研究、综述、观点和评论|
+|unlearning_class / unlearning_reason|遗忘筛查结果与依据，不等于全文不存在性证明|
+|evidence_level / accessed_date / notes|核验层级、检索日期和例外说明|
+|revision_added|1=旧版保留；2=本轮新增|
 
-`year`优先为在线年，未确认时按`date_basis`使用卷期年；`date`允许YYYY-MM或空值。`abstract_zh`为中文概述，非出版社原始全文。`source_urls`保留核验链接；`notes`记录更正和边界问题。BibTeX只提供已核验基本字段，未补全作者、页码，正式引用前请从DOI导出完整记录。
+JSON为主数据；CSV使用UTF-8 BOM便于中文读取；Excel与JSON一致。BibTeX仅提供已核实基本字段，正式引用前应从DOI补全作者、页码与卷期。

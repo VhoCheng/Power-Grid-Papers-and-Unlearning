@@ -1,0 +1,37 @@
+{
+  "version": 2,
+  "cutoff": "2026-11-02",
+  "timezone": "Asia/Shanghai",
+  "start": "2024-01-01",
+  "date_basis": "三个日历年；优先在线首发，例外在记录内注明",
+  "baseline_records": 85,
+  "new_records": 109,
+  "total_records": 194,
+  "unlearning_references": 7,
+  "groups": {
+    "核心期刊电网文献": 144,
+    "背景补充": 20,
+    "交叉与扩展期刊": 30
+  },
+  "journals": {
+    "Nature Communications": 86,
+    "Nature Energy": 25,
+    "Joule": 20,
+    "Science Advances": 3,
+    "Nature Sustainability": 17,
+    "Nature Climate Change": 12,
+    "Nature Computational Science": 1,
+    "Communications Engineering": 10,
+    "Nature Reviews Electrical Engineering": 17,
+    "Nature Cities": 3
+  },
+  "years": {
+    "2026": 63,
+    "2025": 72,
+    "2024": 59
+  },
+  "query_entries_v2": 221,
+  "exhaustive": false,
+  "direct_target_grid_unlearning_confirmed": 0,
+  "conclusion": "在选定期刊、时间窗和已核验电网文献中，尚未确认同时具备电网应用与定向撤回已学数据、客户端或概念影响的直接研究。摘要筛查与定向全文核验不能证明此类论文不存在。"
+}

@@ -1,41 +1,123 @@
 {
   "unlearning": [
     {
+      "doi": "10.1109/TII.2024.3396524",
       "title": "Learning and Unlearning to Operate Profitable Secure Electric Vehicle Charging",
       "journal": "IEEE Transactions on Industrial Informatics",
       "year": 2024,
-      "doi": "10.1109/TII.2024.3396524",
-      "url": "https://ieeexplore.ieee.org/document/10541863",
-      "article_type": "Article",
-      "status": "作者实验室页面确认题目与刊期；IEEE页面机器人验证，未直接核验原始摘要与在线日期。仅留作补查线索，不用于严格核验文献数。",
+      "status": "作者实验室主页已确认题名、期刊、卷20期9页11213–11223及2024年9月；IEEE页多次返回机器人验证，未取得可读的一手摘要。",
+      "why_not_added": "二手索引显示机器遗忘用于PV/储能充电站，但本次不根据二手摘要直接写作已核实条目；保留待核验，不得据此声称电网×遗忘仅有已收录的三篇。",
       "source_urls": [
         "https://sites.google.com/view/epssg/publications",
-        "https://ieeexplore.ieee.org/document/10541863"
+        "https://ieeexplore.ieee.org/document/10541863",
+        "https://ieeexplore.ieee.org/abstract/document/10541863",
+        "https://doi.org/10.1109/TII.2024.3396524"
+      ]
+    },
+    {
+      "doi": "10.5281/zenodo.21992940",
+      "title": "Replication Package for \"Sequential Federated Unlearning for Distributed Electricity Load Forecasting: Utility versus Retraining Fidelity\"",
+      "year": 2026,
+      "date": "2026-08-18",
+      "status": "作者发布的Zenodo软件复现包已读取，类型Software；页面未列期刊、论文DOI或正文摘要。",
+      "why_not_added": "可作为2026新研究线索，不能将软件DOI冒充已发表期刊论文。",
+      "source_urls": [
+        "https://zenodo.org/records/21992940"
       ]
     }
   ],
-  "publication_date": [
+  "bibliographic_candidates": [
     {
-      "title": "System impacts of wind energy developments: Key research challenges and opportunities",
-      "journal": "Joule",
-      "year": 2025,
-      "date": "2025-01-15",
-      "doi": "10.1016/j.joule.2024.11.016",
-      "url": "https://doi.org/10.1016/j.joule.2024.11.016",
-      "abstract_zh": "综述风电扩张与技术、经济、社会及自然环境之间的系统联系，整理主要障碍、已有解决方案和研究空白。电网与市场整合已具备多种技术手段，但高渗透率并网、规划许可、景观影响和叶片回收等仍需进一步解决。论文为风电大规模接入和跨领域研究提供问题框架。",
-      "relevance": "系统级相关",
-      "topic": "风电系统综述",
-      "article_type": "Review",
-      "unlearning_class": "未见直接相关",
-      "unlearning_reason": "题目及可获取摘要研究电力系统问题，未见删除指定训练数据、客户端或知识/概念影响的目标与验证；未完成所有付费全文筛查。",
-      "evidence_level": "作者机构存档完整摘要与期刊PDF卷期日期核验",
+      "doi": "10.1038/s41560-026-02163-x",
+      "title": "Data centres asymmetrically exacerbate energy burdens through wholesale price increases and regressive grid cost shifting",
       "source_urls": [
-        "https://discovery.ucl.ac.uk/id/eprint/10205338/",
-        "https://doi.org/10.1016/j.joule.2024.11.016",
-        "https://juser.fz-juelich.de/record/1040847/files/1-s2.0-S2542435124005130-main.pdf"
+        "https://www.peese.org/publications/",
+        "https://www.nature.com/articles/s41560-026-02163-x"
       ],
-      "year_issue": 2025,
-      "date_basis": "卷期日期；可能存在2024年在线首发，待核验"
+      "reason": "实验室2026清单发现，官网2026-11-02访问返回404，不能确认已在截止日前正式发表；未计入新增"
+    },
+    {
+      "doi": "10.1016/j.joule.2026.102387",
+      "title": "Capturing the distribution of costs and benefits in electricity system planning and operations",
+      "source_urls": [
+        "https://www.sciencedirect.com/science/article/pii/S2542435126000711",
+        "https://esca.epri.com/research-guide/energy-systems-analysis/equity-and-distributional-impacts/"
+      ],
+      "reason": "确认2026年Joule Commentary（卷期2026-04-15）；可见出版社文本主要为作者/项目说明，未取得足够正文/摘要以写可靠内容概述，故待补"
+    },
+    {
+      "doi": "10.1016/j.joule.2026.102625",
+      "title": "Can industrial overcapacity provide seasonal grid flexibility?",
+      "source_urls": [
+        "https://ouci.dntb.gov.ua/en/works/lRrbbkLK/"
+      ],
+      "reason": "发现近期Joule候选，未获得出版社摘要和出版日期核验；可能是NE原研究的评述"
+    },
+    {
+      "doi": "10.1016/j.joule.2025.101974",
+      "title": "Little to lose: The case for a robust European green hydrogen strategy",
+      "source_urls": [
+        "https://doi.org/10.1016/j.joule.2025.101974"
+      ],
+      "reason": "发现综合能源系统候选，电网关联及正式摘要待进一步筛选"
+    },
+    {
+      "candidate": "Science Advances 12, eaea1569 (2026)",
+      "source_url": "https://www.monash.edu/energy-institute/research/publications",
+      "status": "机构搜索结果出现文章编号但未取得题名与原文，机构页抓取超时；未纳入，不据此推断电网相关性。"
+    }
+  ],
+  "date_qualifications": [
+    {
+      "doi": "10.1016/j.joule.2024.04.001",
+      "title": "Making resource adequacy a private good: The good, the bad, and the ugly",
+      "status": "正文目录已纳入，年份确定；仅精确首发日待补",
+      "reason": "卷期日期；在线首发日期待核验，同属2024年",
+      "source_urls": [
+        "https://doi.org/10.1016/j.joule.2024.04.001",
+        "https://www.inet.ox.ac.uk/publications/making-resource-adequacy-a-private-good-the-good-the-bad-and-the-ugly",
+        "https://www.sciencedirect.com/science/article/pii/S2542435124001570"
+      ]
+    },
+    {
+      "doi": "10.1016/j.joule.2025.102144",
+      "title": "Near-optimal energy planning strategies with modeling to generate alternatives to flexibly explore practically desirable options",
+      "status": "正文目录已纳入，年份确定；仅精确首发日待补",
+      "reason": "卷期日期；作者机构确认2025年10月已发表，在线具体日待核验",
+      "source_urls": [
+        "https://doi.org/10.1016/j.joule.2025.102144",
+        "https://research.tudelft.nl/en/publications/near-optimal-energy-planning-strategies-with-modeling-to-generate/",
+        "https://www.sciencedirect.com/science/article/pii/S2542435125003253",
+        "https://www.tu.berlin/en/ensys/publications"
+      ]
+    },
+    {
+      "doi": "10.1016/j.joule.2026.102464",
+      "title": "A minimal methanol backstop for high-electrification scenarios",
+      "status": "正文目录已纳入，年份确定；仅精确首发日待补",
+      "reason": "卷期日期；在线首发具体日期待核验，同属2026年",
+      "source_urls": [
+        "https://doi.org/10.1016/j.joule.2026.102464",
+        "https://zenodo.org/records/21278032",
+        "https://www.sciencedirect.com/science/article/pii/S2542435126001480?trk=public_post_comment-text"
+      ]
+    },
+    {
+      "doi": "10.1016/j.joule.2026.102528",
+      "title": "Revisiting the relationship between demand growth and electricity prices",
+      "status": "正文目录已纳入，年份确定；仅精确首发日待补",
+      "reason": "卷期日期；作者机构确认2026年6月已发表，在线具体日待核验",
+      "source_urls": [
+        "https://doi.org/10.1016/j.joule.2026.102528",
+        "https://eta.lbl.gov/publications/revisiting-relationship-between",
+        "https://www.sciencedirect.com/science/article/pii/S2542435126002126"
+      ]
+    }
+  ],
+  "resolved": [
+    {
+      "doi": "10.1016/j.joule.2024.11.016",
+      "resolution": "已由机构记录确认2025-01-13在线发表，移入主目录；原待核验状态解除。"
     }
   ]
 }
