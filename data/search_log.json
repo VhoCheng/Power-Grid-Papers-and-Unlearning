@@ -1,0 +1,465 @@
+{
+  "search_date": "2026-11-02",
+  "window": [
+    "2024-01-01",
+    "2026-11-02"
+  ],
+  "nature_communications": {
+    "queries": [
+      "site:nature.com/articles/s41467 \"power grid\" \"2024\"",
+      "site:nature.com/articles/s41467 \"power system\" \"2025\"",
+      "site:nature.com/articles/s41467 \"electricity\" \"2026\" grid",
+      "site:nature.com/articles/s41467-024 electricity grid transmission storage",
+      "site:nature.com/articles/s41467-024 \"power system\"",
+      "site:nature.com/articles/s41467-025 grid machine learning",
+      "site:nature.com/articles/s41467-026 grid electricity",
+      "site:nature.com/articles/s41467-024 \"electricity\" \"transmission\"",
+      "site:nature.com/articles/s41467-025 \"grid\" \"learning\" power",
+      "site:nature.com/articles/s41467-026 \"power\" \"grid\" stability"
+    ],
+    "verified_included": 28,
+    "excluded_examples": [
+      "s41467-025-56592-5：主要为关键矿产需求，未纳入电网主库",
+      "s41467-025-63019-8：所读摘要未提供明确电网应用，未纳入",
+      "s41467-025-56079-3：视觉处理中的网格，不是电网"
+    ]
+  },
+  "science_sustainability": {
+    "search_date": "2026-11-02",
+    "window": "2024-01-01至2026-11-02，以首次在线发表日期作为year；issue_year另列",
+    "journals": [
+      "Nature Sustainability",
+      "Nature Climate Change",
+      "Science Advances"
+    ],
+    "query_families": [
+      "site:nature.com/articles/ \"Nature Sustainability\" \"power\" \"2024\"",
+      "site:nature.com/articles/ \"Nature Sustainability\" \"grid\" \"2025\"",
+      "\"Nature Sustainability\" \"power systems\" 2024 2025 2026",
+      "\"Nature Sustainability\" \"hydropower\" \"2024\"",
+      "\"Nature Sustainability\" \"thermal power\" \"2025\"",
+      "\"Nature Climate Change\" \"power system\" 2025 2026",
+      "\"Nature Climate Change\" \"electricity\" \"2024\" \"Abstract\"",
+      "\"Nature Climate Change\" \"electricity\" \"2026\" \"Abstract\"",
+      "\"Science Advances\" \"power grid\" \"2025\"",
+      "\"Science Advances\" \"power grid\" \"2026\"",
+      "\"Science Advances\" \"electricity\" \"demand\" 2024 2025 2026",
+      "\"Science Advances\" \"power\" \"outage\" 2024 2025 2026",
+      "\"Science Advances\" \"grid\" synchronization 2024 2025 2026",
+      "候选论文完整题名及DOI反查；原文页公开摘要核验"
+    ],
+    "journal_browsing": [
+      "https://www.nature.com/subjects/energy-and-society/nclimate",
+      "https://www.nature.com/natsustain/articles?type=article&year=2026",
+      "https://www.nature.com/natsustain/articles?page=2&searchType=journalSearch&sort=PubDate&type=analysis&year=2025"
+    ],
+    "journal_scope_sources": [
+      {
+        "journal": "Nature Sustainability",
+        "url": "https://www.nature.com/natsustain/aims",
+        "scope_zh": "可持续发展中的自然、社会和工程研究；适合电力脱碳、资源—电力耦合与政策问题。"
+      },
+      {
+        "journal": "Nature Climate Change",
+        "url": "https://www.nature.com/nclimate/aims",
+        "scope_zh": "气候变化科学、影响、经济社会与政策；适合电网气候风险、适应和减排研究。"
+      },
+      {
+        "journal": "Science Advances",
+        "url": "https://promo.aaas.org/images/Publishing/Journals/2022/ADV/Adv_Editor_Wickstrom_StemCell_Spotlight_Email-final.html",
+        "scope_zh": "AAAS官方About Science Advances简介：Science的综合性开放获取扩展刊，覆盖科学各领域、学科性与跨学科研究。",
+        "verification_note": "该官方页面为2022年历史简介；2026-11-02访问现行mission-and-scope页面返回403，不援引未经核验的现行投稿细则。"
+      },
+      {
+        "journal": "Science Advances",
+        "url": "https://www.science.org/content/page/science-advances-mission-and-scope",
+        "verification_note": "官方页面地址；本次打开403，正文未核验。"
+      }
+    ],
+    "limits": [
+      "公开网络检索与官网主题页筛查，不是WoS/Scopus全库系统综述，不能声称穷尽。",
+      "若页面跳转cookie认证，使用官网公开摘要页参数读取；未获得订阅全文，不据此声称完成全文筛查。",
+      "Science Advances相关结果较少，部分摘要由PubMed原论文记录核实。",
+      "刻意区分直接电网研究与系统级/扩展电力关联，不将所有新能源材料论文纳入。",
+      "未纳入2022年的The effect of renewable energy incorporation on power grid stability and resilience，原因是超出时间窗。",
+      "未纳入新闻解读、Research Briefing和Policy Brief重复条目；Perspective单独标注类型。",
+      "2025年12月在线、2026年卷期的两篇机组/资产论文在year中按2025计。",
+      "本子任务只对入选题名摘要作遗忘筛查；专门的同义词否定检索由主任务另一子任务完成。"
+    ],
+    "counts": {
+      "Nature Sustainability": 10,
+      "Nature Climate Change": 7,
+      "Science Advances": 3
+    },
+    "screening_result": "20篇入选记录中，未从题名及公开摘要发现以删除特定训练数据、客户端或知识概念在已训练模型中的影响为目标的研究；3篇方法邻近但不属于遗忘。"
+  },
+  "energy_joule": {
+    "search_date": "2026-11-02",
+    "coverage": {
+      "journals": [
+        "Nature Energy",
+        "Joule"
+      ],
+      "from": "2024-01-01",
+      "through": "2026-11-02",
+      "interpretation": "近三年按2024、2025、2026三个自然年，2026只纳入截至检索日已发表文献。"
+    },
+    "inclusion": "电网、电力系统、输配电、并网、供电可靠性、电力市场、需求响应、系统级储能及车网/车家互动；兼收系统级转型规划。纳入Article、Perspective和Commentary，保留类型。",
+    "exclusion": "仅材料或器件性能、与电网没有系统级联系的能源论文；更正、新闻摘要及政策简报不与原论文重复计数。",
+    "deduplication": "按DOI去重，优先正式出版商论文，必要时与作者机构存档/预印本核验。",
+    "queries": [
+      "site:nature.com/articles/s41560 \"grid\" \"2024\"",
+      "site:nature.com/articles/s41560 \"power system\" \"2025\"",
+      "site:cell.com/joule \"grid\" \"2024\"",
+      "site:cell.com/joule \"power\" \"2025\" \"transmission\"",
+      "site:cell.com/joule/fulltext \"2024\" \"grid\"",
+      "site:cell.com/joule \"2025\" \"electricity system\"",
+      "site:cell.com/joule \"2026\" \"transmission\"",
+      "site:nature.com/articles/s41560 \"2024\" \"electricity\" \"storage\"",
+      "\"Joule\" \"2024\" \"transmission\" electricity",
+      "\"Joule\" \"2025\" \"electricity\" grid decarbonization",
+      "\"Joule\" \"2026\" \"power system\"",
+      "\"Joule\" \"2024\" \"demand response\"",
+      "\"Joule\" \"power systems\" \"2024\" -site:researchgate.net -site:mdpi.com",
+      "\"Joule\" \"electricity markets\" \"2025\"",
+      "\"Joule\" \"transmission\" \"2026\" \"Article\"",
+      "\"Joule\" \"grid\" \"2024\" \"10.1016/j.joule\"",
+      "site:nature.com/articles/s41560 \"2024\" \"power systems\" \"Article\" -Correction",
+      "site:nature.com/articles/s41560 \"2025\" \"electricity markets\" \"Article\"",
+      "site:nature.com/articles/s41560 \"2026\" \"grid\" \"learning\"",
+      "site:nature.com/articles/s41560 \"machine learning\" \"2024\" grid",
+      "\"Joule\" \"unlearning\" \"grid\"",
+      "\"Nature Energy\" \"unlearning\"",
+      "\"Joule\" \"machine unlearning\"",
+      "\"Foundation models for the electric power grid\" \"forgetting\"",
+      "论文精确英文题目和DOI的逐篇元数据、摘要与日期交叉检索"
+    ],
+    "journal_scope_evidence": [
+      {
+        "journal": "Nature Energy",
+        "url": "https://www.nature.com/nenergy/aims",
+        "access_url": "https://www.nature.com/nenergy/aims?error=cookies_not_supported",
+        "verified": "官方Aims & Scope列出Energy grids and networks，并覆盖发储配用、管理、经济和政策。",
+        "position": "Nature Portfolio能源专门刊，纳入核心期刊。"
+      },
+      {
+        "journal": "Joule",
+        "url": "https://www.cell.com/joule/aims",
+        "access": "直接访问Cell/ScienceDirect aims页面出现403，采用以下官方出版商补充资料。",
+        "supporting_urls": [
+          "https://crosstalk.cell.com/blog/our-hopes-for-joule-cell-press-new-energy-journal?hs_amp=true",
+          "https://shop.elsevier.com/journals/subjects/physical-sciences-and-engineering/energy-and-power?page=0&subjectArea=physical-sciences-and-engineering%2Fenergy-and-power&type=journals",
+          "https://cell-press-symposia.com/electric-vehicles-2024/conference-supporting-journal.html"
+        ],
+        "verified": "Cell Press官方编辑介绍讨论间歇性电源对电网的影响，Elsevier官方说明覆盖可持续能源的科学、技术、经济、政策和社会维度，跨实验室至全球尺度。",
+        "position": "Cell Press能源专门刊，纳入核心期刊。"
+      }
+    ],
+    "counts": {
+      "Nature Energy": 14,
+      "Joule": 8,
+      "total": 22,
+      "直接相关": 0,
+      "邻近但非遗忘": 3,
+      "未见直接相关": 19
+    },
+    "unlearning_definition": "有目的地消除指定训练样本、用户/客户端或知识/概念对已训练模型的影响，并讨论删除后的模型行为或遗忘验证。普通微调、概念漂移适应、持续学习、防止灾难性遗忘和技术经验曲线均不能直接计作机器遗忘。",
+    "unlearning_findings": [
+      {
+        "doi": "10.1016/j.joule.2024.11.002",
+        "title": "Foundation models for the electric power grid",
+        "finding": "正文讨论隐私保护联邦学习、差分隐私、数据主权和持续学习，但未见机器遗忘算法或删除后验证；列为邻近但非遗忘。",
+        "url": "https://www.sciencedirect.com/science/article/pii/S2542435124004707"
+      },
+      {
+        "doi": "10.1016/j.joule.2024.05.009",
+        "title": "Exploring the capabilities and limitations of large language models in the electric energy sector",
+        "finding": "讨论微调、工具调用、RAG及安全；不是机器遗忘论文。",
+        "url": "https://www.sciencedirect.com/science/article/pii/S254243512400237X"
+      },
+      {
+        "doi": "10.1038/s41560-024-01542-6",
+        "title": "A geographically disaggregated approach to integrate low-carbon technologies across local electricity networks",
+        "finding": "正文使用神经网络元模型；未提出训练影响删除。",
+        "url": "https://www.nature.com/articles/s41560-024-01542-6"
+      }
+    ],
+    "false_positives_and_exclusions": [
+      {
+        "title": "A conceptual analysis of gendered energy care work and epistemic injustice through a case study of Zanzibar’s Solar Mamas",
+        "doi": "10.1038/s41560-024-01539-1",
+        "journal": "Nature Energy",
+        "date": "2024-05-16",
+        "url": "https://www.nature.com/articles/s41560-024-01539-1",
+        "reason": "unlearning指社会性别观念的反思和改变，不是机器学习中的训练数据或知识影响删除；且不直接研究电网。"
+      },
+      {
+        "title": "Flexible data centers reduce power system costs but can increase emissions",
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13377865/",
+        "reason": "期刊为iScience而非Joule；不纳入本子任务核心两刊。"
+      },
+      {
+        "title": "Vehicle-to-home charging policy brief",
+        "doi": "10.1038/s41560-025-01899-2",
+        "reason": "对应原研究的简报，不与正式研究10.1038/s41560-025-01894-7重复计数。"
+      },
+      {
+        "doi": "10.1038/s41560-023-01435-0",
+        "reason": "正文在线发表于2024-01-08，符合时间范围；DOI含2023不等于发表年份。其2024年更正不重复收录。"
+      }
+    ],
+    "pending_candidates": [
+      {
+        "title": "System impacts of wind energy developments: Key research challenges and opportunities",
+        "journal": "Joule",
+        "year": 2025,
+        "date": "2025-01-15",
+        "doi": "10.1016/j.joule.2024.11.016",
+        "url": "https://doi.org/10.1016/j.joule.2024.11.016",
+        "abstract_zh": "综述风电扩张与技术、经济、社会及自然环境之间的系统联系，整理主要障碍、已有解决方案和研究空白。电网与市场整合已具备多种技术手段，但高渗透率并网、规划许可、景观影响和叶片回收等仍需进一步解决。论文为风电大规模接入和跨领域研究提供问题框架。",
+        "relevance": "系统级相关",
+        "topic": "风电系统综述",
+        "article_type": "Review",
+        "unlearning_class": "未见直接相关",
+        "unlearning_reason": "题目及可获取摘要研究电力系统问题，未见删除指定训练数据、客户端或知识/概念影响的目标与验证；未完成所有付费全文筛查。",
+        "evidence_level": "作者机构存档完整摘要与期刊PDF卷期日期核验",
+        "source_urls": [
+          "https://discovery.ucl.ac.uk/id/eprint/10205338/",
+          "https://doi.org/10.1016/j.joule.2024.11.016",
+          "https://juser.fz-juelich.de/record/1040847/files/1-s2.0-S2542435124005130-main.pdf"
+        ],
+        "year_issue": 2025,
+        "date_basis": "卷期日期；可能存在2024年在线首发，待核验"
+      }
+    ],
+    "limitations": [
+      "这是可复核的定向检索样本，不是Web of Science/Scopus导出后的系统性穷尽清单；没有据此声称该时间段仅有22篇。",
+      "Nature Energy 14篇均核验正式摘要和在线首发日。Joule部分记录只核验年度及卷期日/月，date_basis明确标出；不把卷期日期伪称为在线日期。",
+      "Joule一篇风电综述在线年份可能跨2024/2025，暂移至待核候选，未计入22篇主表。",
+      "Cell及ScienceDirect部分链接对直接打开返回403；在可用的出版商索引内容、作者机构出版存档与正式PDF之间交叉核验。",
+      "机器遗忘判断依据题目、摘要及能访问到的正文，不是对所有付费全文做过完整检索；未检出不等于证明不存在。",
+      "保存的是中文忠实摘要概述或内容概述，非逐字中文翻译、非原始英文摘要；每条保留原始来源链接。",
+      "观点与评论文章已单独标记article_type，不应当与实证/方法Article混为一类。"
+    ]
+  },
+  "unlearning_queries": [
+    {
+      "query": "site:nature.com \"unlearning\" \"grid\"",
+      "source": "网页检索（web__run或search_service_web_run）",
+      "date": "2026-11-02"
+    },
+    {
+      "query": "site:science.org \"unlearning\" electricity",
+      "source": "网页检索（web__run或search_service_web_run）",
+      "date": "2026-11-02"
+    },
+    {
+      "query": "site:cell.com/joule \"unlearning\"",
+      "source": "网页检索（web__run或search_service_web_run）",
+      "date": "2026-11-02"
+    },
+    {
+      "query": "\"machine unlearning\" \"power\" forecasting",
+      "source": "网页检索（web__run或search_service_web_run）",
+      "date": "2026-11-02"
+    },
+    {
+      "query": "site:nature.com/articles \"power grid\" \"unlearning\"",
+      "source": "网页检索（web__run或search_service_web_run）",
+      "date": "2026-11-02"
+    },
+    {
+      "query": "site:nature.com/articles \"power system\" \"unlearning\"",
+      "source": "网页检索（web__run或search_service_web_run）",
+      "date": "2026-11-02"
+    },
+    {
+      "query": "site:nature.com/articles \"electricity\" \"unlearning\"",
+      "source": "网页检索（web__run或search_service_web_run）",
+      "date": "2026-11-02"
+    },
+    {
+      "query": "site:science.org/doi \"machine unlearning\"",
+      "source": "网页检索（web__run或search_service_web_run）",
+      "date": "2026-11-02"
+    },
+    {
+      "query": "site:nature.com \"unlearning\" \"Nature Communications\"",
+      "source": "网页检索（web__run或search_service_web_run）",
+      "date": "2026-11-02"
+    },
+    {
+      "query": "site:nature.com \"unlearning\" \"Nature Energy\" -gendered",
+      "source": "网页检索（web__run或search_service_web_run）",
+      "date": "2026-11-02"
+    },
+    {
+      "query": "site:cell.com \"Joule\" \"unlearning\"",
+      "source": "网页检索（web__run或search_service_web_run）",
+      "date": "2026-11-02"
+    },
+    {
+      "query": "site:science.org \"Science Advances\" \"unlearning\" -fear -memory -hippocampal -conditioning",
+      "source": "网页检索（web__run或search_service_web_run）",
+      "date": "2026-11-02"
+    },
+    {
+      "query": "site:nature.com \"unlearning\" \"smart grid\"",
+      "source": "网页检索（web__run或search_service_web_run）",
+      "date": "2026-11-02"
+    },
+    {
+      "query": "site:nature.com \"federated unlearning\" \"power\"",
+      "source": "网页检索（web__run或search_service_web_run）",
+      "date": "2026-11-02"
+    },
+    {
+      "query": "site:nature.com \"concept erasure\" \"energy\"",
+      "source": "网页检索（web__run或search_service_web_run）",
+      "date": "2026-11-02"
+    },
+    {
+      "query": "site:nature.com \"selective forgetting\" \"electricity\"",
+      "source": "网页检索（web__run或search_service_web_run）",
+      "date": "2026-11-02"
+    },
+    {
+      "query": "\"federated unlearning\" \"load forecasting\"",
+      "source": "网页检索（web__run或search_service_web_run）",
+      "date": "2026-11-02"
+    },
+    {
+      "query": "\"unlearning\" \"power system\" \"10.1109\"",
+      "source": "网页检索（web__run或search_service_web_run）",
+      "date": "2026-11-02"
+    },
+    {
+      "query": "\"machine unlearning\" \"smart grid\" 2025 2026",
+      "source": "网页检索（web__run或search_service_web_run）",
+      "date": "2026-11-02"
+    },
+    {
+      "query": "\"Task-Aware Machine Unlearning\" doi",
+      "source": "网页检索（web__run或search_service_web_run）",
+      "date": "2026-11-02"
+    },
+    {
+      "query": "site:nature.com \"Nature Sustainability\" \"unlearning\" \"grid\"",
+      "source": "网页检索（web__run或search_service_web_run）",
+      "date": "2026-11-02"
+    },
+    {
+      "query": "site:nature.com \"Nature Climate Change\" \"machine unlearning\"",
+      "source": "网页检索（web__run或search_service_web_run）",
+      "date": "2026-11-02"
+    },
+    {
+      "query": "site:nature.com/articles (\"grid\" OR \"electricity\") (\"concept erasure\" OR \"knowledge removal\" OR \"data deletion\")",
+      "source": "网页检索（web__run或search_service_web_run）",
+      "date": "2026-11-02"
+    },
+    {
+      "query": "site:cell.com/joule (\"grid\" OR \"electricity\") (\"forgetting\" OR \"unlearning\" OR \"data deletion\")",
+      "source": "网页检索（web__run或search_service_web_run）",
+      "date": "2026-11-02"
+    },
+    {
+      "query": "site:science.org/doi (\"grid\" OR \"electricity\") (\"unlearning\" OR \"concept erasure\" OR \"selective forgetting\")",
+      "source": "网页检索（web__run或search_service_web_run）",
+      "date": "2026-11-02"
+    },
+    {
+      "query": "site:nature.com/articles/s44287 (\"unlearning\" OR \"forgetting\" OR \"data deletion\")",
+      "source": "网页检索（web__run或search_service_web_run）",
+      "date": "2026-11-02"
+    },
+    {
+      "query": "\"Foundation models for the electric power grid\" \"unlearning\"",
+      "source": "search_service_web_run 定向网页检索",
+      "date": "2026-11-02"
+    },
+    {
+      "query": "\"Foundation models for the electric power grid\" \"forgetting\"",
+      "source": "search_service_web_run 定向网页检索",
+      "date": "2026-11-02"
+    },
+    {
+      "query": "\"Exploring the capabilities and limitations of large language models in the electric energy sector\" \"unlearning\"",
+      "source": "search_service_web_run 定向网页检索",
+      "date": "2026-11-02"
+    },
+    {
+      "query": "\"Exploring the capabilities and limitations of large language models in the electric energy sector\"",
+      "source": "search_service_web_run 定向网页检索",
+      "date": "2026-11-02"
+    },
+    {
+      "query": "\"Foundation models for the electric power grid\" Joule 2024",
+      "source": "search_service_web_run 定向网页检索",
+      "date": "2026-11-02"
+    },
+    {
+      "query": "\"Foundation models for the electric power grid\" \"delete\"",
+      "source": "search_service_web_run 定向网页检索",
+      "date": "2026-11-02"
+    },
+    {
+      "query": "\"Foundation models for the electric power grid\" \"erasure\"",
+      "source": "search_service_web_run 定向网页检索",
+      "date": "2026-11-02"
+    },
+    {
+      "query": "\"Exploring the capabilities and limitations\" \"electric\" \"forgetting\"",
+      "source": "search_service_web_run 定向网页检索",
+      "date": "2026-11-02"
+    },
+    {
+      "query": "全文find: https://arxiv.org/html/2407.09434v2 ; pattern=unlearn",
+      "source": "search_service_web_run.find",
+      "date": "2026-11-02",
+      "result": "No matching text found"
+    },
+    {
+      "query": "全文find: https://arxiv.org/html/2407.09434v2 ; pattern=forget",
+      "source": "search_service_web_run.find",
+      "date": "2026-11-02",
+      "result": "No matching text found"
+    },
+    {
+      "query": "全文find: https://arxiv.org/html/2407.09434v2 ; pattern=delet",
+      "source": "search_service_web_run.find",
+      "date": "2026-11-02",
+      "result": "No matching text found"
+    },
+    {
+      "query": "全文find: https://arxiv.org/html/2407.09434v2 ; pattern=eras",
+      "source": "search_service_web_run.find",
+      "date": "2026-11-02",
+      "result": "No matching text found"
+    },
+    {
+      "query": "全文find: https://arxiv.org/html/2403.09125v5 ; pattern=unlearn",
+      "source": "search_service_web_run.find",
+      "date": "2026-11-02",
+      "result": "No matching text found"
+    },
+    {
+      "query": "全文find: https://arxiv.org/html/2403.09125v5 ; pattern=forget",
+      "source": "search_service_web_run.find",
+      "date": "2026-11-02",
+      "result": "No matching text found"
+    },
+    {
+      "query": "全文find: https://arxiv.org/html/2403.09125v5 ; pattern=delet",
+      "source": "search_service_web_run.find",
+      "date": "2026-11-02",
+      "result": "No matching text found"
+    },
+    {
+      "query": "全文find: https://arxiv.org/html/2403.09125v5 ; pattern=eras",
+      "source": "search_service_web_run.find",
+      "date": "2026-11-02",
+      "result": "No matching text found"
+    }
+  ]
+}

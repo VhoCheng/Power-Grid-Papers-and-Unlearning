@@ -1,0 +1,548 @@
+{
+  "search_date": "2026-11-02",
+  "date_window": [
+    "2024-01-01",
+    "2026-11-02"
+  ],
+  "definitions": [
+    {
+      "term": "machine unlearning / data deletion / certified removal",
+      "definition": "有明确的待删除训练样本、用户或任务，目标是移除其对已训练模型的影响；理想参照是从未使用待删数据训练的模型。"
+    },
+    {
+      "term": "federated unlearning / client removal",
+      "definition": "从联邦全局模型中撤回某个客户端或其数据的历史训练贡献；仅不再参与后续训练不充分。"
+    },
+    {
+      "term": "concept erasure / knowledge unlearning / selective forgetting",
+      "definition": "定向移除模型中的指定概念、知识或能力，同时保持无关能力；需核对是参数/训练影响删除，还是仅推理时屏蔽。"
+    },
+    {
+      "term": "相邻但不等同",
+      "definition": "联邦学习、差分隐私、持续学习、概念漂移适应、避免灾难性遗忘、RAG知识库更新、图边物理切除、论文撤稿或社会规范的unlearning，均不能自动判作机器遗忘。"
+    }
+  ],
+  "queries": [
+    {
+      "query": "site:nature.com \"unlearning\" \"grid\"",
+      "source": "网页检索（web__run或search_service_web_run）",
+      "date": "2026-11-02"
+    },
+    {
+      "query": "site:science.org \"unlearning\" electricity",
+      "source": "网页检索（web__run或search_service_web_run）",
+      "date": "2026-11-02"
+    },
+    {
+      "query": "site:cell.com/joule \"unlearning\"",
+      "source": "网页检索（web__run或search_service_web_run）",
+      "date": "2026-11-02"
+    },
+    {
+      "query": "\"machine unlearning\" \"power\" forecasting",
+      "source": "网页检索（web__run或search_service_web_run）",
+      "date": "2026-11-02"
+    },
+    {
+      "query": "site:nature.com/articles \"power grid\" \"unlearning\"",
+      "source": "网页检索（web__run或search_service_web_run）",
+      "date": "2026-11-02"
+    },
+    {
+      "query": "site:nature.com/articles \"power system\" \"unlearning\"",
+      "source": "网页检索（web__run或search_service_web_run）",
+      "date": "2026-11-02"
+    },
+    {
+      "query": "site:nature.com/articles \"electricity\" \"unlearning\"",
+      "source": "网页检索（web__run或search_service_web_run）",
+      "date": "2026-11-02"
+    },
+    {
+      "query": "site:science.org/doi \"machine unlearning\"",
+      "source": "网页检索（web__run或search_service_web_run）",
+      "date": "2026-11-02"
+    },
+    {
+      "query": "site:nature.com \"unlearning\" \"Nature Communications\"",
+      "source": "网页检索（web__run或search_service_web_run）",
+      "date": "2026-11-02"
+    },
+    {
+      "query": "site:nature.com \"unlearning\" \"Nature Energy\" -gendered",
+      "source": "网页检索（web__run或search_service_web_run）",
+      "date": "2026-11-02"
+    },
+    {
+      "query": "site:cell.com \"Joule\" \"unlearning\"",
+      "source": "网页检索（web__run或search_service_web_run）",
+      "date": "2026-11-02"
+    },
+    {
+      "query": "site:science.org \"Science Advances\" \"unlearning\" -fear -memory -hippocampal -conditioning",
+      "source": "网页检索（web__run或search_service_web_run）",
+      "date": "2026-11-02"
+    },
+    {
+      "query": "site:nature.com \"unlearning\" \"smart grid\"",
+      "source": "网页检索（web__run或search_service_web_run）",
+      "date": "2026-11-02"
+    },
+    {
+      "query": "site:nature.com \"federated unlearning\" \"power\"",
+      "source": "网页检索（web__run或search_service_web_run）",
+      "date": "2026-11-02"
+    },
+    {
+      "query": "site:nature.com \"concept erasure\" \"energy\"",
+      "source": "网页检索（web__run或search_service_web_run）",
+      "date": "2026-11-02"
+    },
+    {
+      "query": "site:nature.com \"selective forgetting\" \"electricity\"",
+      "source": "网页检索（web__run或search_service_web_run）",
+      "date": "2026-11-02"
+    },
+    {
+      "query": "\"federated unlearning\" \"load forecasting\"",
+      "source": "网页检索（web__run或search_service_web_run）",
+      "date": "2026-11-02"
+    },
+    {
+      "query": "\"unlearning\" \"power system\" \"10.1109\"",
+      "source": "网页检索（web__run或search_service_web_run）",
+      "date": "2026-11-02"
+    },
+    {
+      "query": "\"machine unlearning\" \"smart grid\" 2025 2026",
+      "source": "网页检索（web__run或search_service_web_run）",
+      "date": "2026-11-02"
+    },
+    {
+      "query": "\"Task-Aware Machine Unlearning\" doi",
+      "source": "网页检索（web__run或search_service_web_run）",
+      "date": "2026-11-02"
+    },
+    {
+      "query": "site:nature.com \"Nature Sustainability\" \"unlearning\" \"grid\"",
+      "source": "网页检索（web__run或search_service_web_run）",
+      "date": "2026-11-02"
+    },
+    {
+      "query": "site:nature.com \"Nature Climate Change\" \"machine unlearning\"",
+      "source": "网页检索（web__run或search_service_web_run）",
+      "date": "2026-11-02"
+    },
+    {
+      "query": "site:nature.com/articles (\"grid\" OR \"electricity\") (\"concept erasure\" OR \"knowledge removal\" OR \"data deletion\")",
+      "source": "网页检索（web__run或search_service_web_run）",
+      "date": "2026-11-02"
+    },
+    {
+      "query": "site:cell.com/joule (\"grid\" OR \"electricity\") (\"forgetting\" OR \"unlearning\" OR \"data deletion\")",
+      "source": "网页检索（web__run或search_service_web_run）",
+      "date": "2026-11-02"
+    },
+    {
+      "query": "site:science.org/doi (\"grid\" OR \"electricity\") (\"unlearning\" OR \"concept erasure\" OR \"selective forgetting\")",
+      "source": "网页检索（web__run或search_service_web_run）",
+      "date": "2026-11-02"
+    },
+    {
+      "query": "site:nature.com/articles/s44287 (\"unlearning\" OR \"forgetting\" OR \"data deletion\")",
+      "source": "网页检索（web__run或search_service_web_run）",
+      "date": "2026-11-02"
+    },
+    {
+      "query": "\"Foundation models for the electric power grid\" \"unlearning\"",
+      "source": "search_service_web_run 定向网页检索",
+      "date": "2026-11-02"
+    },
+    {
+      "query": "\"Foundation models for the electric power grid\" \"forgetting\"",
+      "source": "search_service_web_run 定向网页检索",
+      "date": "2026-11-02"
+    },
+    {
+      "query": "\"Exploring the capabilities and limitations of large language models in the electric energy sector\" \"unlearning\"",
+      "source": "search_service_web_run 定向网页检索",
+      "date": "2026-11-02"
+    },
+    {
+      "query": "\"Exploring the capabilities and limitations of large language models in the electric energy sector\"",
+      "source": "search_service_web_run 定向网页检索",
+      "date": "2026-11-02"
+    },
+    {
+      "query": "\"Foundation models for the electric power grid\" Joule 2024",
+      "source": "search_service_web_run 定向网页检索",
+      "date": "2026-11-02"
+    },
+    {
+      "query": "\"Foundation models for the electric power grid\" \"delete\"",
+      "source": "search_service_web_run 定向网页检索",
+      "date": "2026-11-02"
+    },
+    {
+      "query": "\"Foundation models for the electric power grid\" \"erasure\"",
+      "source": "search_service_web_run 定向网页检索",
+      "date": "2026-11-02"
+    },
+    {
+      "query": "\"Exploring the capabilities and limitations\" \"electric\" \"forgetting\"",
+      "source": "search_service_web_run 定向网页检索",
+      "date": "2026-11-02"
+    },
+    {
+      "query": "全文find: https://arxiv.org/html/2407.09434v2 ; pattern=unlearn",
+      "source": "search_service_web_run.find",
+      "date": "2026-11-02",
+      "result": "No matching text found"
+    },
+    {
+      "query": "全文find: https://arxiv.org/html/2407.09434v2 ; pattern=forget",
+      "source": "search_service_web_run.find",
+      "date": "2026-11-02",
+      "result": "No matching text found"
+    },
+    {
+      "query": "全文find: https://arxiv.org/html/2407.09434v2 ; pattern=delet",
+      "source": "search_service_web_run.find",
+      "date": "2026-11-02",
+      "result": "No matching text found"
+    },
+    {
+      "query": "全文find: https://arxiv.org/html/2407.09434v2 ; pattern=eras",
+      "source": "search_service_web_run.find",
+      "date": "2026-11-02",
+      "result": "No matching text found"
+    },
+    {
+      "query": "全文find: https://arxiv.org/html/2403.09125v5 ; pattern=unlearn",
+      "source": "search_service_web_run.find",
+      "date": "2026-11-02",
+      "result": "No matching text found"
+    },
+    {
+      "query": "全文find: https://arxiv.org/html/2403.09125v5 ; pattern=forget",
+      "source": "search_service_web_run.find",
+      "date": "2026-11-02",
+      "result": "No matching text found"
+    },
+    {
+      "query": "全文find: https://arxiv.org/html/2403.09125v5 ; pattern=delet",
+      "source": "search_service_web_run.find",
+      "date": "2026-11-02",
+      "result": "No matching text found"
+    },
+    {
+      "query": "全文find: https://arxiv.org/html/2403.09125v5 ; pattern=eras",
+      "source": "search_service_web_run.find",
+      "date": "2026-11-02",
+      "result": "No matching text found"
+    }
+  ],
+  "core_hits": [],
+  "adjacent_papers": [
+    {
+      "title": "Task-Aware Machine Unlearning and Its Application in Load Forecasting",
+      "journal": "IEEE Transactions on Power Systems",
+      "year": 2024,
+      "date": "2024-03-13",
+      "issue_year": 2024,
+      "doi": "10.1109/TPWRS.2024.3376828",
+      "url": "https://ieeexplore.ieee.org/abstract/document/10472091",
+      "article_type": "Article",
+      "abstract_zh": "针对恶意数据或用户撤回需求，研究从已训练负荷预测器中删除指定数据影响。利用影响函数与样本重加权平衡遗忘和预测性能，并将调度、再调度成本纳入三层优化，在真实负荷数据及线性、CNN、MLP-Mixer模型上验证。",
+      "unlearning_class": "直接相关",
+      "reason": "已训练负荷预测器；指定数据遗忘；下游电力调度成本评价。属于电网×机器遗忘，但不在本次大子刊名单。",
+      "scope": "范围外电力专业期刊",
+      "evidence_level": "IEEE官网完整摘要、在线日期、DOI已核验",
+      "source_urls": [
+        "https://ieeexplore.ieee.org/abstract/document/10472091",
+        "https://arxiv.org/abs/2308.14412",
+        "https://github.com/xuwkk/task_aware_machine_unlearning"
+      ],
+      "id": "U01",
+      "unlearning_reason": "已训练负荷预测器；指定数据遗忘；下游电力调度成本评价。属于电网×机器遗忘，但不在本次大子刊名单。",
+      "catalog_group": "范围外电力专业期刊",
+      "topic": "遗忘专题参照",
+      "relevance": "范围外电力专业期刊",
+      "scope_group": "遗忘专题参照",
+      "accessed_date": "2026-11-02",
+      "abstract_type": "中文摘要概述（根据原文改写）",
+      "date_basis": "在线发表日期"
+    },
+    {
+      "title": "A SISA-based Machine Unlearning Framework for Power Transformer Inter-Turn Short-Circuit Fault Localization",
+      "journal": "2026 IEEE Power & Energy Society General Meeting (PESGM)",
+      "year": 2026,
+      "date": "2026-07-23",
+      "issue_year": 2026,
+      "doi": "10.1109/PESGM58988.2026.11693380",
+      "url": "https://inl.elsevierpure.com/en/publications/a-sisa-based-machine-unlearning-framework-for-power-transformer-i/",
+      "article_type": "Conference paper",
+      "abstract_zh": "针对传感器故障导致的变压器诊断训练数据污染，采用分片、隔离、切片和聚合的SISA训练框架。检测到污染后只重训受影响子模型；在仿真匝间短路定位中，取得接近完整重训的准确率并减少重训时间。",
+      "unlearning_class": "直接相关",
+      "reason": "删除污染诊断数据对模型的影响；是电力设备故障定位。会议论文，不属于目标期刊；arXiv初稿日期2026-03-07。",
+      "scope": "范围外会议论文",
+      "evidence_level": "作者机构INL记录及arXiv作者论文摘要交叉核验",
+      "source_urls": [
+        "https://inl.elsevierpure.com/en/publications/a-sisa-based-machine-unlearning-framework-for-power-transformer-i/",
+        "https://arxiv.org/abs/2603.06962"
+      ],
+      "id": "U02",
+      "unlearning_reason": "删除污染诊断数据对模型的影响；是电力设备故障定位。会议论文，不属于目标期刊；arXiv初稿日期2026-03-07。",
+      "catalog_group": "范围外会议论文",
+      "topic": "遗忘专题参照",
+      "relevance": "范围外会议论文",
+      "scope_group": "遗忘专题参照",
+      "accessed_date": "2026-11-02",
+      "abstract_type": "中文摘要概述（根据原文改写）",
+      "date_basis": "在线发表日期"
+    },
+    {
+      "title": "A survey of machine unlearning for electric power systems: From privacy compliance to resilient grid operations",
+      "journal": "Array",
+      "year": 2026,
+      "date": null,
+      "date_note": "官网检索记录为2026年9月卷31；精确在线发表日期未核验，不能以9月1日代填。",
+      "issue_year": 2026,
+      "doi": "10.1016/j.array.2026.100987",
+      "url": "https://www.sciencedirect.com/science/article/pii/S2590005626003103",
+      "article_type": "Survey",
+      "abstract_zh": "面向电力系统整理精确和近似机器遗忘、验证指标及隐私扩展，讨论智能电表数据删除、SCADA/PMU污染数据清除、跨电力企业联邦遗忘和在线模型维护。提出速度与稳定性权衡、认证和审计需求；属于综述框架，不能当作四类场景均已工程验证。",
+      "unlearning_class": "直接相关",
+      "reason": "综述对象明确是电力系统机器遗忘；Array不属于目标Nature/Science/Cell子刊。",
+      "scope": "范围外期刊综述",
+      "evidence_level": "出版商搜索索引提供题目、期刊、卷期、DOI和完整摘要；页面直接打开403",
+      "source_urls": [
+        "https://www.sciencedirect.com/science/article/pii/S2590005626003103",
+        "https://doi.org/10.1016/j.array.2026.100987"
+      ],
+      "id": "U03",
+      "unlearning_reason": "综述对象明确是电力系统机器遗忘；Array不属于目标Nature/Science/Cell子刊。",
+      "catalog_group": "范围外期刊综述",
+      "topic": "遗忘专题参照",
+      "relevance": "范围外期刊综述",
+      "scope_group": "遗忘专题参照",
+      "accessed_date": "2026-11-02",
+      "abstract_type": "中文摘要概述（根据原文改写）",
+      "date_basis": "官网检索记录为2026年9月卷31；精确在线发表日期未核验，不能以9月1日代填。"
+    },
+    {
+      "title": "Rethinking machine unlearning for large language models",
+      "journal": "Nature Machine Intelligence",
+      "year": 2025,
+      "date": "2025-02-17",
+      "issue_year": 2025,
+      "doi": "10.1038/s42256-025-00985-0",
+      "url": "https://www.nature.com/articles/s42256-025-00985-0",
+      "article_type": "Review Article",
+      "abstract_zh": "综述大语言模型遗忘的定义、方法、指标和应用，强调移除不希望保留的数据影响及相关能力，同时维护无关知识。讨论遗忘范围、数据与模型交互、多维评估，以及与模型编辑、影响函数、可解释性等领域的关系。",
+      "unlearning_class": "直接相关",
+      "reason": "直接研究机器遗忘，但非电网应用；仅可作为方法论文参考，不能计入电网交叉命中。",
+      "scope": "目标交叉期刊，但非电网研究",
+      "evidence_level": "期刊官网完整摘要与在线日期已核验",
+      "source_urls": [
+        "https://www.nature.com/articles/s42256-025-00985-0"
+      ],
+      "id": "U04",
+      "unlearning_reason": "直接研究机器遗忘，但非电网应用；仅可作为方法论文参考，不能计入电网交叉命中。",
+      "catalog_group": "目标交叉期刊，但非电网研究",
+      "topic": "遗忘专题参照",
+      "relevance": "目标交叉期刊，但非电网研究",
+      "scope_group": "遗忘专题参照",
+      "accessed_date": "2026-11-02",
+      "abstract_type": "中文摘要概述（根据原文改写）",
+      "date_basis": "在线发表日期"
+    },
+    {
+      "title": "Mitigating algorithmic unfairness arising from forgetfulness of medical records in clinical artificial intelligence",
+      "journal": "Nature Communications",
+      "year": 2026,
+      "date": "2026-05-04",
+      "issue_year": 2026,
+      "doi": "10.1038/s41467-026-72601-7",
+      "url": "https://www.nature.com/articles/s41467-026-72601-7",
+      "article_type": "Article",
+      "abstract_zh": "研究患者记录撤回后临床模型的公平性损失，提出以梯度正交协调遗忘与公平目标的方法。在多医院的感染筛查、死亡和休克预测数据上评估，考察删除有效性、预测能力和人群公平性的联合保持。",
+      "unlearning_class": "直接相关",
+      "reason": "机器遗忘原创研究，但对象是医疗记录而非电网。",
+      "scope": "核心期刊，但非电网研究",
+      "evidence_level": "期刊官网搜索索引完整摘要与日期已核验",
+      "source_urls": [
+        "https://www.nature.com/articles/s41467-026-72601-7"
+      ],
+      "id": "U05",
+      "unlearning_reason": "机器遗忘原创研究，但对象是医疗记录而非电网。",
+      "catalog_group": "核心期刊，但非电网研究",
+      "topic": "遗忘专题参照",
+      "relevance": "核心期刊，但非电网研究",
+      "scope_group": "遗忘专题参照",
+      "accessed_date": "2026-11-02",
+      "abstract_type": "中文摘要概述（根据原文改写）",
+      "date_basis": "在线发表日期"
+    },
+    {
+      "title": "Superior resilience to poisoning and amenability to unlearning in quantum machine learning",
+      "journal": "Nature Communications",
+      "year": 2026,
+      "date": "2026-03-09",
+      "issue_year": 2026,
+      "doi": "10.1038/s41467-026-70420-4",
+      "url": "https://www.nature.com/articles/s41467-026-70420-4",
+      "article_type": "Article",
+      "abstract_zh": "比较经典与量子神经网络对训练数据污染的响应，分析量子模型的抗噪性及近似遗忘能力。研究以污染样本为遗忘集、干净样本为保留集，对照完整重训，报告量子模型更易清除错误数据的影响。",
+      "unlearning_class": "直接相关",
+      "reason": "直接研究机器遗忘，但不是电网问题；量子模型的能量等术语不能据此归为电网。",
+      "scope": "核心期刊，但非电网研究",
+      "evidence_level": "期刊官网完整摘要及方法已核验；2026-03-09早期在线，2026-04-23正式版本",
+      "source_urls": [
+        "https://www.nature.com/articles/s41467-026-70420-4"
+      ],
+      "id": "U06",
+      "unlearning_reason": "直接研究机器遗忘，但不是电网问题；量子模型的能量等术语不能据此归为电网。",
+      "catalog_group": "核心期刊，但非电网研究",
+      "topic": "遗忘专题参照",
+      "relevance": "核心期刊，但非电网研究",
+      "scope_group": "遗忘专题参照",
+      "accessed_date": "2026-11-02",
+      "abstract_type": "中文摘要概述（根据原文改写）",
+      "date_basis": "在线发表日期"
+    }
+  ],
+  "additional_candidates": [
+    {
+      "title": "Learning and Unlearning to Operate Profitable Secure Electric Vehicle Charging",
+      "journal": "IEEE Transactions on Industrial Informatics",
+      "year": 2024,
+      "doi": "10.1109/TII.2024.3396524",
+      "url": "https://ieeexplore.ieee.org/document/10541863",
+      "article_type": "Article",
+      "status": "作者实验室页面确认题目与刊期；IEEE页面机器人验证，未直接核验原始摘要与在线日期。仅留作补查线索，不用于严格核验文献数。",
+      "source_urls": [
+        "https://sites.google.com/view/epssg/publications",
+        "https://ieeexplore.ieee.org/document/10541863"
+      ]
+    }
+  ],
+  "false_positive_examples": [
+    {
+      "title": "A conceptual analysis of gendered energy care work and epistemic injustice through a case study of Zanzibar’s Solar Mamas",
+      "doi": "10.1038/s41560-024-01539-1",
+      "url": "https://www.nature.com/articles/s41560-024-01539-1",
+      "reason": "Nature Energy 2024含unlearning，但指改变性别化社会规范，不是机器遗忘。"
+    },
+    {
+      "title": "Federated asynchronous graph attention network with structural semantic embedding for multi-label graph classification",
+      "doi": "10.1038/s41598-025-22500-6",
+      "url": "https://www.nature.com/articles/s41598-025-22500-6",
+      "reason": "Scientific Reports；电网作者单位和参考文献中federated unlearning不足以证明本文研究电网遗忘。"
+    },
+    {
+      "title": "Data-driven and privacy-preserving risk assessment method based on federated learning for smart grids",
+      "doi": "10.1038/s44172-024-00300-6",
+      "url": "https://www.nature.com/articles/s44172-024-00300-6",
+      "reason": "电网隐私保护联邦学习，但没有撤回已训练贡献的机制。"
+    }
+  ],
+  "scope_journals": [
+    {
+      "journal": "Nature Machine Intelligence",
+      "issn": "2522-5839",
+      "scope": "AI、机器学习和机器人等；适合有广泛方法贡献的电网AI工作。属于方向性补充，本次直接电网近三年条目未确认。",
+      "group": "交叉方向期刊",
+      "source_url": "https://www.nature.com/natmachintell/aims"
+    },
+    {
+      "journal": "Nature Computational Science",
+      "issn": "2662-8457",
+      "scope": "跨学科计算方法、数学模型和复杂现实问题；可涵盖电网复杂系统动力学与计算方法。",
+      "group": "交叉方向期刊",
+      "source_url": "https://www.nature.com/natcomputsci/aims"
+    },
+    {
+      "journal": "Nature Reviews Electrical Engineering",
+      "issn": "2948-1201",
+      "scope": "官网明确含electric power systems、power grids、微电网、输配电、规划运行控制与储能；主要发表综述、观点和评论，须与原创研究刊分开。",
+      "group": "综述扩展期刊",
+      "source_url": "https://www.nature.com/natrevelectreng/aims"
+    },
+    {
+      "journal": "Communications Engineering",
+      "issn": "2731-3395",
+      "scope": "Nature Portfolio工程开放获取期刊，覆盖电气电子和能源工程；不因同属Nature就与Nature Energy或Nature Communications视为同档。",
+      "group": "工程扩展期刊",
+      "source_url": "https://www.nature.com/commseng/aims"
+    }
+  ],
+  "conclusion": "截至2026-11-02，依据本次公开网页与期刊原始摘要检索，在2024年以来选定核心及方向扩展期刊的已核验电网文献中，未检索到同时满足“电网应用”和“从已训练模型定向撤回数据/客户端/概念影响”的直接论文。不是断言不存在。电网机器遗忘已经存在于IEEE电力专业期刊与会议，不能声称首次把unlearning用于电网。Nature Communications与Nature Machine Intelligence已有非电网遗忘论文，可作方法与评价参照。",
+  "limitations": [
+    "非Web of Science/Scopus全量导出；网页搜索索引及同义词覆盖有限，未检索到不等于不存在。",
+    "订阅论文主要核验公开摘要，不能据摘要排除正文某一附带环节；所有逐篇结论保留为未见直接相关。",
+    "部分官网直连有cookie重定向或403；Nature公开页面使用cookies_not_supported参数读取，未绕过订阅付费墙。",
+    "Array原始摘要可由出版商搜索索引读取，但精确online-first日期未核验，记录期刊年并保留空日期。",
+    "英文标题为原题；中文摘要是忠实概述，不是出版商摘要全文或逐字翻译。",
+    "两篇Joule AI邻近论文另外核对了作者arXiv全文版本；出版社最终版全文与全部补充材料不在该项全文审查范围。"
+  ],
+  "near_miss_detail": [
+    {
+      "title": "Foundation models for the electric power grid",
+      "journal": "Joule",
+      "doi": "10.1016/j.joule.2024.11.002",
+      "url": "https://www.sciencedirect.com/science/article/pii/S2542435124004707",
+      "classification": "邻近但非遗忘：GridFM、隐私保护与持续学习",
+      "checked_version": "作者公开全文 arXiv:2407.09434v2（2024-11-12）；结合出版商摘要/元数据核对身份",
+      "checked_fulltext_url": "https://arxiv.org/html/2407.09434v2",
+      "keyword_checks": {
+        "unlearn": "全文HTML未匹配",
+        "forget": "全文HTML未匹配",
+        "delet": "全文HTML未匹配",
+        "eras": "全文HTML未匹配"
+      },
+      "content_evidence_zh": "文章提出电网基础模型路线，讨论电网拓扑与PMU、SCADA、AMI等多源数据。数据可访问性部分涉及联邦学习、差分隐私等隐私保护以及应对演变数据的持续学习；这些内容未定义待撤回训练集、客户端或概念，也未提供从已训练模型消除其历史影响的目标或算法。",
+      "relevant_sections": [
+        "3.1 基础模型生命周期",
+        "3.3 挑战中的 Data accessibility、Trust 与 Malicious use"
+      ],
+      "evidence_level": "作者全文版本+出版商摘要/元数据；非出版社最终全文逐字核对",
+      "limitations": "无词干匹配本身不能证明不存在同义表述；已结合相关正文语义判定。未声称覆盖出版社最终版或全部补充材料。",
+      "source_urls": [
+        "https://arxiv.org/abs/2407.09434",
+        "https://arxiv.org/html/2407.09434v2",
+        "https://www.sciencedirect.com/science/article/pii/S2542435124004707",
+        "https://research.ibm.com/publications/foundation-models-for-the-electric-power-grid"
+      ]
+    },
+    {
+      "title": "Exploring the capabilities and limitations of large language models in the electric energy sector",
+      "journal": "Joule",
+      "doi": "10.1016/j.joule.2024.05.009",
+      "url": "https://www.sciencedirect.com/science/article/pii/S254243512400237X",
+      "classification": "邻近但非遗忘：LLM能力、RAG、工具调用与训练前隐私处理",
+      "checked_version": "作者公开全文 arXiv:2403.09125v5（2024-06-20），页面明确关联该Joule DOI",
+      "checked_fulltext_url": "https://arxiv.org/html/2403.09125v5",
+      "keyword_checks": {
+        "unlearn": "全文HTML未匹配",
+        "forget": "全文HTML未匹配",
+        "delet": "全文HTML未匹配",
+        "eras": "全文HTML未匹配"
+      },
+      "content_evidence_zh": "文章分析LLM在电力任务中的参数内学习、提示学习、RAG、多模态与工具调用。隐私部分提出训练前匿名化和清理个人信息，属于数据预处理；未提出删除既有训练影响的算法。未来方向是领域数据整理、工具嵌入和检索知识库，不能据此归为概念撤回或机器遗忘。",
+      "relevant_sections": [
+        "2.1 In-weight Learning",
+        "2.2 In-context Learning",
+        "3.4 Cybersecurity and Privacy Threats",
+        "4 Future Prospects"
+      ],
+      "evidence_level": "作者接受稿全文版本+出版商摘要/元数据；非出版社最终全文逐字核对",
+      "limitations": "核对作者v5正文HTML及语义，未核对文中SI.1–8完整补充实验，也未声称覆盖出版社最终排版全文。",
+      "source_urls": [
+        "https://arxiv.org/abs/2403.09125",
+        "https://arxiv.org/html/2403.09125v5",
+        "https://www.sciencedirect.com/science/article/pii/S254243512400237X"
+      ]
+    }
+  ]
+}

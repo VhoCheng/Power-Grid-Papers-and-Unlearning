@@ -1,0 +1,41 @@
+{
+  "unlearning": [
+    {
+      "title": "Learning and Unlearning to Operate Profitable Secure Electric Vehicle Charging",
+      "journal": "IEEE Transactions on Industrial Informatics",
+      "year": 2024,
+      "doi": "10.1109/TII.2024.3396524",
+      "url": "https://ieeexplore.ieee.org/document/10541863",
+      "article_type": "Article",
+      "status": "作者实验室页面确认题目与刊期；IEEE页面机器人验证，未直接核验原始摘要与在线日期。仅留作补查线索，不用于严格核验文献数。",
+      "source_urls": [
+        "https://sites.google.com/view/epssg/publications",
+        "https://ieeexplore.ieee.org/document/10541863"
+      ]
+    }
+  ],
+  "publication_date": [
+    {
+      "title": "System impacts of wind energy developments: Key research challenges and opportunities",
+      "journal": "Joule",
+      "year": 2025,
+      "date": "2025-01-15",
+      "doi": "10.1016/j.joule.2024.11.016",
+      "url": "https://doi.org/10.1016/j.joule.2024.11.016",
+      "abstract_zh": "综述风电扩张与技术、经济、社会及自然环境之间的系统联系，整理主要障碍、已有解决方案和研究空白。电网与市场整合已具备多种技术手段，但高渗透率并网、规划许可、景观影响和叶片回收等仍需进一步解决。论文为风电大规模接入和跨领域研究提供问题框架。",
+      "relevance": "系统级相关",
+      "topic": "风电系统综述",
+      "article_type": "Review",
+      "unlearning_class": "未见直接相关",
+      "unlearning_reason": "题目及可获取摘要研究电力系统问题，未见删除指定训练数据、客户端或知识/概念影响的目标与验证；未完成所有付费全文筛查。",
+      "evidence_level": "作者机构存档完整摘要与期刊PDF卷期日期核验",
+      "source_urls": [
+        "https://discovery.ucl.ac.uk/id/eprint/10205338/",
+        "https://doi.org/10.1016/j.joule.2024.11.016",
+        "https://juser.fz-juelich.de/record/1040847/files/1-s2.0-S2542435124005130-main.pdf"
+      ],
+      "year_issue": 2025,
+      "date_basis": "卷期日期；可能存在2024年在线首发，待核验"
+    }
+  ]
+}
